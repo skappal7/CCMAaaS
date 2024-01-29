@@ -70,17 +70,21 @@ st.sidebar.text(f'Model Accuracy: **{accuracy*100:.0f}%**')
 st.title("Select Variables")
 
 # Sliders for user input
-aht = st.slider("Average Handling Time (AHT)", min_value=data['AHT (min)'].min(), max_value=data['AHT (min)'].max())
-ntt = st.slider("Non-Talk Time (NTT)", min_value=data['NTT (min)'].min(), max_value=data['NTT (min)'].max())
-cross_talk = st.slider("Cross Talk (%)", min_value=data['Cross Talk (%)'].min(), max_value=data['Cross Talk (%)'].max())
-csat = st.slider("CSAT (%)", min_value=data['CSAT (%)'].min(), max_value=data['CSAT (%)'].max())
-sentiment = st.slider("Sentiment Score", min_value=data['Sentiment Score'].min(), max_value=data['Sentiment Score'].max())
-nps = st.slider("NPS Score", min_value=data['NPS Score'].min(), max_value=data['NPS Score'].max())
-fcr = st.slider("FCR (%)", min_value=data['FCR (%)'].min(), max_value=data['FCR (%)'].max())
-asa = st.slider("Avg Speed of Answer (sec)", min_value=data['Avg Speed of Answer (sec)'].min(), max_value=data['Avg Speed of Answer (sec)'].max())
-abandonment_rate = st.slider("Abandonment Rate (%)", min_value=data['Abandonment Rate (%)'].min(), max_value=data['Abandonment Rate (%)'].max())
-medallia_survey_result = st.selectbox("Medallia Survey Result", ['Satisfied', 'Neutral', 'Dissatisfied'])
-industry = st.selectbox("Industry", ['Healthcare', 'Banking', 'Utilities', 'Sales', 'Tech Support'])
+aht = st.slider("Average Handling Time (AHT)", min_value=0, max_value=data['AHT (min)'].max(), value=0)
+ntt = st.slider("Non-Talk Time (NTT)", min_value=0, max_value=data['NTT (min)'].max(), value=0)
+cross_talk = st.slider("Cross Talk (%)", min_value=0, max_value=data['Cross Talk (%)'].max(), value=0)
+csat = st.slider("CSAT (%)", min_value=0, max_value=data['CSAT (%)'].max(), value=0)
+sentiment = st.slider("Sentiment Score", min_value=1, max_value=10, value=5)
+nps = st.slider("NPS Score", min_value=0, max_value=data['NPS Score'].max(), value=0)
+fcr = st.slider("FCR (%)", min_value=0, max_value=data['FCR (%)'].max(), value=0)
+asa = st.slider("Avg Speed of Answer (sec)", min_value=0, max_value=data['Avg Speed of Answer (sec)'].max(), value=0)
+abandonment_rate = st.slider("Abandonment Rate (%)", min_value=0, max_value=data['Abandonment Rate (%)'].max(), value=0)
+
+# Dropdown for Medallia Survey Result and Industry
+with st.sidebar:
+    st.title("Select Dropdowns")
+    medallia_survey_result = st.selectbox("Medallia Survey Result", ['Satisfied', 'Neutral', 'Dissatisfied'], help="Satisfied: 0, Neutral: 1, Dissatisfied: 2")
+    industry = st.selectbox("Industry", ['Healthcare', 'Banking', 'Utilities', 'Sales', 'Tech Support'], help="Healthcare: 0, Banking: 1, Utilities: 2, Sales: 3, Tech Support: 4")
 
 # Convert user input to DataFrame
 input_data = pd.DataFrame({
@@ -99,7 +103,7 @@ input_data = pd.DataFrame({
 
 # Predict Maturity Level
 predicted_maturity_level = loaded_model.predict(input_data)[0]
-st.write(f"Predicted Maturity Level: {predicted_maturity_level}")
+st.write(f"**Predicted Maturity Level:** {predicted_maturity_level}")
 
 # Display Probability Distribution with Maturity Levels
 st.title("Probability Distribution of Maturity Levels")
@@ -130,14 +134,6 @@ industry_labels = {
     4: "Tech Support"
 }
 
-# Instructions section
-st.sidebar.title("Instructions:")
-st.sidebar.markdown("- Adjust the sliders to set your performance on key KPIs.")
-st.sidebar.markdown("- Select your survey result and industry from the dropdown menus.")
-st.sidebar.markdown("- The model will predict your Maturity Level based on the input variables.")
-st.sidebar.markdown("- Model accuracy is displayed on the left.")
-st.sidebar.markdown("- The graph shows the probability distribution for each Maturity Level.")
-
 # Display Survey Result Labels
 st.sidebar.title("Medallia Survey Result Labels:")
 for key, value in medallia_labels.items():
@@ -147,5 +143,6 @@ for key, value in medallia_labels.items():
 st.sidebar.title("Industry Labels:")
 for key, value in industry_labels.items():
     st.sidebar.text(f"{key}: {value}")
+
 
 
