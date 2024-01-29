@@ -101,6 +101,17 @@ input_data = pd.DataFrame({
 predicted_maturity_level = loaded_model.predict(input_data)[0]
 st.write(f"Predicted Maturity Level: {predicted_maturity_level}")
 
+# Display Probability Distribution with Maturity Levels
+st.title("Probability Distribution of Maturity Levels")
+probabilities = loaded_model.predict_proba(input_data)[0]
+maturity_levels = loaded_model.classes_
+fig, ax = plt.subplots()
+sns.barplot(x=maturity_levels, y=probabilities, ax=ax)
+ax.set(title='Maturity Level Probabilities', xlabel='Maturity Level', ylabel='Probability')
+for i, value in enumerate(probabilities):
+    ax.text(i, value + 0.01, f'{maturity_levels[i]}: {value:.2f}', ha='center', va='bottom')
+st.pyplot(fig)
+
 # Define Survey Result Labels
 medallia_labels = {
     0: "Satisfied",
@@ -134,4 +145,3 @@ for key, value in medallia_labels.items():
 st.sidebar.title("Industry Labels:")
 for key, value in industry_labels.items():
     st.sidebar.text(f"{key}: {value}")
-
