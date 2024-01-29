@@ -65,9 +65,17 @@ accuracy = accuracy_score(y_test, y_pred)
 # Streamlit App
 st.title("Analytics Maturity Level Prediction")
 
+# Instructions section
+st.sidebar.header("Instructions:")
+st.sidebar.markdown("- Adjust the sliders to set your performance on key KPIs.")
+st.sidebar.markdown("- Select your survey result and industry from the dropdown menus.")
+st.sidebar.markdown("- The model will predict your Maturity Level based on the input variables.")
+st.sidebar.markdown("- Model accuracy is displayed on the left.")
+st.sidebar.markdown("- The graph shows the probability distribution for each Maturity Level.")
+
 # Model Accuracy in percentage with bold and large size
-st.sidebar.text(f'Model Accuracy: **{accuracy*100:.0f}%**')
-st.title("Select Variables")
+st.text(f'Model Accuracy: **{accuracy*100:.0f}%**')
+st.header("Select Variables")
 
 # Sliders for user input
 aht = st.slider("Average Handling Time (AHT)", min_value=0, max_value=int(data['AHT (min)'].max()), value=0)
@@ -81,10 +89,8 @@ asa = st.slider("Avg Speed of Answer (sec)", min_value=0, max_value=int(data['Av
 abandonment_rate = st.slider("Abandonment Rate (%)", min_value=0, max_value=int(data['Abandonment Rate (%)'].max()), value=0)
 
 # Dropdown for Medallia Survey Result and Industry
-with st.sidebar:
-    st.title("Select Dropdowns")
-    medallia_survey_result = st.selectbox("Medallia Survey Result", ['Satisfied', 'Neutral', 'Dissatisfied'], help="Satisfied: 0, Neutral: 1, Dissatisfied: 2")
-    industry = st.selectbox("Industry", ['Healthcare', 'Banking', 'Utilities', 'Sales', 'Tech Support'], help="Healthcare: 0, Banking: 1, Utilities: 2, Sales: 3, Tech Support: 4")
+medallia_survey_result = st.sidebar.selectbox("Medallia Survey Result", ['Satisfied', 'Neutral', 'Dissatisfied'], help="Satisfied: 0, Neutral: 1, Dissatisfied: 2")
+industry = st.sidebar.selectbox("Industry", ['Healthcare', 'Banking', 'Utilities', 'Sales', 'Tech Support'], help="Healthcare: 0, Banking: 1, Utilities: 2, Sales: 3, Tech Support: 4")
 
 # Convert user input to DataFrame
 input_data = pd.DataFrame({
@@ -114,35 +120,14 @@ sns.barplot(x=maturity_levels, y=probabilities, ax=ax)
 ax.set(title='Maturity Level Probabilities', xlabel='Maturity Level', ylabel='Probability')
 ax.tick_params(axis='x', rotation=45)
 ax.tick_params(axis='y', labelsize=8)
+ax.spines['top'].set_visible(False)
+ax.spines['right'].set_visible(False)
+ax.spines['bottom'].set_visible(False)
+ax.spines['left'].set_visible(False)
 for i, value in enumerate(probabilities):
     ax.text(i, value + 0.01, f'{value:.2%}', ha='center', va='bottom')
 st.pyplot(fig)
 
-# Define Survey Result Labels
-medallia_labels = {
-    0: "Satisfied",
-    1: "Neutral",
-    2: "Dissatisfied"
-}
-
-# Define Industry Labels
-industry_labels = {
-    0: "Healthcare",
-    1: "Banking",
-    2: "Utilities",
-    3: "Sales",
-    4: "Tech Support"
-}
-
-# Display Survey Result Labels
-st.sidebar.title("Medallia Survey Result Labels:")
-for key, value in medallia_labels.items():
-    st.sidebar.text(f"{key}: {value}")
-
-# Display Industry Labels
-st.sidebar.title("Industry Labels:")
-for key, value in industry_labels.items():
-    st.sidebar.text(f"{key}: {value}")
 
 
 
