@@ -1,0 +1,2001 @@
+AHT (min),NTT (min),Cross Talk (%),CSAT (%),Sentiment Score,NPS Score,FCR (%),Avg Speed of Answer (sec),Abandonment Rate (%),Medallia Survey Result,Industry,Maturity Level
+6.4,2.1,7,87,4.2,8,87,23,5,Satisfied,Telco,Mid Maturity
+7.8,2.1,5,86,4.6,7,89,31,4,Satisfied,Utilities,Low Maturity
+6.4,2.3,8,86,4.4,6,86,23,4,Satisfied,Banking,Mid Maturity
+6.4,2.6,11,80,4.7,7,87,33,3,Satisfied,Tech Support,Low Maturity
+7.9,3,11,83,3.8,6,86,33,5,Satisfied,Utilities,Low Maturity
+7,2.1,9,85,4.5,9,92,27,5,Very Satisfied,Banking,Mid Maturity
+8,2.5,7,83,4.2,6,87,29,3,Satisfied,Banking,Low Maturity
+6.3,3,5,89,4,7,86,32,3,Satisfied,Tech Support,Low Maturity
+6.2,3,11,84,4.7,6,86,28,5,Neutral,Banking,Low Maturity
+7.6,3,11,80,4.6,6,86,23,3,Very Satisfied,Banking,Nascent
+6.3,3,10,85,4.1,7,92,28,3,Satisfied,Telco,Mid Maturity
+6.2,2.9,11,86,4.2,7,87,33,6,Neutral,Healthcare,Low Maturity
+6.9,3,5,89,3.8,9,86,31,4,Neutral,Utilities,Mid Maturity
+6.3,3,11,80,4.7,9,86,29,4,Neutral,Healthcare,Nascent
+7.1,3,6,81,4.6,8,88,23,4,Satisfied,Sales,Mid Maturity
+6.2,3,11,89,4,6,86,27,4,Satisfied,Utilities,Mid Maturity
+7.7,2.9,11,83,4.4,9,86,33,4,Satisfied,Telco,Low Maturity
+7.7,2.2,11,82,3.7,9,86,23,3,Neutral,Telco,Mid Maturity
+6.5,2.8,6,86,3.8,9,92,30,4,Neutral,Banking,Mid Maturity
+6.3,3,5,89,4.6,7,92,25,3,Neutral,Utilities,Mid Maturity
+7.8,2.5,6,84,3.7,6,86,25,5,Satisfied,Tech Support,Low Maturity
+7.9,2.8,5,86,3.7,6,86,23,4,Very Satisfied,Utilities,Mid Maturity
+6.4,2.3,5,90,4,6,86,29,5,Very Satisfied,Tech Support,Low Maturity
+6.6,2.6,5,86,3.8,8,92,25,3,Neutral,Banking,Mid Maturity
+8,2.1,11,88,4.3,6,92,26,5,Satisfied,Banking,Mid Maturity
+7.9,2.8,5,89,4.7,9,88,27,4,Satisfied,Sales,Mid Maturity
+6.4,2.4,11,87,4.7,8,86,33,3,Satisfied,Banking,Low Maturity
+7.8,2.2,11,88,3.8,8,92,32,3,Neutral,Utilities,Low Maturity
+7.9,3,9,88,4.2,7,86,28,4,Very Satisfied,Telco,Mid Maturity
+7.1,3,8,89,4.7,8,86,32,4,Satisfied,Telco,Low Maturity
+7.4,3,11,82,4.7,6,86,24,4,Very Satisfied,Telco,Low Maturity
+7.9,2.9,11,90,4.6,8,92,28,5,Neutral,Utilities,Mid Maturity
+7.8,3,6,90,4.3,8,92,23,6,Satisfied,Sales,Mid Maturity
+6.7,3,11,89,4.6,7,87,23,4,Neutral,Healthcare,Mid Maturity
+6.3,2.2,5,89,3.8,8,86,23,3,Neutral,Healthcare,Mid Maturity
+7,2.1,6,89,3.9,6,92,23,4,Neutral,Utilities,Mid Maturity
+7,2.9,9,86,4.7,6,92,27,3,Very Satisfied,Utilities,Mid Maturity
+7.8,3,11,85,4.6,6,92,29,5,Satisfied,Tech Support,Low Maturity
+6.2,3,11,90,4.7,6,91,23,4,Satisfied,Tech Support,Mid Maturity
+6.5,2.1,11,89,4.3,7,86,25,5,Satisfied,Sales,Mid Maturity
+7.5,2.2,6,84,3.8,6,92,33,3,Satisfied,Utilities,Low Maturity
+7.6,2.8,5,89,4.6,6,92,24,4,Very Satisfied,Sales,Mid Maturity
+6.8,2.1,11,90,4.3,6,87,23,5,Neutral,Sales,Mid Maturity
+8,3,9,89,4.2,6,86,25,4,Neutral,Utilities,Mid Maturity
+6.3,2.1,7,89,4.7,7,88,23,3,Satisfied,Healthcare,Mid Maturity
+6.5,3,5,82,3.7,8,86,23,4,Very Satisfied,Telco,Mid Maturity
+7.9,2.1,5,90,4.6,8,86,26,3,Neutral,Utilities,Mid Maturity
+6.7,2.2,7,85,4,9,86,33,6,Neutral,Tech Support,Mid Maturity
+6.5,3,11,80,4.2,7,90,33,4,Neutral,Telco,Low Maturity
+6.2,3,11,89,4.1,8,92,24,3,Satisfied,Utilities,Mid Maturity
+6.6,3,5,88,4.7,6,89,31,4,Satisfied,Tech Support,Low Maturity
+7.5,3,5,82,3.7,7,91,27,5,Satisfied,Tech Support,Mid Maturity
+6.2,3,11,84,4.1,6,86,31,5,Satisfied,Utilities,Low Maturity
+7.9,3,11,80,4.1,6,86,23,5,Neutral,Banking,Nascent
+6.7,2.8,8,85,3.8,8,92,32,5,Neutral,Healthcare,Low Maturity
+7.9,2.5,5,89,3.8,6,91,23,4,Very Satisfied,Telco,Mid Maturity
+8,3,11,89,3.9,6,91,33,3,Satisfied,Healthcare,Nascent
+7.9,2.4,11,89,3.7,6,86,24,4,Satisfied,Healthcare,Mid Maturity
+6.7,2.2,11,83,4.6,8,86,25,3,Very Satisfied,Healthcare,Mid Maturity
+7.3,2.2,8,82,4.1,9,86,23,4,Neutral,Banking,Mid Maturity
+7.8,2.1,11,89,3.8,7,86,33,3,Satisfied,Healthcare,Low Maturity
+7.4,2.2,11,80,3.7,6,87,23,4,Neutral,Telco,Mid Maturity
+6.5,2.6,7,88,3.7,6,86,23,4,Very Satisfied,Tech Support,Mid Maturity
+7.9,2.2,11,89,4.7,7,87,23,4,Very Satisfied,Banking,Mid Maturity
+7.9,2.9,7,89,4.4,8,88,25,4,Satisfied,Tech Support,Mid Maturity
+6.3,2.4,7,84,3.7,9,92,33,3,Satisfied,Banking,Low Maturity
+7,2.4,9,84,4,7,86,23,3,Satisfied,Utilities,Mid Maturity
+8,2.4,6,90,3.8,6,86,33,4,Satisfied,Healthcare,Low Maturity
+6.5,2.1,11,82,3.9,7,92,25,4,Satisfied,Sales,Mid Maturity
+7.9,2.1,5,90,4.6,6,89,26,5,Satisfied,Tech Support,Mid Maturity
+7.9,2.1,5,90,3.8,6,92,28,5,Neutral,Sales,Mid Maturity
+7.9,2.9,5,83,3.8,9,88,23,3,Satisfied,Tech Support,Mid Maturity
+7.9,2.5,5,90,4.4,6,92,24,5,Neutral,Telco,Mid Maturity
+6.8,3,5,89,4.5,6,92,23,5,Very Satisfied,Healthcare,Mid Maturity
+6.3,2.6,11,90,3.7,6,86,29,3,Satisfied,Telco,Low Maturity
+6.6,2.1,11,90,4.4,6,89,33,3,Very Satisfied,Sales,Low Maturity
+7.8,2.8,11,90,4.6,6,88,31,5,Neutral,Sales,Low Maturity
+7.1,2.4,7,81,3.7,8,92,23,4,Neutral,Sales,Mid Maturity
+7.9,2.4,5,90,4.4,9,92,29,4,Satisfied,Telco,High Maturity
+6.5,3,5,86,3.8,6,89,27,6,Satisfied,Tech Support,Mid Maturity
+7.4,2.4,11,86,3.8,6,90,28,5,Neutral,Utilities,Mid Maturity
+7.9,2.2,7,83,4.7,6,90,33,4,Satisfied,Tech Support,Low Maturity
+6.3,3,7,89,3.7,6,86,23,6,Neutral,Telco,Mid Maturity
+7,2.1,7,89,4,9,86,29,3,Neutral,Banking,Mid Maturity
+8,2.1,5,83,3.7,6,92,25,3,Satisfied,Healthcare,Low Maturity
+6.2,2.1,7,88,3.8,6,92,29,4,Neutral,Healthcare,Low Maturity
+7.8,3,10,88,4.6,6,86,26,4,Satisfied,Utilities,Mid Maturity
+6.3,2.9,5,89,4.6,6,86,28,3,Satisfied,Banking,Mid Maturity
+7.2,3,6,82,4.5,6,92,33,3,Neutral,Tech Support,Low Maturity
+7.9,3,5,80,3.7,6,86,33,6,Neutral,Sales,Nascent
+7.1,3,11,85,4.1,6,86,24,4,Satisfied,Banking,Mid Maturity
+7.9,3,5,80,3.9,7,86,29,3,Neutral,Healthcare,Nascent
+6.7,2.6,5,89,4.4,6,86,33,4,Satisfied,Sales,Low Maturity
+7.3,2.9,5,89,3.8,6,86,23,5,Very Satisfied,Banking,Mid Maturity
+6.3,2.6,5,84,3.7,6,86,29,5,Satisfied,Telco,Low Maturity
+6.3,2.1,5,86,4.2,6,88,24,3,Neutral,Healthcare,Mid Maturity
+7.4,2.3,6,80,4.7,6,88,33,5,Satisfied,Utilities,Low Maturity
+8,2.1,11,84,4.7,7,86,23,5,Satisfied,Banking,Mid Maturity
+7.9,3,9,89,4,7,86,23,3,Neutral,Banking,Mid Maturity
+6.2,3,5,80,3.7,6,86,29,4,Neutral,Tech Support,Nascent
+7,2.6,11,89,3.8,6,86,28,3,Satisfied,Utilities,Mid Maturity
+6.9,2.8,11,83,4.1,7,89,26,5,Satisfied,Utilities,Mid Maturity
+6.5,3,7,85,4.6,7,86,24,3,Satisfied,Banking,Mid Maturity
+7.8,2.1,8,82,4.4,6,87,26,3,Neutral,Sales,Low Maturity
+8,2.3,5,90,4.3,8,90,26,4,Very Satisfied,Sales,Mid Maturity
+7.2,2.2,5,82,4.5,6,87,29,4,Neutral,Sales,Low Maturity
+7.3,2.8,5,89,3.7,7,92,26,3,Neutral,Banking,Mid Maturity
+7.6,2.1,11,89,4.3,7,86,32,3,Satisfied,Tech Support,Low Maturity
+6.2,3,11,90,3.7,6,88,30,5,Very Satisfied,Healthcare,Low Maturity
+6.5,2.3,5,87,4,7,86,23,4,Satisfied,Sales,Mid Maturity
+6.4,3,11,90,3.8,7,86,33,5,Satisfied,Utilities,Low Maturity
+7.5,3,11,89,4.7,7,86,28,3,Very Satisfied,Tech Support,Mid Maturity
+8,2.7,5,90,3.7,6,86,26,4,Satisfied,Sales,Mid Maturity
+7,3,5,82,3.8,7,92,23,5,Satisfied,Telco,Mid Maturity
+6.4,2.6,5,88,4.4,8,89,23,6,Satisfied,Sales,Mid Maturity
+7.1,2.3,11,85,4.3,8,86,24,5,Satisfied,Banking,Mid Maturity
+7.9,3,5,90,3.7,7,86,23,4,Satisfied,Healthcare,Mid Maturity
+7.1,2.3,11,84,4.1,7,91,25,3,Satisfied,Banking,Mid Maturity
+6.2,2.3,5,80,4.6,6,89,27,4,Neutral,Utilities,Mid Maturity
+7.8,2.4,10,86,3.8,6,92,23,3,Neutral,Banking,Mid Maturity
+7.8,2.8,11,84,4.4,6,87,32,4,Neutral,Telco,Low Maturity
+7.7,2.7,11,90,4.6,8,92,26,3,Satisfied,Utilities,Mid Maturity
+8,2.7,9,84,4.1,7,86,23,4,Satisfied,Banking,Mid Maturity
+7.9,2.7,11,80,4.6,6,88,33,3,Satisfied,Banking,Low Maturity
+8,2.3,11,90,3.7,9,86,33,3,Satisfied,Utilities,High Maturity
+6.4,3,11,88,4.6,6,89,33,3,Satisfied,Telco,Low Maturity
+7.9,2.6,5,89,4.6,8,86,27,3,Neutral,Banking,Mid Maturity
+7.6,2.2,9,80,4.6,9,92,23,5,Satisfied,Sales,Mid Maturity
+7.7,3,7,83,4.6,6,86,23,3,Satisfied,Healthcare,Low Maturity
+6.3,2.9,7,89,4.5,9,92,28,3,Satisfied,Telco,Mid Maturity
+7.9,3,9,88,3.7,6,88,24,5,Very Satisfied,Banking,Mid Maturity
+7.7,3,11,90,3.7,6,86,23,3,Neutral,Banking,Mid Maturity
+7.7,2.5,9,89,4.6,6,88,31,3,Satisfied,Banking,Low Maturity
+6.6,3,5,91,4.6,6,87,23,3,Satisfied,Banking,Mid Maturity
+8,2.9,10,86,4,8,86,28,3,Satisfied,Banking,Nascent
+7.3,3,5,86,4.6,6,86,29,5,Very Satisfied,Tech Support,Low Maturity
+8,3,11,90,4,7,92,23,4,Satisfied,Tech Support,Nascent
+6.4,2.9,11,89,4,8,89,24,4,Satisfied,Tech Support,Mid Maturity
+7.2,3,8,89,3.8,6,92,23,3,Satisfied,Banking,Mid Maturity
+7,2.2,11,86,4.7,8,92,33,4,Neutral,Banking,Low Maturity
+7.1,2.7,7,90,4.7,6,86,33,4,Satisfied,Banking,Low Maturity
+7.3,2.2,11,90,3.8,6,92,33,4,Not Satisfied,Utilities,Low Maturity
+6.7,2.3,7,84,4.4,6,86,26,4,Not Satisfied,Telco,Mid Maturity
+7.4,3,9,87,4.2,6,86,29,3,Neutral,Utilities,Low Maturity
+6.3,2.3,11,88,3.7,6,86,32,4,Satisfied,Healthcare,Low Maturity
+6.3,3,5,86,4.2,6,91,26,3,Satisfied,Utilities,Mid Maturity
+6.4,3,11,86,4.6,9,88,31,3,Satisfied,Banking,Mid Maturity
+7.9,3,5,88,4.7,6,90,26,3,Neutral,Healthcare,Mid Maturity
+7,2.5,5,91,3.8,6,92,29,4,Neutral,Tech Support,Low Maturity
+6.2,2.8,5,85,3.7,6,87,23,5,Satisfied,Utilities,Mid Maturity
+8,3,5,90,4.5,6,92,23,4,Satisfied,Banking,Mid Maturity
+6.3,3,11,80,4.6,6,92,23,3,Very Satisfied,Tech Support,Mid Maturity
+7.9,3,8,89,4.7,8,92,33,4,Neutral,Utilities,Low Maturity
+6.6,2.5,6,81,3.8,8,92,28,4,Satisfied,Banking,Mid Maturity
+6.3,2.1,7,83,3.8,6,92,26,4,Neutral,Tech Support,Low Maturity
+7.4,3,11,89,4.6,6,92,32,6,Satisfied,Healthcare,Low Maturity
+6.3,2.6,7,89,4.3,6,92,33,5,Satisfied,Sales,Low Maturity
+7.9,2.7,8,89,4.6,6,92,23,4,Neutral,Utilities,Mid Maturity
+6.3,2.9,11,85,3.9,6,92,27,3,Neutral,Utilities,Mid Maturity
+8,3,5,86,4.6,8,86,33,3,Neutral,Healthcare,Low Maturity
+6.5,3,11,88,3.8,6,86,32,4,Satisfied,Utilities,Low Maturity
+7.3,2.3,7,84,4,7,92,25,4,Very Satisfied,Sales,Mid Maturity
+6.4,2.4,11,85,4.6,8,91,23,6,Satisfied,Utilities,Mid Maturity
+6.4,2.6,5,87,4.6,6,92,27,5,Satisfied,Telco,Mid Maturity
+7.9,2.2,10,86,3.8,7,92,25,6,Very Satisfied,Sales,Mid Maturity
+6.4,3,5,86,4.6,7,92,33,6,Very Satisfied,Sales,Low Maturity
+6.3,2.3,5,80,3.8,6,86,33,3,Neutral,Telco,Nascent
+6.9,2.3,6,80,4.5,6,92,23,5,Satisfied,Telco,Mid Maturity
+6.8,3,5,88,4.3,8,86,33,4,Satisfied,Utilities,Low Maturity
+7.2,2.4,5,90,4.5,6,92,33,4,Neutral,Sales,Low Maturity
+6.7,3,5,83,4.5,6,86,24,4,Neutral,Healthcare,Low Maturity
+7.3,2.4,9,85,3.8,6,86,31,5,Very Satisfied,Utilities,Low Maturity
+7.3,2.7,5,87,3.7,6,92,29,4,Satisfied,Tech Support,Low Maturity
+7.9,3,9,88,3.8,7,88,23,4,Very Satisfied,Telco,Mid Maturity
+7.9,3,10,89,3.9,7,86,23,4,Satisfied,Utilities,Mid Maturity
+6.4,2.9,5,89,4.7,6,86,24,4,Very Satisfied,Healthcare,Mid Maturity
+6.3,2.7,11,80,4.5,6,86,33,3,Very Satisfied,Tech Support,Nascent
+7.9,2.9,11,84,3.8,6,92,27,5,Neutral,Telco,Low Maturity
+7.8,2.5,5,85,4.4,7,86,28,4,Very Satisfied,Banking,Mid Maturity
+6.3,2.5,11,82,3.9,6,90,23,3,Satisfied,Utilities,Low Maturity
+6.3,2.2,8,86,4,7,92,28,3,Very Satisfied,Utilities,Mid Maturity
+8,2.5,7,82,3.8,9,86,27,5,Satisfied,Tech Support,Mid Maturity
+6.4,2.1,11,89,3.8,6,90,24,5,Very Satisfied,Healthcare,Mid Maturity
+7.9,2.1,7,85,4.5,6,92,23,4,Very Satisfied,Utilities,Mid Maturity
+6.7,2.5,5,83,3.8,6,86,29,4,Very Satisfied,Tech Support,Low Maturity
+7.5,2.6,11,89,4.7,6,90,28,4,Neutral,Banking,Mid Maturity
+7.9,2.3,11,90,4.2,7,88,25,3,Neutral,Sales,Mid Maturity
+8,2.5,8,80,4.7,8,91,23,3,Satisfied,Telco,Mid Maturity
+7.1,2.5,5,90,3.7,6,87,29,4,Neutral,Banking,Low Maturity
+7.9,2.1,5,87,4.5,6,92,26,4,Satisfied,Telco,Mid Maturity
+7.9,3,11,85,4.5,9,92,33,4,Very Satisfied,Sales,Mid Maturity
+6.4,2.3,11,85,3.7,9,86,26,3,Satisfied,Utilities,Mid Maturity
+7.8,2.9,9,90,4.6,6,91,24,6,Satisfied,Tech Support,Mid Maturity
+7.8,3,5,83,4.7,6,86,23,4,Satisfied,Healthcare,Low Maturity
+8,2.1,11,83,3.8,6,87,23,3,Not Satisfied,Banking,Mid Maturity
+6.7,2.6,5,80,3.7,6,87,28,3,Neutral,Sales,Mid Maturity
+7.8,2.1,11,86,3.8,6,92,25,5,Neutral,Sales,Mid Maturity
+6.4,2.6,10,85,4.7,6,86,33,3,Very Satisfied,Telco,Low Maturity
+6.2,2.9,11,90,4.4,9,89,30,5,Satisfied,Sales,High Maturity
+6.5,2.1,5,86,3.7,6,86,23,5,Satisfied,Tech Support,Mid Maturity
+6.7,2.6,5,86,4.4,8,92,33,4,Satisfied,Telco,Low Maturity
+8,3,5,82,3.8,8,89,27,3,Neutral,Utilities,Mid Maturity
+7.9,3,6,80,4.6,6,86,23,5,Very Satisfied,Healthcare,Nascent
+6.4,2.8,5,86,3.7,6,86,28,4,Satisfied,Sales,Mid Maturity
+7.5,3,10,86,4.5,6,92,27,3,Very Satisfied,Utilities,Mid Maturity
+6.2,3,11,84,3.8,9,87,24,3,Satisfied,Telco,Mid Maturity
+6.2,3,8,83,4.7,6,86,26,3,Not Satisfied,Utilities,Mid Maturity
+7.8,2.3,7,86,3.8,6,86,33,3,Satisfied,Banking,Low Maturity
+6.2,2.1,6,88,4.3,7,86,33,5,Neutral,Telco,Low Maturity
+6.2,2.1,8,81,4.7,6,86,27,4,Satisfied,Utilities,Mid Maturity
+8,2.4,11,90,4,6,86,29,3,Not Satisfied,Telco,Low Maturity
+6.5,3,11,89,4.2,6,92,26,3,Satisfied,Telco,Mid Maturity
+8,3,11,90,3.8,6,86,33,6,Satisfied,Banking,Nascent
+6.5,3,11,89,3.7,6,90,23,3,Neutral,Sales,Mid Maturity
+6.4,2.8,5,88,3.7,6,90,29,6,Satisfied,Utilities,Low Maturity
+8,3,9,88,4.7,6,92,27,4,Satisfied,Banking,Mid Maturity
+7.9,3,11,89,4.4,8,92,30,3,Satisfied,Tech Support,Low Maturity
+7.9,2.2,9,85,4.7,7,86,23,4,Neutral,Banking,Mid Maturity
+7.2,3,7,90,4.2,6,86,33,3,Not Satisfied,Banking,Low Maturity
+7.9,2.9,9,88,3.9,6,86,23,4,Neutral,Tech Support,Mid Maturity
+7.8,3,5,82,4.1,6,87,24,3,Neutral,Healthcare,Low Maturity
+7.8,3,7,89,4,6,86,33,4,Not Satisfied,Banking,Low Maturity
+6.3,2.5,10,90,4.7,7,86,33,5,Very Satisfied,Tech Support,Low Maturity
+6.5,2.4,10,90,3.8,9,88,33,4,Satisfied,Healthcare,High Maturity
+6.2,3,8,85,3.8,7,86,26,4,Satisfied,Telco,Mid Maturity
+8,2.5,11,84,4.6,8,92,30,4,Satisfied,Telco,Low Maturity
+7.4,2.1,11,89,4.1,8,90,31,4,Satisfied,Banking,Low Maturity
+7.9,2.1,7,89,4.4,7,90,23,5,Satisfied,Sales,Mid Maturity
+7.8,3,11,89,3.9,6,92,31,6,Satisfied,Healthcare,Low Maturity
+7.9,2.7,5,81,4.2,6,92,30,5,Satisfied,Healthcare,Low Maturity
+6.6,3,5,81,4.7,7,86,26,4,Satisfied,Tech Support,Mid Maturity
+7.7,2.8,11,89,4.7,9,87,33,3,Neutral,Utilities,Mid Maturity
+8,2.1,5,87,3.8,6,86,29,4,Very Satisfied,Healthcare,Low Maturity
+8,3,11,89,3.7,6,89,23,3,Very Satisfied,Utilities,Nascent
+6.4,2.9,5,89,4.1,9,86,24,3,Very Satisfied,Sales,Mid Maturity
+7.4,2.3,7,89,3.7,6,92,32,6,Satisfied,Telco,Low Maturity
+7.2,3,5,85,4.4,6,86,30,4,Satisfied,Healthcare,Low Maturity
+6.5,3,11,80,3.7,6,86,33,6,Satisfied,Tech Support,Nascent
+7.9,3,10,86,3.7,7,86,30,5,Satisfied,Banking,Low Maturity
+6.8,3,7,83,3.8,6,92,31,4,Neutral,Tech Support,Low Maturity
+6.5,2.1,11,89,3.8,9,87,23,3,Neutral,Sales,Mid Maturity
+6.7,3,11,80,4.6,6,86,33,5,Satisfied,Utilities,Nascent
+6.8,2.9,11,84,4.4,6,92,29,3,Very Satisfied,Utilities,Low Maturity
+6.4,3,5,89,3.7,6,92,23,4,Satisfied,Banking,Mid Maturity
+6.3,3,11,84,3.7,6,89,29,3,Very Satisfied,Telco,Low Maturity
+6.4,2.2,6,86,4.1,9,92,26,4,Satisfied,Telco,Mid Maturity
+7.1,2.9,8,83,4.6,6,92,28,3,Neutral,Healthcare,Low Maturity
+7.3,2.9,5,88,3.7,6,89,28,5,Not Satisfied,Banking,Mid Maturity
+8,2.2,9,90,3.7,6,86,33,3,Neutral,Utilities,Low Maturity
+6.2,3,10,83,4.6,6,92,33,4,Neutral,Healthcare,Low Maturity
+6.4,2.1,10,90,3.7,6,86,24,3,Not Satisfied,Sales,Mid Maturity
+7.9,3,11,86,4.4,8,92,27,4,Very Satisfied,Utilities,Mid Maturity
+6.3,2.4,6,82,3.7,6,86,24,4,Satisfied,Sales,Low Maturity
+7,3,8,82,4.6,7,91,23,5,Satisfied,Utilities,Mid Maturity
+7.8,2.8,8,81,4,6,91,33,6,Satisfied,Telco,Low Maturity
+7.9,3,5,82,4.5,6,92,33,6,Neutral,Sales,Low Maturity
+7.9,2.1,5,87,4.1,9,91,23,3,Neutral,Banking,Mid Maturity
+6.2,2.5,7,86,3.7,6,86,33,5,Neutral,Utilities,Low Maturity
+8,2.5,5,86,3.8,7,86,33,3,Satisfied,Banking,Low Maturity
+6.3,2.3,9,80,3.8,6,92,28,5,Very Satisfied,Banking,Mid Maturity
+7.5,3,11,84,3.9,9,86,27,3,Satisfied,Tech Support,Mid Maturity
+6.3,3,5,88,3.9,7,92,26,4,Satisfied,Healthcare,Mid Maturity
+6.3,2.2,11,89,4.2,6,86,23,3,Satisfied,Telco,Mid Maturity
+6.2,3,11,87,4.1,6,86,32,4,Very Satisfied,Sales,Low Maturity
+6.4,2.6,7,89,4.3,6,87,23,4,Satisfied,Utilities,Mid Maturity
+7.8,2.1,11,89,3.9,6,92,26,3,Satisfied,Banking,Mid Maturity
+7.8,3,8,80,4.4,6,86,23,4,Satisfied,Telco,Nascent
+6.4,2.3,11,84,4.7,6,92,23,3,Neutral,Telco,Low Maturity
+6.8,2.1,11,85,4.2,6,86,32,5,Neutral,Tech Support,Low Maturity
+6.9,3,5,80,3.7,6,92,25,4,Satisfied,Sales,Mid Maturity
+7.3,3,11,89,3.8,6,92,23,3,Neutral,Banking,Mid Maturity
+7.2,2.5,11,80,4.7,6,86,31,3,Neutral,Utilities,Nascent
+7.9,2.9,5,89,4.5,6,90,23,3,Satisfied,Sales,Mid Maturity
+6.6,3,11,84,4.4,7,92,23,5,Satisfied,Sales,Mid Maturity
+6.2,2.9,11,89,4.6,7,92,33,6,Neutral,Sales,Low Maturity
+6.4,2.9,11,88,3.8,6,86,24,3,Neutral,Utilities,Mid Maturity
+7.9,3,5,90,4.6,6,86,23,4,Very Satisfied,Utilities,Mid Maturity
+8,2.1,5,90,3.7,6,86,25,3,Satisfied,Telco,Mid Maturity
+7,3,11,89,4.7,6,86,33,3,Satisfied,Utilities,Low Maturity
+6.7,2.1,7,89,3.8,6,88,29,5,Neutral,Utilities,Low Maturity
+7.6,3,11,82,4.6,9,90,24,4,Satisfied,Telco,Mid Maturity
+6.4,3,11,90,3.8,6,89,26,4,Satisfied,Banking,Mid Maturity
+7.5,3,7,91,4,6,89,33,6,Very Satisfied,Banking,Low Maturity
+8,2.4,11,90,4.7,7,86,23,4,Very Satisfied,Telco,Mid Maturity
+6.5,3,11,87,4.2,7,92,33,5,Neutral,Tech Support,Low Maturity
+8,3,7,88,4.6,6,92,27,3,Not Satisfied,Telco,Mid Maturity
+6.3,3,5,90,3.9,7,86,23,4,Neutral,Telco,Mid Maturity
+6.4,2.7,11,89,3.8,7,88,33,5,Neutral,Tech Support,Low Maturity
+6.8,3,11,80,4.1,6,86,33,6,Satisfied,Tech Support,Nascent
+7.3,3,8,80,3.8,7,92,23,5,Very Satisfied,Utilities,Mid Maturity
+6.5,2.1,7,89,4.1,9,88,27,4,Neutral,Utilities,Mid Maturity
+7.9,3,5,84,3.8,9,91,30,4,Very Satisfied,Sales,Low Maturity
+7.2,2.5,8,88,4.1,8,90,32,5,Satisfied,Utilities,Low Maturity
+6.3,2.1,11,84,4,7,92,23,6,Satisfied,Telco,Mid Maturity
+7.7,2.1,5,91,4.3,7,86,33,5,Very Satisfied,Telco,Low Maturity
+6.3,3,11,88,3.8,6,92,23,3,Satisfied,Tech Support,Mid Maturity
+7,3,5,83,4.2,6,86,27,5,Neutral,Healthcare,Low Maturity
+7.5,2.8,11,81,3.8,9,92,24,4,Satisfied,Utilities,Mid Maturity
+7.2,3,9,83,3.8,6,86,33,5,Satisfied,Banking,Low Maturity
+6.3,3,11,82,4.2,9,86,23,4,Satisfied,Healthcare,Mid Maturity
+6.2,2.9,10,86,4.7,6,92,33,4,Satisfied,Utilities,Low Maturity
+7.6,2.7,11,88,3.7,6,92,30,3,Satisfied,Tech Support,Low Maturity
+6.5,2.1,7,91,4.6,8,89,29,5,Satisfied,Sales,Low Maturity
+6.8,2.3,5,90,3.7,6,86,23,5,Very Satisfied,Banking,Mid Maturity
+6.3,2.3,7,80,4.4,6,91,33,3,Satisfied,Sales,Low Maturity
+7.3,2.3,11,89,3.7,6,86,28,3,Very Satisfied,Banking,Mid Maturity
+8,3,5,81,4.7,7,86,23,3,Neutral,Sales,Mid Maturity
+7.3,3,11,80,4.7,6,86,32,3,Satisfied,Sales,Nascent
+7.7,2.7,7,82,3.8,6,86,23,6,Not Satisfied,Healthcare,Mid Maturity
+7.9,2.2,9,83,4.4,6,92,23,3,Neutral,Sales,Low Maturity
+7.2,2.5,6,82,4.5,6,86,33,3,Neutral,Banking,Low Maturity
+7.8,2.5,6,82,4.5,9,86,30,4,Satisfied,Telco,Low Maturity
+6.5,2.5,11,83,4.7,8,88,23,4,Satisfied,Telco,Mid Maturity
+8,2.3,11,89,4.3,6,86,33,5,Satisfied,Telco,Low Maturity
+8,2.5,11,87,4.3,8,92,24,3,Satisfied,Banking,Mid Maturity
+8,3,5,90,3.7,6,86,23,3,Very Satisfied,Telco,Mid Maturity
+7.9,2.7,5,90,4.7,7,88,23,5,Satisfied,Banking,Mid Maturity
+7,3,6,89,3.7,6,90,31,4,Satisfied,Tech Support,Low Maturity
+7.8,2.5,11,89,4.7,8,92,33,3,Satisfied,Utilities,Low Maturity
+7.5,3,5,82,4.4,9,90,23,4,Satisfied,Banking,Mid Maturity
+6.3,2.2,5,80,3.8,9,86,27,3,Neutral,Utilities,Nascent
+6.9,2.5,11,89,4.6,7,86,23,4,Satisfied,Banking,Mid Maturity
+6.5,3,11,88,3.9,7,86,26,3,Neutral,Utilities,Mid Maturity
+7.3,3,7,81,3.8,6,92,26,4,Very Satisfied,Tech Support,Mid Maturity
+6.5,2.8,9,86,4.7,8,92,23,5,Satisfied,Telco,Mid Maturity
+8,2.3,8,85,4.6,6,88,23,4,Satisfied,Healthcare,Mid Maturity
+6.2,2.1,11,80,4,6,88,33,4,Satisfied,Healthcare,Low Maturity
+7.9,3,5,85,3.8,7,86,33,5,Neutral,Banking,Low Maturity
+6.5,2.5,11,84,4.1,6,86,23,5,Neutral,Utilities,Low Maturity
+6.4,2.6,5,89,3.7,6,87,33,4,Very Satisfied,Telco,Low Maturity
+7.8,2.5,11,87,4.6,6,86,33,4,Satisfied,Sales,Low Maturity
+8,2.7,6,91,4.5,8,86,32,3,Satisfied,Utilities,Low Maturity
+6.4,2.2,11,89,3.8,7,89,23,5,Satisfied,Tech Support,Mid Maturity
+6.2,2.3,5,89,4.7,6,86,23,4,Satisfied,Banking,Mid Maturity
+6.5,2.7,9,87,4.3,7,87,30,3,Neutral,Healthcare,Low Maturity
+7.6,2.2,5,86,4.1,6,86,23,3,Satisfied,Telco,Mid Maturity
+7.6,3,11,89,4.4,6,86,23,5,Very Satisfied,Healthcare,Mid Maturity
+7.3,2.5,11,90,3.8,8,92,30,4,Satisfied,Tech Support,Low Maturity
+7.9,3,7,81,4.7,6,92,23,4,Satisfied,Utilities,Mid Maturity
+6.3,2.4,11,88,3.7,6,92,33,4,Very Satisfied,Sales,Low Maturity
+6.4,2.1,11,81,3.7,6,92,25,4,Very Satisfied,Utilities,Mid Maturity
+7.9,2.5,5,89,3.7,6,86,33,4,Satisfied,Tech Support,Low Maturity
+7.8,2.1,11,87,4.3,6,92,24,3,Satisfied,Sales,Mid Maturity
+6.4,2.5,11,85,4.2,7,91,32,4,Neutral,Utilities,Low Maturity
+6.4,3,7,87,3.7,9,86,29,3,Satisfied,Sales,Mid Maturity
+6.3,3,5,88,4.4,6,86,23,3,Satisfied,Healthcare,Mid Maturity
+7.8,2.2,11,83,4.6,6,92,29,4,Neutral,Telco,Low Maturity
+7.9,2.3,5,89,4.3,6,86,33,5,Satisfied,Banking,Low Maturity
+8,2.1,5,90,4.7,6,90,23,6,Satisfied,Tech Support,Mid Maturity
+6.4,3,11,86,4,7,92,32,3,Satisfied,Healthcare,Low Maturity
+6.4,2.4,11,91,4,6,92,32,3,Satisfied,Banking,Low Maturity
+7.9,3,11,83,3.7,6,92,23,5,Neutral,Tech Support,Low Maturity
+7.9,3,11,86,3.8,7,86,33,4,Neutral,Banking,Low Maturity
+6.4,2.4,5,90,4.7,6,92,33,4,Very Satisfied,Utilities,Low Maturity
+8,2.7,5,80,4.6,9,86,26,4,Neutral,Healthcare,Nascent
+7.9,3,11,90,4.4,7,89,27,3,Very Satisfied,Tech Support,Mid Maturity
+7.8,2.5,8,83,4.6,6,86,27,4,Very Satisfied,Banking,Low Maturity
+7.7,2.3,11,87,4.4,7,86,33,5,Neutral,Healthcare,Low Maturity
+6.8,2.5,11,89,4.3,6,90,27,4,Neutral,Telco,Mid Maturity
+8,2.2,5,89,3.7,7,86,31,5,Very Satisfied,Tech Support,Low Maturity
+6.4,2.2,5,88,4.1,8,89,27,3,Neutral,Telco,Mid Maturity
+7.4,2.4,5,80,4.6,6,92,31,4,Very Satisfied,Telco,Low Maturity
+6.5,2.3,11,84,3.7,7,86,33,3,Satisfied,Tech Support,Low Maturity
+6.8,3,6,80,4.6,9,86,23,5,Satisfied,Sales,Nascent
+6.5,2.7,11,90,3.7,6,92,33,4,Satisfied,Utilities,Low Maturity
+7,2.3,5,82,3.7,6,87,33,3,Satisfied,Sales,Low Maturity
+6.5,3,5,86,4.6,6,92,29,3,Satisfied,Healthcare,Low Maturity
+7.9,2.5,8,85,4.5,8,92,23,3,Satisfied,Healthcare,Mid Maturity
+7.2,2.2,7,84,3.9,6,86,24,4,Neutral,Tech Support,Low Maturity
+6.7,3,11,80,3.8,6,87,33,4,Satisfied,Banking,Low Maturity
+6.8,2.1,7,90,3.7,8,86,25,3,Neutral,Banking,Mid Maturity
+6.3,3,11,84,3.7,8,86,32,5,Very Satisfied,Sales,Low Maturity
+6.4,2.3,8,88,3.7,7,88,31,3,Satisfied,Utilities,Low Maturity
+6.3,3,5,91,3.7,8,92,23,4,Very Satisfied,Telco,Mid Maturity
+7.9,3,11,80,3.8,7,86,28,4,Satisfied,Utilities,Nascent
+6.5,2.1,11,85,4.4,6,86,26,4,Satisfied,Tech Support,Mid Maturity
+6.8,2.7,11,89,3.8,8,92,23,4,Satisfied,Banking,Mid Maturity
+6.4,3,11,90,4.7,6,92,23,5,Neutral,Utilities,Mid Maturity
+7,2.3,5,84,3.9,8,92,28,4,Satisfied,Tech Support,Mid Maturity
+7.3,2.2,5,85,4.6,8,92,33,3,Satisfied,Healthcare,Low Maturity
+6.3,2.1,9,89,3.9,6,86,23,5,Neutral,Utilities,Mid Maturity
+7.9,3,5,91,3.8,7,89,29,4,Satisfied,Utilities,Low Maturity
+7.9,3,11,84,3.8,6,86,23,5,Very Satisfied,Telco,Low Maturity
+7.9,2.3,11,84,3.9,6,86,28,3,Very Satisfied,Healthcare,Low Maturity
+6.4,2.7,11,88,3.8,6,92,23,4,Very Satisfied,Healthcare,Mid Maturity
+8,2.8,11,86,4.1,6,86,27,4,Satisfied,Tech Support,Mid Maturity
+8,2.3,7,89,4.6,9,86,29,4,Satisfied,Healthcare,Mid Maturity
+6.2,2.7,11,90,3.8,6,86,23,4,Satisfied,Sales,Mid Maturity
+6.4,2.5,8,83,3.7,6,92,33,4,Not Satisfied,Telco,Low Maturity
+7.8,3,11,90,4.3,7,88,33,5,Satisfied,Telco,Low Maturity
+7.6,2.9,11,84,3.8,6,86,33,4,Neutral,Tech Support,Low Maturity
+6.4,3,8,90,4,8,88,27,6,Satisfied,Tech Support,Mid Maturity
+7.9,2.6,10,83,4.1,6,88,23,6,Very Satisfied,Sales,Low Maturity
+7.7,2.7,5,89,4.4,8,92,30,6,Satisfied,Telco,Low Maturity
+7.5,3,11,86,3.8,7,92,27,5,Satisfied,Tech Support,Mid Maturity
+6.5,2.8,6,89,4.4,6,86,23,4,Satisfied,Tech Support,Mid Maturity
+7.3,2.6,11,89,3.7,6,92,23,4,Neutral,Utilities,Mid Maturity
+7.9,2.5,10,90,3.7,6,86,23,4,Neutral,Banking,Mid Maturity
+7.3,3,10,86,3.8,6,90,33,3,Satisfied,Utilities,Low Maturity
+7.4,2.1,10,87,4.2,7,88,23,5,Neutral,Utilities,Mid Maturity
+6.7,2.3,7,89,4.2,7,90,33,5,Satisfied,Tech Support,Low Maturity
+7.9,2.7,7,83,3.7,8,92,23,4,Neutral,Tech Support,Mid Maturity
+7.9,3,8,89,4.6,7,86,32,3,Satisfied,Telco,Low Maturity
+7.8,2.1,6,90,4.1,7,86,27,4,Neutral,Utilities,Mid Maturity
+6.5,3,5,86,3.8,6,92,25,6,Very Satisfied,Healthcare,Mid Maturity
+6.4,2.7,11,84,4.6,6,88,33,4,Satisfied,Banking,Low Maturity
+8,2.9,6,86,3.8,6,86,33,4,Satisfied,Sales,Low Maturity
+6.4,2.9,5,82,3.7,6,92,29,3,Not Satisfied,Tech Support,Low Maturity
+7.2,2.4,5,87,4.7,6,86,26,5,Satisfied,Banking,Mid Maturity
+7.8,3,5,89,4.7,9,92,30,4,Satisfied,Utilities,Mid Maturity
+7.8,2.4,5,86,3.7,6,86,33,4,Satisfied,Healthcare,Low Maturity
+8,3,9,89,4.4,6,92,23,4,Satisfied,Tech Support,Mid Maturity
+7.9,2.1,5,89,4.3,7,92,25,5,Neutral,Tech Support,Mid Maturity
+7.8,2.4,5,82,4.6,6,92,23,3,Satisfied,Banking,Low Maturity
+6.9,2.1,11,86,4,7,90,23,3,Very Satisfied,Utilities,Mid Maturity
+7.5,3,5,81,4.6,8,92,23,3,Neutral,Healthcare,Mid Maturity
+8,3,5,82,4.3,6,86,28,4,Very Satisfied,Tech Support,Low Maturity
+7.9,3,11,81,4.7,6,92,29,4,Satisfied,Telco,Low Maturity
+6.5,3,5,84,4.4,8,89,23,4,Satisfied,Banking,Mid Maturity
+7.9,2.7,5,88,4.7,7,86,27,3,Very Satisfied,Healthcare,Mid Maturity
+7.9,3,11,89,3.7,6,92,24,5,Satisfied,Banking,Mid Maturity
+7,3,11,85,4.5,6,92,26,5,Satisfied,Healthcare,Mid Maturity
+6.3,2.1,5,83,4.1,6,86,29,4,Satisfied,Utilities,Low Maturity
+8,2.1,11,89,4.6,6,88,29,5,Neutral,Telco,Low Maturity
+6.9,3,11,91,4.1,7,86,23,3,Satisfied,Utilities,Mid Maturity
+7.3,2.2,5,81,3.8,6,89,23,4,Satisfied,Sales,Mid Maturity
+7.6,3,7,89,4.6,6,86,33,5,Satisfied,Sales,Low Maturity
+7.8,3,11,80,3.9,6,86,31,3,Satisfied,Healthcare,Nascent
+7.4,2.9,11,89,4.6,9,92,23,5,Neutral,Healthcare,Mid Maturity
+6.3,3,5,83,4.3,8,86,31,4,Satisfied,Tech Support,Low Maturity
+7.9,2.5,6,87,4.3,8,86,27,5,Satisfied,Utilities,Mid Maturity
+8,3,11,87,3.8,6,92,28,6,Neutral,Utilities,Nascent
+6.2,2.1,6,80,4.6,6,92,30,4,Satisfied,Utilities,Low Maturity
+8,3,11,87,3.7,6,90,23,3,Satisfied,Banking,Nascent
+8,2.1,6,88,3.8,7,92,31,5,Very Satisfied,Healthcare,Low Maturity
+7.8,3,11,89,4.3,6,92,29,3,Satisfied,Banking,Low Maturity
+6.4,2.4,11,87,4.4,6,86,23,3,Neutral,Banking,Mid Maturity
+7.8,2.4,5,87,4.3,6,86,30,3,Very Satisfied,Healthcare,Low Maturity
+7.1,3,5,86,4.7,9,88,26,6,Neutral,Telco,Mid Maturity
+7.7,3,11,90,3.8,7,86,23,5,Neutral,Tech Support,Mid Maturity
+6.3,2.3,5,89,4.4,8,87,27,3,Very Satisfied,Banking,Mid Maturity
+6.2,3,11,89,4.4,6,92,23,3,Neutral,Utilities,Mid Maturity
+7.9,2.3,7,88,4,6,88,29,4,Satisfied,Sales,Low Maturity
+7.3,2.5,5,90,4.7,6,92,33,3,Very Satisfied,Utilities,Low Maturity
+7.1,2.1,5,83,3.8,8,86,28,3,Neutral,Utilities,Mid Maturity
+6.9,2.7,11,89,4.3,6,86,28,3,Satisfied,Utilities,Mid Maturity
+7.2,2.2,11,86,4.7,6,88,33,5,Very Satisfied,Healthcare,Low Maturity
+7.8,2.2,11,85,4.2,7,92,24,4,Satisfied,Tech Support,Mid Maturity
+6.2,3,11,88,3.8,6,91,28,4,Satisfied,Telco,Mid Maturity
+7.5,2.5,11,90,3.7,6,86,29,5,Not Satisfied,Banking,Low Maturity
+7.4,2.5,7,90,4.1,6,86,29,3,Satisfied,Telco,Low Maturity
+6.3,3,8,89,4.4,7,91,23,5,Neutral,Healthcare,Mid Maturity
+7.3,2.6,11,89,4.2,6,86,33,4,Satisfied,Telco,Low Maturity
+6.2,3,10,89,3.7,7,91,29,4,Very Satisfied,Utilities,Low Maturity
+7.4,2.2,11,84,4,6,92,23,6,Neutral,Banking,Low Maturity
+7.8,2.5,5,83,3.8,7,89,28,4,Satisfied,Utilities,Mid Maturity
+7.9,2.7,11,89,4.4,6,88,23,4,Neutral,Banking,Mid Maturity
+7.9,3,9,87,4.3,6,92,28,5,Neutral,Sales,Mid Maturity
+7.9,2.9,8,86,3.7,8,86,25,3,Satisfied,Sales,Mid Maturity
+7.9,2.1,6,90,4.1,6,92,23,4,Satisfied,Telco,Mid Maturity
+8,2.5,8,89,4,8,91,33,5,Satisfied,Tech Support,Low Maturity
+8,3,9,90,3.8,6,92,28,3,Neutral,Tech Support,Mid Maturity
+8,2.1,11,86,4.7,7,92,29,4,Satisfied,Utilities,Low Maturity
+7.5,2.6,11,85,4.6,6,92,29,5,Satisfied,Healthcare,Low Maturity
+7.4,2.1,6,89,3.8,6,86,23,5,Satisfied,Telco,Mid Maturity
+7.8,3,5,83,4.6,6,86,24,4,Neutral,Healthcare,Low Maturity
+7.9,2.9,11,84,4.1,7,91,33,3,Very Satisfied,Tech Support,Low Maturity
+7.8,3,6,83,3.8,9,88,31,4,Very Satisfied,Healthcare,Low Maturity
+7.9,2.3,8,90,3.7,9,90,23,6,Satisfied,Sales,High Maturity
+7.7,2.9,5,89,4.5,6,86,23,3,Satisfied,Banking,Mid Maturity
+6.4,2.5,6,91,4.6,7,91,33,5,Very Satisfied,Healthcare,Low Maturity
+6.9,2.1,5,88,3.8,7,92,33,4,Satisfied,Banking,Low Maturity
+7.8,2.5,5,90,4.5,7,90,33,4,Satisfied,Sales,Low Maturity
+8,2.5,11,86,4.3,6,92,27,5,Satisfied,Banking,Mid Maturity
+7.4,3,7,90,4.6,6,92,28,4,Satisfied,Banking,Mid Maturity
+7.9,2.1,7,90,4.6,6,86,32,3,Neutral,Healthcare,Low Maturity
+7.3,2.5,11,87,3.8,9,86,25,4,Satisfied,Telco,Mid Maturity
+7.8,2.2,5,81,4.6,6,86,23,3,Neutral,Banking,Mid Maturity
+6.3,2.5,11,89,3.7,7,86,23,6,Satisfied,Utilities,Mid Maturity
+6.2,2.5,11,89,4.5,6,89,23,3,Very Satisfied,Banking,Mid Maturity
+6.4,3,11,80,4.1,9,92,23,3,Neutral,Healthcare,Mid Maturity
+7.6,3,8,82,3.8,8,86,23,3,Satisfied,Sales,Mid Maturity
+6.2,2.5,10,86,3.9,6,86,27,5,Neutral,Tech Support,Mid Maturity
+6.9,2.2,11,89,4.5,7,89,24,4,Very Satisfied,Tech Support,Mid Maturity
+6.7,2.3,11,81,4.3,6,87,33,5,Satisfied,Telco,Low Maturity
+7.2,2.4,5,90,4.6,8,89,29,5,Satisfied,Tech Support,Low Maturity
+7.9,3,5,81,3.7,8,88,25,3,Satisfied,Banking,Mid Maturity
+7.9,3,5,86,4.1,7,86,28,3,Satisfied,Telco,Mid Maturity
+6.8,2.5,5,90,4.7,6,89,29,3,Satisfied,Telco,Low Maturity
+6.4,3,5,90,4,9,86,23,4,Satisfied,Tech Support,High Maturity
+7.4,3,11,89,4.2,6,87,23,3,Not Satisfied,Telco,Mid Maturity
+7.9,3,11,89,3.9,6,92,33,4,Satisfied,Sales,Low Maturity
+6.5,3,8,83,3.8,7,86,23,3,Satisfied,Banking,Mid Maturity
+7.3,2.6,10,89,3.8,6,87,26,3,Satisfied,Tech Support,Mid Maturity
+7.6,3,5,89,4.3,9,92,33,3,Very Satisfied,Healthcare,Mid Maturity
+6.9,3,5,89,4.3,8,86,33,3,Satisfied,Telco,Low Maturity
+7.4,2.8,9,85,4.4,7,90,23,3,Satisfied,Tech Support,Mid Maturity
+6.5,2.8,11,90,4.1,9,92,30,3,Neutral,Healthcare,High Maturity
+6.4,2.1,11,80,3.7,6,86,23,6,Satisfied,Banking,Nascent
+7.9,3,8,81,3.8,6,92,23,4,Satisfied,Banking,Mid Maturity
+8,3,11,90,4.6,8,92,30,3,Satisfied,Tech Support,Nascent
+8,3,5,86,4.4,9,92,24,5,Satisfied,Banking,Mid Maturity
+7.2,2.5,11,82,4.6,6,86,33,4,Not Satisfied,Telco,Low Maturity
+7.9,2.3,7,80,3.7,6,92,33,4,Satisfied,Tech Support,Low Maturity
+8,2.3,11,82,4.4,8,90,25,4,Satisfied,Healthcare,Mid Maturity
+7.5,2.8,5,86,4.3,6,92,29,6,Neutral,Healthcare,Low Maturity
+7.9,2.9,8,88,4.5,6,86,23,3,Satisfied,Healthcare,Mid Maturity
+7.1,3,5,85,4.6,6,92,27,4,Neutral,Banking,Mid Maturity
+7.9,2.7,9,87,3.8,6,89,30,3,Very Satisfied,Utilities,Low Maturity
+6.3,2.2,10,90,3.8,7,86,33,4,Neutral,Telco,Low Maturity
+7.3,2.2,11,89,3.8,6,86,33,6,Neutral,Tech Support,Low Maturity
+6.3,2.2,7,83,4.7,9,92,23,4,Satisfied,Healthcare,Mid Maturity
+7.8,3,11,83,3.7,6,92,23,4,Neutral,Tech Support,Low Maturity
+7.6,3,11,89,3.7,6,86,23,6,Very Satisfied,Utilities,Mid Maturity
+7.9,2.2,7,81,4.4,9,86,26,3,Neutral,Banking,Mid Maturity
+7.7,3,9,87,3.8,6,91,23,3,Neutral,Sales,Mid Maturity
+6.3,2.1,5,87,4.7,6,86,24,4,Satisfied,Utilities,Mid Maturity
+7.9,3,5,91,4.6,6,86,23,5,Satisfied,Tech Support,Mid Maturity
+7.9,2.9,5,84,4.2,9,90,33,5,Neutral,Banking,Low Maturity
+6.4,2.7,10,90,4.1,6,86,33,4,Satisfied,Banking,Low Maturity
+7.8,2.4,5,89,4.2,9,92,27,4,Satisfied,Tech Support,Mid Maturity
+6.5,2.8,9,84,4.2,7,92,25,4,Satisfied,Telco,Mid Maturity
+7.9,2.2,10,81,3.8,6,92,32,4,Neutral,Banking,Low Maturity
+7,2.8,11,87,4.7,6,92,23,3,Satisfied,Sales,Mid Maturity
+7.9,3,5,84,4,6,86,23,3,Not Satisfied,Tech Support,Mid Maturity
+7.9,2.9,11,90,4.5,6,92,33,5,Satisfied,Banking,Low Maturity
+6.5,2.1,11,89,4.7,6,92,23,5,Neutral,Sales,Mid Maturity
+6.2,3,11,83,3.8,6,92,24,5,Not Satisfied,Sales,Mid Maturity
+7.5,2.1,5,87,4.5,6,92,25,3,Very Satisfied,Utilities,Mid Maturity
+7.9,3,11,89,4.2,6,86,30,6,Satisfied,Sales,Low Maturity
+6.4,2.5,9,80,4.1,7,86,24,4,Satisfied,Tech Support,Nascent
+7.1,3,7,90,4.6,7,86,33,5,Very Satisfied,Telco,Low Maturity
+7.1,2.5,11,90,4,7,92,23,3,Satisfied,Utilities,Mid Maturity
+6.4,2.1,9,88,4.7,8,86,23,3,Satisfied,Healthcare,Mid Maturity
+8,3,5,89,4.2,6,92,28,5,Satisfied,Tech Support,Mid Maturity
+7.8,2.3,11,89,4.7,6,87,29,5,Neutral,Utilities,Low Maturity
+7.2,2.3,8,82,4.7,6,92,33,3,Satisfied,Sales,Low Maturity
+6.3,3,11,91,4.1,6,92,23,4,Satisfied,Sales,Mid Maturity
+6.5,3,11,89,4.4,6,91,25,4,Very Satisfied,Tech Support,Mid Maturity
+7.9,3,5,90,4.4,6,92,27,5,Neutral,Telco,Mid Maturity
+6.4,2.2,5,82,3.8,6,86,24,3,Satisfied,Sales,Low Maturity
+8,3,8,82,4.4,9,86,26,4,Satisfied,Telco,Mid Maturity
+7.1,2.6,5,90,4.1,6,87,33,3,Very Satisfied,Healthcare,Low Maturity
+7.9,2.5,5,81,4.2,6,92,29,5,Satisfied,Utilities,Low Maturity
+7.9,3,11,83,3.8,6,88,33,4,Satisfied,Tech Support,Low Maturity
+6.9,3,5,90,4.5,6,92,23,5,Satisfied,Banking,Mid Maturity
+7.1,2.8,5,88,3.7,6,92,33,3,Satisfied,Healthcare,Low Maturity
+7.9,2.3,11,86,4.2,6,86,33,4,Satisfied,Utilities,Low Maturity
+7.1,2.5,11,86,3.7,9,86,33,3,Satisfied,Tech Support,Mid Maturity
+6.4,2.2,5,81,3.8,6,86,26,4,Satisfied,Tech Support,Mid Maturity
+7.8,3,10,89,4.3,6,86,23,5,Neutral,Telco,Mid Maturity
+7.9,2.8,10,80,4.4,7,92,33,5,Neutral,Banking,Low Maturity
+7.6,2.6,11,90,4,7,86,29,3,Satisfied,Healthcare,Low Maturity
+7.9,2.3,6,89,3.7,6,86,28,5,Satisfied,Sales,Mid Maturity
+7.8,3,5,83,4.7,7,86,33,3,Satisfied,Utilities,Low Maturity
+7.7,2.9,5,83,4.7,6,92,33,3,Not Satisfied,Banking,Low Maturity
+8,2.2,11,89,4,7,92,26,4,Neutral,Utilities,Mid Maturity
+8,2.9,11,89,4.3,6,88,23,4,Satisfied,Telco,Nascent
+7.8,2.5,5,90,4.2,9,86,31,5,Satisfied,Tech Support,High Maturity
+6.3,2.1,5,89,4.5,6,92,23,3,Very Satisfied,Sales,Mid Maturity
+7.5,2.3,5,80,4.6,7,92,25,4,Neutral,Utilities,Mid Maturity
+6.9,2.9,8,81,4.1,6,88,29,4,Satisfied,Utilities,Low Maturity
+7,3,9,90,4.6,6,86,33,6,Satisfied,Banking,Low Maturity
+7.8,3,5,89,3.7,9,92,31,6,Satisfied,Banking,Mid Maturity
+6.2,2.7,11,89,4.5,9,92,23,6,Neutral,Banking,Mid Maturity
+6.8,2.3,5,81,4.6,6,88,23,4,Satisfied,Banking,Mid Maturity
+8,2.5,7,81,4.7,7,92,23,3,Neutral,Banking,Mid Maturity
+7.9,3,7,86,3.7,6,86,25,3,Not Satisfied,Banking,Mid Maturity
+7.4,3,5,90,4.3,9,86,23,4,Satisfied,Telco,High Maturity
+6.5,2.2,5,85,4.2,6,86,30,5,Neutral,Healthcare,Low Maturity
+7.8,3,5,82,4,6,86,23,3,Neutral,Healthcare,Low Maturity
+7.9,2.4,11,89,3.8,7,86,25,5,Satisfied,Telco,Mid Maturity
+6.5,3,11,90,3.7,6,90,31,4,Very Satisfied,Tech Support,Low Maturity
+7.9,2.6,11,89,4.7,7,86,24,4,Very Satisfied,Banking,Mid Maturity
+7.4,2.2,5,85,4.3,6,86,27,5,Satisfied,Utilities,Mid Maturity
+6.2,2.9,5,80,4.1,8,86,27,3,Satisfied,Utilities,Nascent
+6.4,2.4,5,86,4.7,9,86,29,3,Satisfied,Healthcare,Mid Maturity
+7.8,3,11,91,4,9,92,27,5,Neutral,Banking,High Maturity
+7.6,3,11,82,3.8,6,87,28,5,Satisfied,Tech Support,Low Maturity
+6.4,3,7,81,3.8,6,92,29,5,Satisfied,Banking,Low Maturity
+8,2.7,6,88,4.6,9,92,33,3,Satisfied,Banking,Mid Maturity
+6.3,3,10,89,4.5,7,92,33,6,Neutral,Healthcare,Low Maturity
+7.9,2.9,7,82,3.7,6,92,27,5,Neutral,Tech Support,Low Maturity
+6.4,2.8,10,85,4.7,6,91,26,3,Satisfied,Utilities,Mid Maturity
+7.9,3,5,80,4.7,6,86,33,4,Satisfied,Banking,Nascent
+6.5,2.9,11,87,4.4,9,86,23,3,Very Satisfied,Sales,Mid Maturity
+7.2,3,8,89,4.2,6,92,23,3,Satisfied,Sales,Mid Maturity
+7.7,2.7,10,90,4,6,86,23,3,Neutral,Telco,Mid Maturity
+6.3,2.1,11,81,4.4,7,86,27,5,Satisfied,Banking,Mid Maturity
+7.9,3,11,89,4.3,6,92,33,5,Neutral,Banking,Low Maturity
+6.5,2.2,5,82,4.4,6,90,32,3,Very Satisfied,Utilities,Low Maturity
+7,3,5,87,4.6,6,86,26,4,Satisfied,Sales,Mid Maturity
+7.9,3,9,85,3.9,9,89,24,4,Satisfied,Utilities,Mid Maturity
+6.5,2.5,5,88,3.8,6,86,31,3,Neutral,Banking,Low Maturity
+6.3,3,5,84,3.7,6,92,23,4,Satisfied,Utilities,Low Maturity
+6.4,3,11,89,3.7,6,88,23,3,Satisfied,Banking,Mid Maturity
+6.4,2.4,11,82,4.6,6,86,24,4,Satisfied,Sales,Low Maturity
+6.5,3,11,87,4.6,7,92,33,5,Satisfied,Healthcare,Low Maturity
+6.3,3,5,88,3.8,6,86,23,3,Neutral,Telco,Mid Maturity
+6.4,2.4,11,90,3.8,8,92,29,4,Satisfied,Sales,Low Maturity
+6.3,3,5,86,4.5,9,92,23,6,Satisfied,Utilities,Mid Maturity
+6.5,2.9,5,89,3.7,6,88,23,6,Satisfied,Healthcare,Mid Maturity
+7.9,2.9,11,90,4.1,6,92,33,3,Satisfied,Sales,Low Maturity
+6.3,2.4,5,84,4.6,9,92,33,5,Satisfied,Healthcare,Low Maturity
+7.9,2.2,11,87,4.7,6,86,24,3,Not Satisfied,Banking,Mid Maturity
+6.7,2.4,8,91,4.6,6,92,29,3,Satisfied,Tech Support,Low Maturity
+7,3,8,89,3.8,8,92,26,3,Neutral,Banking,Mid Maturity
+6.8,3,11,87,3.8,8,92,31,3,Satisfied,Healthcare,Low Maturity
+6.5,3,5,90,3.8,9,92,26,3,Neutral,Healthcare,High Maturity
+6.4,2.4,5,81,3.8,8,92,33,3,Satisfied,Telco,Low Maturity
+6.5,2.3,11,90,4.2,6,89,24,6,Satisfied,Banking,Mid Maturity
+6.7,2.8,5,83,4.3,6,86,27,5,Satisfied,Sales,Low Maturity
+7.4,2.9,11,89,4.6,6,89,33,4,Very Satisfied,Healthcare,Low Maturity
+7.7,2.8,5,88,4.2,6,86,33,4,Satisfied,Telco,Low Maturity
+6.2,2.5,5,87,4.1,6,90,33,4,Satisfied,Sales,Low Maturity
+7.8,3,11,90,4.4,6,86,31,4,Satisfied,Banking,Low Maturity
+6.2,3,11,83,4.1,7,87,33,4,Satisfied,Utilities,Low Maturity
+6.4,3,5,89,3.8,8,88,24,6,Neutral,Healthcare,Mid Maturity
+8,2.5,5,90,3.7,6,86,24,3,Satisfied,Tech Support,Mid Maturity
+6.3,2.6,5,80,3.7,6,86,23,5,Very Satisfied,Utilities,Nascent
+6.5,3,5,89,3.7,6,90,33,6,Neutral,Telco,Low Maturity
+6.6,2.2,5,87,3.8,7,91,33,3,Neutral,Sales,Low Maturity
+7.1,2.2,7,86,4.3,6,92,24,6,Neutral,Tech Support,Mid Maturity
+6.3,3,5,82,4.4,7,86,24,3,Very Satisfied,Telco,Mid Maturity
+7.9,3,5,90,4.4,7,92,24,3,Neutral,Sales,Mid Maturity
+7.9,2.1,8,80,4.5,9,89,23,4,Satisfied,Healthcare,Mid Maturity
+6.3,2.7,5,87,4.6,9,88,26,4,Satisfied,Tech Support,Mid Maturity
+7.5,3,5,82,4.2,6,88,24,5,Very Satisfied,Banking,Low Maturity
+7.8,2.6,11,90,3.8,6,86,23,4,Neutral,Telco,Mid Maturity
+6.5,2.3,9,88,4.5,9,87,27,4,Satisfied,Banking,Mid Maturity
+6.8,2.3,10,90,3.9,7,92,29,4,Satisfied,Telco,Low Maturity
+7,2.2,8,87,4.2,6,87,23,3,Satisfied,Tech Support,Mid Maturity
+7.9,2.3,5,85,4.6,7,86,23,3,Satisfied,Tech Support,Mid Maturity
+6.4,2.1,7,90,3.8,8,86,27,3,Neutral,Sales,Mid Maturity
+6.7,2.2,11,87,4.6,6,86,33,3,Satisfied,Utilities,Low Maturity
+7.8,2.3,6,87,4.6,6,86,26,4,Satisfied,Tech Support,Mid Maturity
+6.5,3,5,86,3.7,6,92,29,4,Not Satisfied,Sales,Low Maturity
+7.9,2.5,5,83,4.2,7,87,23,4,Satisfied,Sales,Mid Maturity
+7.8,2.9,5,82,4.6,7,86,27,4,Satisfied,Sales,Mid Maturity
+7.6,3,5,90,3.7,8,87,31,4,Neutral,Banking,Low Maturity
+7.8,2.1,5,89,4.7,6,86,28,4,Neutral,Utilities,Mid Maturity
+7.9,3,7,86,4.7,6,89,23,3,Satisfied,Tech Support,Mid Maturity
+7.4,2.3,5,90,3.8,6,86,30,5,Very Satisfied,Banking,Low Maturity
+6.2,2.4,5,80,4.3,7,88,23,5,Very Satisfied,Utilities,Mid Maturity
+8,2.1,5,88,3.7,6,86,26,3,Satisfied,Banking,Mid Maturity
+6.4,2.8,8,84,4.4,9,92,33,3,Satisfied,Telco,Low Maturity
+6.5,2.3,9,87,3.8,6,86,33,3,Satisfied,Healthcare,Low Maturity
+6.2,3,11,85,3.7,7,86,33,4,Satisfied,Healthcare,Low Maturity
+7.6,3,11,90,3.7,8,86,33,6,Satisfied,Utilities,Low Maturity
+6.3,2.3,7,87,3.7,6,86,33,4,Very Satisfied,Sales,Low Maturity
+7.9,3,9,86,3.8,7,86,24,3,Satisfied,Banking,Mid Maturity
+7.7,3,11,83,4.5,7,86,33,4,Neutral,Sales,Low Maturity
+6.4,3,5,81,4.5,9,86,33,4,Satisfied,Telco,Low Maturity
+6.9,3,11,88,4,6,88,23,5,Neutral,Telco,Mid Maturity
+7.9,2.8,11,88,3.7,6,86,23,3,Neutral,Banking,Mid Maturity
+8,3,11,91,3.8,9,91,30,4,Satisfied,Sales,High Maturity
+7.9,3,11,82,4.6,6,92,33,4,Satisfied,Sales,Low Maturity
+7.1,3,11,89,3.7,6,86,23,4,Very Satisfied,Utilities,Mid Maturity
+6.5,2.6,5,84,3.7,6,92,23,4,Not Satisfied,Banking,Mid Maturity
+7.9,2.1,8,90,4.4,8,86,24,4,Satisfied,Utilities,Mid Maturity
+7.8,3,9,84,4.1,9,88,23,4,Satisfied,Telco,Mid Maturity
+7.4,2.2,11,86,4.5,6,89,27,4,Satisfied,Telco,Mid Maturity
+6.4,2.7,5,90,4,6,91,28,5,Satisfied,Banking,Mid Maturity
+7.9,2.6,11,89,4.6,6,86,33,3,Satisfied,Healthcare,Low Maturity
+6.4,2.7,10,90,4,6,91,27,5,Neutral,Telco,Mid Maturity
+6.2,2.1,11,90,4.2,7,86,23,4,Neutral,Utilities,Mid Maturity
+6.5,3,5,90,4.7,6,87,29,3,Neutral,Utilities,Low Maturity
+7.1,2.3,6,85,3.8,8,87,24,4,Neutral,Healthcare,Mid Maturity
+6.3,2.5,10,82,3.7,8,86,23,6,Neutral,Sales,Mid Maturity
+7.3,2.1,5,87,4.3,7,92,23,4,Very Satisfied,Sales,Mid Maturity
+7,2.3,11,86,4.7,6,86,23,4,Satisfied,Sales,Mid Maturity
+7.6,2.6,8,89,3.8,8,92,28,4,Neutral,Sales,Mid Maturity
+7.3,2.1,5,84,4.4,6,86,29,4,Satisfied,Telco,Low Maturity
+6.4,2.7,11,89,4.7,6,92,28,3,Satisfied,Utilities,Mid Maturity
+7.8,3,7,89,3.8,8,86,33,3,Satisfied,Healthcare,Low Maturity
+6.4,3,11,85,3.8,6,88,23,4,Very Satisfied,Telco,Mid Maturity
+6.4,2.1,5,90,3.8,6,86,26,4,Satisfied,Healthcare,Mid Maturity
+6.3,3,9,80,4.5,7,86,23,4,Satisfied,Banking,Nascent
+7.8,2.4,11,86,3.8,6,86,25,3,Neutral,Sales,Mid Maturity
+7.9,3,11,84,3.9,9,90,26,5,Neutral,Banking,Mid Maturity
+7.6,2.7,6,87,4.4,9,92,23,4,Satisfied,Utilities,Mid Maturity
+7.9,3,11,82,4.3,6,92,27,4,Satisfied,Utilities,Low Maturity
+7.9,3,8,87,4,6,92,33,3,Neutral,Sales,Low Maturity
+7.6,2.9,5,88,4,6,88,33,5,Neutral,Utilities,Low Maturity
+7.2,3,11,89,4.2,7,86,23,4,Very Satisfied,Tech Support,Mid Maturity
+7.4,2.6,11,84,4.6,6,92,29,4,Satisfied,Telco,Low Maturity
+6.3,2.8,5,85,3.7,6,86,27,5,Satisfied,Telco,Mid Maturity
+7.7,2.9,8,82,4.7,9,90,31,3,Satisfied,Telco,Low Maturity
+6.4,2.3,11,89,4.6,6,92,23,6,Very Satisfied,Tech Support,Mid Maturity
+6.6,2.2,9,87,4.7,6,86,33,4,Satisfied,Banking,Low Maturity
+6.4,2.7,5,90,3.8,8,86,33,4,Satisfied,Tech Support,Low Maturity
+6.3,3,5,82,4.6,6,86,23,5,Satisfied,Sales,Low Maturity
+7.7,3,7,89,4.2,6,86,33,3,Neutral,Tech Support,Low Maturity
+6.8,2.1,8,80,3.8,9,86,23,6,Satisfied,Utilities,Nascent
+6.8,2.3,10,89,4.6,6,86,23,3,Very Satisfied,Telco,Mid Maturity
+6.4,3,5,89,3.9,8,86,30,5,Neutral,Banking,Low Maturity
+6.6,2.1,5,88,4.4,6,92,29,4,Satisfied,Healthcare,Low Maturity
+7.7,2.5,11,82,4.3,8,90,23,4,Very Satisfied,Telco,Mid Maturity
+7.5,2.9,11,84,4,8,86,25,3,Neutral,Banking,Mid Maturity
+7.9,3,10,88,3.7,6,89,24,4,Satisfied,Telco,Mid Maturity
+7.5,2.2,8,80,3.8,7,86,33,5,Satisfied,Utilities,Nascent
+7.8,3,11,87,4.2,6,88,28,4,Satisfied,Telco,Mid Maturity
+6.9,2.1,5,87,3.8,8,90,23,5,Satisfied,Telco,Mid Maturity
+7.7,2.1,5,89,4.6,7,91,23,4,Neutral,Telco,Mid Maturity
+6.5,2.7,5,88,4.7,6,92,29,6,Very Satisfied,Banking,Low Maturity
+7.7,2.5,8,87,4.2,6,90,25,5,Satisfied,Healthcare,Mid Maturity
+7,2.7,8,87,3.7,6,92,27,4,Satisfied,Sales,Mid Maturity
+6.6,2.1,5,87,3.7,6,92,23,4,Very Satisfied,Telco,Mid Maturity
+7.8,3,11,80,4.2,6,90,33,4,Very Satisfied,Utilities,Low Maturity
+6.5,2.7,11,84,3.7,6,86,33,3,Very Satisfied,Utilities,Low Maturity
+8,3,9,89,4.3,7,91,23,5,Satisfied,Telco,Mid Maturity
+6.3,2.8,5,89,4.7,6,86,23,4,Very Satisfied,Telco,Mid Maturity
+6.2,2.4,5,90,3.8,6,89,23,3,Satisfied,Tech Support,Mid Maturity
+8,2.2,11,86,4.7,9,86,23,4,Satisfied,Sales,Mid Maturity
+7.5,2.7,5,91,4.5,8,92,23,4,Neutral,Utilities,Mid Maturity
+7.9,3,11,90,4.1,6,92,23,5,Satisfied,Utilities,Mid Maturity
+6.3,2.9,8,90,3.8,6,90,24,4,Satisfied,Banking,Mid Maturity
+8,2.1,11,80,4.2,6,86,23,5,Satisfied,Telco,Nascent
+7.9,2.3,11,83,3.7,6,89,25,3,Satisfied,Telco,Low Maturity
+8,2.7,7,82,4.7,7,92,29,3,Satisfied,Telco,Low Maturity
+6.5,3,5,81,4.6,6,92,23,3,Satisfied,Telco,Mid Maturity
+7.3,3,11,90,3.8,6,92,26,3,Satisfied,Banking,Mid Maturity
+7.9,2.5,7,86,4.6,8,89,28,5,Satisfied,Telco,Mid Maturity
+7.5,2.1,9,89,4.2,6,88,33,6,Satisfied,Sales,Low Maturity
+7.1,3,6,90,3.7,9,86,23,3,Satisfied,Tech Support,High Maturity
+6.8,2.8,9,86,4.7,6,92,33,3,Neutral,Sales,Low Maturity
+7.8,3,11,85,3.8,6,86,23,3,Neutral,Tech Support,Mid Maturity
+7.3,2.7,6,89,3.7,6,86,24,5,Not Satisfied,Tech Support,Mid Maturity
+6.3,3,9,83,4.7,7,86,24,6,Satisfied,Sales,Mid Maturity
+6.4,2.3,5,89,4.2,6,86,23,5,Very Satisfied,Healthcare,Mid Maturity
+7.8,3,5,85,3.8,6,86,23,6,Satisfied,Utilities,Mid Maturity
+7.8,3,11,81,3.8,6,91,29,4,Satisfied,Tech Support,Low Maturity
+6.5,3,5,90,3.7,6,90,26,4,Satisfied,Utilities,Mid Maturity
+7.9,3,5,80,3.7,6,86,23,5,Very Satisfied,Utilities,Nascent
+7.9,2.5,11,84,4,6,89,24,3,Satisfied,Sales,Low Maturity
+6.2,2.3,10,83,4.6,7,86,33,3,Satisfied,Utilities,Low Maturity
+7.9,2.2,5,90,4.6,6,92,31,4,Not Satisfied,Telco,Low Maturity
+6.4,2.2,5,89,4.6,8,86,23,4,Neutral,Healthcare,Mid Maturity
+6.3,3,5,81,4.1,6,86,23,6,Neutral,Tech Support,Mid Maturity
+7.7,3,8,82,3.7,9,92,28,4,Satisfied,Banking,Mid Maturity
+7.9,2.1,7,90,4.7,6,90,33,3,Satisfied,Sales,Low Maturity
+7.4,2.1,11,86,4.3,6,87,33,3,Satisfied,Healthcare,Low Maturity
+7.3,3,11,84,4.3,8,88,23,4,Very Satisfied,Utilities,Mid Maturity
+6.3,2.2,11,80,3.7,6,89,33,5,Satisfied,Healthcare,Low Maturity
+6.8,2.1,6,88,4.6,6,92,33,4,Satisfied,Banking,Low Maturity
+8,2.4,9,86,3.8,8,86,33,4,Satisfied,Tech Support,Low Maturity
+6.4,3,7,89,3.7,6,86,23,4,Neutral,Utilities,Mid Maturity
+6.4,3,10,90,3.8,6,92,33,3,Satisfied,Tech Support,Low Maturity
+7.9,2.9,8,89,3.8,6,86,24,3,Satisfied,Tech Support,Mid Maturity
+6.3,2.1,5,87,3.8,6,87,33,5,Very Satisfied,Banking,Low Maturity
+7.9,2.3,8,83,3.7,6,89,27,5,Satisfied,Tech Support,Low Maturity
+6.3,2.7,11,85,4.7,9,86,27,5,Satisfied,Banking,Mid Maturity
+7.9,3,10,82,3.9,6,92,31,4,Very Satisfied,Healthcare,Low Maturity
+8,3,5,89,4.6,6,86,23,3,Neutral,Sales,Mid Maturity
+6.9,3,11,89,3.7,6,92,28,5,Very Satisfied,Sales,Mid Maturity
+7.9,3,5,89,3.9,7,86,33,4,Very Satisfied,Utilities,Low Maturity
+6.2,2.1,11,90,4.6,7,87,26,4,Satisfied,Utilities,Mid Maturity
+7.9,3,5,90,4.3,9,86,25,3,Neutral,Banking,High Maturity
+7.8,2.1,6,80,3.9,6,92,23,5,Not Satisfied,Telco,Mid Maturity
+7.5,2.9,5,88,4,7,86,33,4,Neutral,Tech Support,Low Maturity
+6.3,3,5,89,4.6,7,88,33,5,Very Satisfied,Banking,Low Maturity
+7.9,3,11,80,4.7,9,91,23,5,Satisfied,Banking,Mid Maturity
+6.4,2.6,5,89,4.6,8,86,23,5,Very Satisfied,Telco,Mid Maturity
+6.9,2.6,9,85,4.5,7,92,23,5,Satisfied,Tech Support,Mid Maturity
+7.9,3,11,84,3.8,9,86,23,4,Neutral,Healthcare,Mid Maturity
+8,2.8,11,88,3.7,6,86,24,4,Very Satisfied,Healthcare,Mid Maturity
+7.5,3,11,86,4.3,7,92,33,5,Satisfied,Telco,Low Maturity
+6.5,2.3,5,89,3.8,6,86,33,3,Satisfied,Banking,Low Maturity
+6.3,2.4,7,83,4.7,8,88,29,6,Satisfied,Healthcare,Low Maturity
+7.9,2.6,5,84,4.5,6,86,28,5,Satisfied,Telco,Low Maturity
+7.9,2.1,11,84,3.7,8,91,24,4,Satisfied,Telco,Mid Maturity
+6.3,3,11,85,4.7,6,91,32,3,Neutral,Banking,Low Maturity
+6.5,2.1,5,89,4.6,7,86,26,4,Very Satisfied,Utilities,Mid Maturity
+7,2.3,5,85,4.7,8,92,33,5,Very Satisfied,Tech Support,Low Maturity
+6.5,3,11,89,3.8,6,89,31,3,Satisfied,Telco,Low Maturity
+6.2,3,11,89,3.8,6,86,28,4,Not Satisfied,Tech Support,Mid Maturity
+7.9,2.4,11,91,3.7,6,87,23,5,Very Satisfied,Sales,Mid Maturity
+8,2.3,6,87,4.4,7,86,33,4,Satisfied,Healthcare,Low Maturity
+6.9,3,5,87,4.6,6,92,30,5,Satisfied,Telco,Low Maturity
+6.5,2.1,5,85,3.8,6,86,23,5,Very Satisfied,Telco,Mid Maturity
+6.4,3,5,82,4.2,8,89,33,4,Satisfied,Telco,Low Maturity
+7.8,2.7,5,90,4.6,6,86,23,4,Satisfied,Sales,Mid Maturity
+7.2,3,5,86,4,6,92,33,5,Satisfied,Sales,Low Maturity
+6.3,2.3,11,88,3.8,6,92,33,4,Neutral,Banking,Low Maturity
+7.2,3,7,90,3.7,7,89,28,4,Satisfied,Sales,Mid Maturity
+6.2,2.7,5,86,4.6,6,89,33,5,Satisfied,Banking,Low Maturity
+7.8,2.7,6,90,4.6,8,90,23,4,Satisfied,Banking,Mid Maturity
+8,3,10,81,3.7,6,92,26,4,Neutral,Tech Support,Nascent
+7.9,3,5,82,3.8,6,92,33,3,Very Satisfied,Telco,Low Maturity
+6.8,2.2,11,89,4.5,6,92,23,4,Very Satisfied,Banking,Mid Maturity
+7.8,2.7,5,84,3.7,6,86,23,3,Not Satisfied,Utilities,Mid Maturity
+7.8,2.9,5,86,3.8,7,92,23,4,Very Satisfied,Banking,Mid Maturity
+8,2.6,9,87,4.7,6,92,23,4,Not Satisfied,Banking,Mid Maturity
+8,2.6,11,80,4.6,7,91,33,3,Neutral,Utilities,Low Maturity
+8,2.7,5,90,4.2,6,92,29,4,Satisfied,Banking,Low Maturity
+7.7,2.1,11,80,4.7,6,86,26,4,Satisfied,Sales,Nascent
+8,2.4,11,85,4.2,8,92,25,4,Neutral,Telco,Mid Maturity
+6.5,2.9,6,90,4.3,6,92,23,5,Satisfied,Utilities,Mid Maturity
+7.9,3,7,83,3.8,6,86,33,4,Satisfied,Healthcare,Low Maturity
+7,3,11,84,4.1,6,88,33,4,Satisfied,Banking,Low Maturity
+7.8,2.1,11,90,4.4,6,92,24,5,Not Satisfied,Tech Support,Mid Maturity
+6.9,2.2,11,88,3.8,7,92,32,4,Neutral,Sales,Low Maturity
+6.5,3,7,89,3.8,6,86,28,3,Satisfied,Banking,Mid Maturity
+7.7,2.3,5,88,3.8,6,86,23,3,Neutral,Tech Support,Mid Maturity
+7.9,3,6,85,3.8,6,86,25,6,Satisfied,Tech Support,Mid Maturity
+7.9,3,6,85,4,8,92,33,3,Very Satisfied,Utilities,Low Maturity
+6.5,2.9,6,85,4.2,6,86,31,4,Neutral,Healthcare,Low Maturity
+8,2.2,11,81,4.5,9,92,24,3,Satisfied,Healthcare,Mid Maturity
+7.9,2.2,5,89,4.7,6,92,23,4,Satisfied,Healthcare,Mid Maturity
+7.2,2.8,5,81,4.7,7,86,33,5,Neutral,Utilities,Low Maturity
+7.9,2.6,11,80,4.1,7,86,23,3,Satisfied,Banking,Nascent
+7.1,3,7,90,4.7,8,92,27,4,Very Satisfied,Utilities,Mid Maturity
+7.1,3,11,90,4.1,8,86,23,4,Very Satisfied,Sales,Mid Maturity
+7.9,3,5,83,4.3,6,92,23,5,Satisfied,Banking,Low Maturity
+6.3,3,11,89,4.4,6,92,33,3,Very Satisfied,Utilities,Low Maturity
+6.4,3,11,91,3.9,8,92,27,4,Satisfied,Healthcare,Mid Maturity
+7.9,2.6,5,82,3.8,8,92,25,3,Satisfied,Tech Support,Mid Maturity
+7.7,3,5,87,3.7,8,86,27,3,Very Satisfied,Sales,Mid Maturity
+8,3,11,90,4.6,6,92,24,4,Satisfied,Utilities,Nascent
+6.3,2.2,5,90,4.5,6,92,33,4,Satisfied,Healthcare,Low Maturity
+7.9,2.5,7,88,4.4,8,90,23,3,Satisfied,Banking,Mid Maturity
+6.4,3,11,89,4.5,9,92,23,4,Very Satisfied,Healthcare,Mid Maturity
+6.9,2.7,11,86,3.7,6,86,23,4,Very Satisfied,Banking,Mid Maturity
+7,3,8,85,3.8,6,88,26,4,Satisfied,Utilities,Mid Maturity
+7.9,3,5,86,4.7,9,86,24,6,Satisfied,Telco,Mid Maturity
+6.3,2.6,5,85,3.9,6,91,25,4,Satisfied,Telco,Mid Maturity
+8,3,11,82,3.8,7,89,23,5,Neutral,Telco,Nascent
+6.5,3,5,85,4.6,8,86,26,4,Satisfied,Banking,Mid Maturity
+6.3,2.3,5,89,4,9,89,33,3,Satisfied,Utilities,Mid Maturity
+6.5,2.5,11,86,4.4,6,86,30,5,Satisfied,Healthcare,Low Maturity
+6.8,2.1,5,90,4.6,6,86,29,4,Satisfied,Tech Support,Low Maturity
+8,2.2,5,80,4.1,9,89,25,4,Neutral,Telco,Mid Maturity
+6.6,3,11,82,3.8,6,86,33,3,Very Satisfied,Utilities,Low Maturity
+7,2.7,9,91,3.7,7,92,23,4,Satisfied,Utilities,Mid Maturity
+7.9,2.5,6,89,3.8,9,88,25,3,Neutral,Utilities,Mid Maturity
+8,2.8,10,88,3.8,7,88,29,6,Neutral,Banking,Low Maturity
+6.2,2.2,11,80,4.1,6,88,29,5,Not Satisfied,Telco,Low Maturity
+7.3,3,11,86,3.7,7,86,23,6,Very Satisfied,Banking,Mid Maturity
+7.8,2.1,9,80,4.5,8,89,24,4,Neutral,Healthcare,Mid Maturity
+6.7,2.6,11,89,3.8,7,88,23,4,Neutral,Banking,Mid Maturity
+7.3,2.8,5,89,3.7,8,92,32,4,Satisfied,Banking,Low Maturity
+7.1,2.4,5,84,4.3,6,86,26,4,Satisfied,Sales,Low Maturity
+6.5,2.4,11,80,3.9,8,87,23,4,Neutral,Healthcare,Mid Maturity
+7.1,2.2,9,90,4.5,7,86,23,6,Neutral,Tech Support,Mid Maturity
+7.1,2.6,10,89,4.3,8,86,24,3,Neutral,Tech Support,Mid Maturity
+8,2.4,11,89,3.8,7,92,29,5,Satisfied,Healthcare,Low Maturity
+6.3,2.5,11,86,4.2,7,92,23,3,Satisfied,Healthcare,Mid Maturity
+7.8,2.1,7,90,4.7,6,92,33,4,Satisfied,Healthcare,Low Maturity
+6.6,3,7,86,4.4,6,90,27,6,Neutral,Sales,Mid Maturity
+6.6,2.8,9,89,3.7,6,90,23,5,Neutral,Telco,Mid Maturity
+7.1,2.5,5,91,3.7,6,92,23,3,Very Satisfied,Utilities,Mid Maturity
+7.9,3,11,90,4.7,7,89,33,5,Very Satisfied,Tech Support,Low Maturity
+6.3,2.8,7,89,4.5,6,88,28,3,Satisfied,Tech Support,Mid Maturity
+6.4,2.2,5,83,4.5,7,86,24,4,Neutral,Tech Support,Mid Maturity
+6.6,3,5,89,4.4,8,86,23,4,Very Satisfied,Healthcare,Mid Maturity
+6.3,2.8,11,89,4.2,6,86,26,6,Neutral,Utilities,Mid Maturity
+6.5,2.4,9,85,4.7,6,86,23,3,Not Satisfied,Utilities,Mid Maturity
+7.5,2.1,6,89,4.7,7,86,25,5,Satisfied,Sales,Mid Maturity
+6.3,3,9,81,3.8,9,87,30,3,Satisfied,Sales,Low Maturity
+6.5,2.8,5,91,4.6,6,92,26,5,Very Satisfied,Utilities,Mid Maturity
+6.4,2.2,5,81,3.8,8,92,24,6,Satisfied,Utilities,Mid Maturity
+7.9,2.4,9,80,4.7,6,92,23,5,Neutral,Telco,Mid Maturity
+6.3,2.1,7,86,4.7,9,90,23,5,Satisfied,Banking,Mid Maturity
+7.2,2.1,7,90,4.1,6,86,33,5,Satisfied,Utilities,Low Maturity
+7.8,2.8,8,89,3.8,6,86,33,5,Neutral,Tech Support,Low Maturity
+6.5,3,5,81,4.2,6,88,33,5,Neutral,Healthcare,Low Maturity
+7.9,2.5,9,89,3.7,6,92,24,4,Satisfied,Telco,Mid Maturity
+6.2,2.6,8,86,4.7,6,92,26,5,Satisfied,Sales,Mid Maturity
+7.9,2.1,11,80,4.4,6,92,28,6,Satisfied,Utilities,Mid Maturity
+6.3,2.8,11,80,3.8,8,92,23,3,Satisfied,Utilities,Mid Maturity
+6.4,2.3,11,88,4.5,8,86,23,4,Very Satisfied,Banking,Mid Maturity
+6.2,2.2,6,87,4.7,6,92,33,3,Satisfied,Tech Support,Low Maturity
+6.4,3,11,85,4.7,6,86,33,3,Satisfied,Tech Support,Low Maturity
+7.4,2.7,11,81,4.2,8,92,27,6,Satisfied,Healthcare,Mid Maturity
+7.9,2.1,5,90,4.7,9,92,28,3,Satisfied,Tech Support,High Maturity
+8,2.6,11,85,3.9,8,89,23,3,Neutral,Banking,Mid Maturity
+7.4,3,5,89,4.7,6,87,33,3,Satisfied,Tech Support,Low Maturity
+6.2,2.9,8,91,3.9,6,92,33,4,Satisfied,Telco,Low Maturity
+7.3,3,5,84,4.3,6,88,33,3,Satisfied,Tech Support,Low Maturity
+6.2,3,10,80,3.9,6,86,23,3,Satisfied,Healthcare,Nascent
+7.4,2.4,7,88,4.3,6,92,33,3,Very Satisfied,Healthcare,Low Maturity
+7,2.3,7,89,4.5,6,88,29,6,Neutral,Sales,Low Maturity
+7.3,2.7,5,86,4,6,92,23,3,Very Satisfied,Tech Support,Mid Maturity
+6.3,2.1,5,83,4.6,7,92,23,5,Satisfied,Tech Support,Mid Maturity
+7.8,2.4,5,87,3.8,7,92,30,3,Neutral,Banking,Low Maturity
+7.3,2.1,5,83,4.7,9,87,23,3,Satisfied,Healthcare,Mid Maturity
+6.6,2.4,11,84,3.8,9,87,23,3,Satisfied,Sales,Mid Maturity
+7.6,3,11,82,3.7,6,86,23,4,Very Satisfied,Banking,Low Maturity
+8,3,11,90,4.6,6,87,29,4,Satisfied,Tech Support,Nascent
+6.3,3,6,80,3.7,6,88,23,3,Satisfied,Sales,Mid Maturity
+6.3,3,5,84,3.8,8,92,33,4,Neutral,Sales,Low Maturity
+7.5,2.8,7,90,4.1,9,89,33,3,Neutral,Utilities,High Maturity
+7.9,2.9,11,89,3.8,7,86,28,5,Very Satisfied,Utilities,Mid Maturity
+6.5,3,11,85,4.7,6,86,28,4,Satisfied,Banking,Mid Maturity
+7,2.8,5,87,3.7,6,86,33,3,Neutral,Healthcare,Low Maturity
+6.3,3,11,89,4.2,7,86,31,3,Very Satisfied,Telco,Low Maturity
+6.4,3,11,89,4.3,6,92,24,4,Very Satisfied,Healthcare,Mid Maturity
+6.5,2.8,11,89,3.8,7,88,23,4,Neutral,Sales,Mid Maturity
+8,2.9,11,89,3.7,7,86,33,4,Very Satisfied,Utilities,Nascent
+6.8,2.7,5,86,4.2,6,86,27,4,Neutral,Utilities,Mid Maturity
+7.9,3,5,90,4.7,8,91,27,4,Satisfied,Healthcare,Mid Maturity
+7.8,2.5,7,83,4.2,6,86,28,4,Satisfied,Utilities,Low Maturity
+7.1,2.4,8,90,3.7,6,90,23,5,Not Satisfied,Tech Support,Mid Maturity
+7.7,2.1,5,89,3.7,9,90,33,3,Neutral,Healthcare,Mid Maturity
+7.9,3,7,90,4,9,86,27,4,Satisfied,Utilities,High Maturity
+7.7,3,11,81,4.7,6,89,24,4,Satisfied,Tech Support,Mid Maturity
+8,3,8,90,4.6,6,86,24,3,Satisfied,Telco,Mid Maturity
+6.5,2.7,11,86,4.2,8,92,23,4,Very Satisfied,Telco,Mid Maturity
+6.4,2.4,5,82,3.8,9,86,23,3,Satisfied,Utilities,Mid Maturity
+6.8,2.5,5,87,4.3,8,91,23,3,Satisfied,Utilities,Mid Maturity
+6.4,3,11,89,4.2,6,92,27,3,Satisfied,Tech Support,Mid Maturity
+6.3,3,5,90,4.2,8,87,23,3,Satisfied,Banking,Mid Maturity
+7.5,3,11,90,4.6,8,86,28,5,Satisfied,Utilities,Mid Maturity
+6.8,3,11,86,3.9,6,86,23,5,Very Satisfied,Banking,Mid Maturity
+8,2.5,11,83,4.3,7,89,23,4,Satisfied,Banking,Mid Maturity
+7.5,3,5,90,4.7,6,86,33,5,Neutral,Tech Support,Low Maturity
+6.2,3,5,90,3.8,8,86,30,4,Satisfied,Healthcare,Low Maturity
+6.8,2.8,11,83,3.8,7,86,23,4,Satisfied,Healthcare,Mid Maturity
+6.2,2.7,9,89,4.6,6,86,33,3,Not Satisfied,Banking,Low Maturity
+6.4,2.1,11,81,4.1,8,92,23,3,Very Satisfied,Sales,Mid Maturity
+7.8,2.9,9,89,3.8,7,89,32,3,Satisfied,Telco,Low Maturity
+7.9,2.3,6,89,4.2,6,90,33,4,Satisfied,Utilities,Low Maturity
+7.3,3,6,88,4.5,6,92,33,6,Satisfied,Sales,Low Maturity
+6.3,2.1,7,85,4.7,6,90,33,6,Neutral,Utilities,Low Maturity
+6.9,2.1,10,80,3.7,6,86,33,4,Satisfied,Utilities,Nascent
+6.4,2.6,8,80,3.9,6,88,27,3,Neutral,Healthcare,Mid Maturity
+7.6,2.1,7,90,3.8,7,92,33,5,Satisfied,Telco,Low Maturity
+7.6,3,10,90,4.4,6,86,23,3,Very Satisfied,Utilities,Mid Maturity
+7.1,3,5,88,3.9,6,92,24,4,Not Satisfied,Tech Support,Mid Maturity
+6.3,2.2,6,82,3.8,6,92,27,4,Satisfied,Tech Support,Low Maturity
+6.2,2.6,5,87,4.5,8,90,24,4,Satisfied,Utilities,Mid Maturity
+7.8,3,11,81,4.6,6,86,23,3,Satisfied,Telco,Mid Maturity
+7.1,2.5,11,84,4.1,6,86,33,3,Very Satisfied,Utilities,Low Maturity
+7.8,2.7,5,85,4.1,8,92,23,3,Very Satisfied,Banking,Mid Maturity
+6.3,2.4,5,90,4,6,86,28,4,Satisfied,Telco,Mid Maturity
+6.5,3,11,90,4.5,8,91,28,4,Satisfied,Telco,Mid Maturity
+7.9,3,11,86,3.7,6,92,23,4,Neutral,Utilities,Mid Maturity
+6.4,3,11,82,4.7,8,92,30,4,Satisfied,Banking,Low Maturity
+7.9,3,11,90,4.4,7,92,23,5,Satisfied,Tech Support,Mid Maturity
+6.2,3,6,82,3.8,6,92,23,3,Neutral,Tech Support,Low Maturity
+6.9,2.1,6,89,3.8,7,86,28,5,Satisfied,Utilities,Mid Maturity
+8,2.1,11,81,3.7,6,88,28,5,Neutral,Tech Support,Mid Maturity
+6.7,3,11,81,4.7,6,92,30,3,Satisfied,Sales,Low Maturity
+7.5,3,5,86,3.7,6,92,24,4,Not Satisfied,Utilities,Mid Maturity
+7.6,3,8,86,4.6,6,89,23,5,Very Satisfied,Sales,Mid Maturity
+7.9,2.2,5,85,4.6,7,86,32,5,Neutral,Banking,Low Maturity
+7.8,2.2,5,86,3.9,8,89,26,4,Neutral,Sales,Mid Maturity
+7.2,2.1,5,82,4.6,6,89,33,5,Very Satisfied,Banking,Low Maturity
+7.8,2.4,5,82,4.3,6,92,24,3,Satisfied,Banking,Low Maturity
+8,2.1,5,85,4.4,6,92,23,3,Satisfied,Utilities,Mid Maturity
+7.4,3,11,86,3.7,8,86,26,4,Very Satisfied,Healthcare,Mid Maturity
+7.4,2.3,11,90,3.7,7,86,25,4,Neutral,Tech Support,Mid Maturity
+7.5,3,11,90,3.8,6,92,33,3,Very Satisfied,Sales,Low Maturity
+7.9,2.4,8,82,4.2,6,86,23,5,Satisfied,Telco,Low Maturity
+7.4,3,11,90,4.6,6,86,25,3,Neutral,Utilities,Mid Maturity
+6.9,2.1,6,89,3.8,9,86,23,5,Satisfied,Telco,Mid Maturity
+7.9,2.1,7,89,4.1,6,86,33,5,Satisfied,Utilities,Low Maturity
+7.8,2.4,7,89,4,9,87,30,4,Very Satisfied,Banking,Mid Maturity
+6.9,3,5,88,4.6,8,86,33,4,Neutral,Tech Support,Low Maturity
+6.7,2.6,5,87,4.7,6,88,28,3,Very Satisfied,Sales,Mid Maturity
+6.3,2.2,11,85,4.2,9,86,29,5,Neutral,Healthcare,Mid Maturity
+7.8,3,7,85,4.4,7,86,31,3,Satisfied,Tech Support,Low Maturity
+7.3,2.3,11,89,4.6,6,87,23,4,Neutral,Sales,Mid Maturity
+7.7,2.6,8,88,4.6,7,86,23,4,Neutral,Banking,Mid Maturity
+6.5,3,10,85,4.6,7,89,30,4,Very Satisfied,Sales,Low Maturity
+6.3,2.4,11,86,4.7,6,86,23,4,Satisfied,Telco,Mid Maturity
+7.4,2.7,11,90,3.8,6,92,29,5,Neutral,Sales,Low Maturity
+7.2,2.1,11,83,4,6,86,32,6,Very Satisfied,Telco,Low Maturity
+7.3,2.9,5,83,3.9,6,91,33,5,Satisfied,Healthcare,Low Maturity
+7.9,2.3,11,89,4.6,6,88,23,5,Satisfied,Banking,Mid Maturity
+7.8,3,11,90,4.4,6,89,33,5,Neutral,Healthcare,Low Maturity
+7.6,3,9,90,4.2,6,86,23,4,Very Satisfied,Banking,Mid Maturity
+6.7,2.1,11,80,4.4,7,89,33,4,Satisfied,Utilities,Low Maturity
+7.9,3,11,86,3.7,7,86,24,3,Very Satisfied,Tech Support,Mid Maturity
+7.7,2.3,11,86,4.5,8,86,23,4,Satisfied,Utilities,Mid Maturity
+6.9,2.1,11,82,4.5,6,86,23,4,Neutral,Utilities,Low Maturity
+6.4,3,6,83,3.7,8,92,23,3,Very Satisfied,Telco,Mid Maturity
+8,3,11,83,4.7,7,86,26,3,Neutral,Tech Support,Nascent
+7.1,2.4,11,90,4.4,6,86,23,5,Very Satisfied,Telco,Mid Maturity
+6.7,2.7,11,91,3.7,6,92,30,4,Satisfied,Banking,Low Maturity
+7.6,3,10,89,4.2,7,86,33,3,Neutral,Banking,Low Maturity
+6.2,3,5,88,4.1,7,88,29,4,Satisfied,Telco,Low Maturity
+6.4,2.8,11,89,3.7,8,92,24,5,Neutral,Healthcare,Mid Maturity
+6.7,3,5,90,3.7,6,92,25,5,Satisfied,Telco,Mid Maturity
+6.4,3,5,89,4.6,6,86,23,3,Satisfied,Banking,Mid Maturity
+6.4,3,11,85,4,8,86,24,4,Satisfied,Banking,Mid Maturity
+7.1,2.1,8,89,4.5,6,91,23,3,Satisfied,Tech Support,Mid Maturity
+6.3,2.6,6,89,4.7,7,88,23,4,Neutral,Tech Support,Mid Maturity
+7.9,2.4,6,86,4,6,86,28,4,Satisfied,Banking,Mid Maturity
+6.2,2.7,5,90,4.2,6,89,30,3,Very Satisfied,Healthcare,Low Maturity
+6.3,2.3,9,88,3.8,7,92,33,5,Satisfied,Banking,Low Maturity
+6.4,2.8,5,85,3.8,9,92,33,3,Neutral,Healthcare,Mid Maturity
+6.6,2.8,6,87,4.7,6,89,25,5,Satisfied,Telco,Mid Maturity
+6.2,3,11,82,4.1,8,92,27,4,Satisfied,Utilities,Mid Maturity
+7.5,2.8,11,80,4.2,7,86,33,3,Neutral,Utilities,Nascent
+7.1,2.5,5,90,4.3,7,86,28,4,Satisfied,Sales,Mid Maturity
+6.4,3,6,88,4.6,9,89,23,4,Neutral,Sales,Mid Maturity
+7.8,2.3,8,80,3.8,6,87,25,5,Neutral,Telco,Mid Maturity
+6.8,3,11,89,4.2,8,91,28,5,Satisfied,Telco,Mid Maturity
+6.3,2.4,11,80,3.7,6,92,29,3,Satisfied,Telco,Low Maturity
+6.2,3,11,82,4.7,6,86,23,4,Satisfied,Healthcare,Low Maturity
+7.9,2.6,7,89,3.7,6,86,29,4,Not Satisfied,Healthcare,Low Maturity
+6.4,2.8,8,89,3.8,9,92,23,4,Very Satisfied,Banking,Mid Maturity
+7.8,2.5,5,89,4.2,9,87,33,6,Satisfied,Telco,Mid Maturity
+6.2,3,9,89,3.9,6,86,23,3,Satisfied,Banking,Mid Maturity
+6.2,3,6,90,3.8,6,92,23,4,Satisfied,Banking,Mid Maturity
+7.4,2.3,5,89,3.7,6,89,25,5,Satisfied,Utilities,Mid Maturity
+6.7,2.1,5,89,4.6,6,86,23,5,Satisfied,Tech Support,Mid Maturity
+7.5,3,5,89,3.8,6,86,23,3,Satisfied,Banking,Mid Maturity
+7.2,2.1,11,81,4,6,92,26,4,Neutral,Banking,Mid Maturity
+7.5,3,7,80,3.8,6,92,23,3,Satisfied,Healthcare,Mid Maturity
+6.2,3,5,85,4.6,8,92,32,4,Satisfied,Tech Support,Low Maturity
+6.4,2.3,5,90,3.7,8,87,27,4,Satisfied,Healthcare,Mid Maturity
+8,2.3,11,88,4.1,6,90,29,3,Very Satisfied,Sales,Low Maturity
+7.8,3,11,84,3.7,6,91,23,3,Not Satisfied,Utilities,Mid Maturity
+6.3,3,5,89,4.3,6,89,33,3,Satisfied,Utilities,Low Maturity
+6.6,2.9,9,84,3.7,6,90,25,5,Neutral,Telco,Low Maturity
+6.5,2.3,7,89,3.7,8,92,29,3,Neutral,Healthcare,Low Maturity
+7.6,2.3,7,82,4.3,6,86,24,4,Neutral,Telco,Low Maturity
+6.8,2.2,11,90,3.8,6,92,23,3,Very Satisfied,Sales,Mid Maturity
+6.5,2.7,5,87,4.7,6,86,23,6,Satisfied,Banking,Mid Maturity
+6.3,2.8,6,85,4.6,6,92,32,4,Satisfied,Telco,Low Maturity
+6.3,2.6,11,85,4.6,6,86,24,4,Satisfied,Utilities,Mid Maturity
+7,2.9,10,90,4.6,6,86,23,3,Neutral,Tech Support,Mid Maturity
+6.3,2.5,11,88,3.8,6,86,30,5,Neutral,Tech Support,Low Maturity
+7.2,3,5,87,4.7,6,87,33,5,Satisfied,Banking,Low Maturity
+7.9,3,5,87,4.4,6,92,33,3,Satisfied,Utilities,Low Maturity
+6.4,2.3,11,88,4.7,9,91,30,3,Neutral,Sales,Mid Maturity
+6.3,2.8,5,90,4.6,6,86,26,3,Satisfied,Healthcare,Mid Maturity
+6.2,2.6,6,89,3.8,7,86,33,4,Satisfied,Tech Support,Low Maturity
+7,2.4,11,83,4.6,7,87,23,3,Neutral,Healthcare,Mid Maturity
+6.4,3,11,84,4.2,6,90,33,6,Satisfied,Healthcare,Low Maturity
+7.8,2.6,11,90,4.2,8,91,29,5,Satisfied,Telco,Low Maturity
+7.5,2.5,11,89,3.8,9,92,33,5,Satisfied,Telco,Mid Maturity
+7.5,2.1,5,90,3.7,6,92,31,6,Very Satisfied,Healthcare,Low Maturity
+6.8,2.5,11,87,3.8,6,86,23,5,Very Satisfied,Healthcare,Mid Maturity
+7.6,3,8,89,3.7,6,86,25,6,Satisfied,Utilities,Mid Maturity
+7.9,3,7,90,3.9,6,86,29,5,Very Satisfied,Tech Support,Low Maturity
+7.9,2.1,8,86,4.7,8,90,27,3,Satisfied,Utilities,Mid Maturity
+7.9,3,9,82,4.4,7,92,33,4,Satisfied,Healthcare,Low Maturity
+7.9,2.1,11,90,4.7,7,86,27,4,Neutral,Healthcare,Mid Maturity
+7.9,2.8,5,90,4.7,6,86,28,3,Very Satisfied,Sales,Mid Maturity
+7.9,3,8,85,3.7,7,87,23,4,Satisfied,Telco,Mid Maturity
+8,2.8,10,81,4.3,6,86,26,6,Satisfied,Utilities,Mid Maturity
+6.5,3,11,82,3.7,8,92,28,5,Satisfied,Healthcare,Mid Maturity
+7.9,2.4,5,80,3.7,7,86,33,4,Satisfied,Tech Support,Nascent
+7.8,2.1,5,82,4.7,6,88,31,4,Satisfied,Healthcare,Low Maturity
+7.9,3,11,90,4.5,6,86,28,3,Satisfied,Telco,Mid Maturity
+7.2,3,11,80,4.5,6,88,33,3,Neutral,Telco,Low Maturity
+6.2,2.9,5,87,4.5,6,88,23,3,Satisfied,Sales,Mid Maturity
+6.2,3,5,84,4.4,6,92,29,6,Satisfied,Utilities,Low Maturity
+7.2,2.1,5,83,3.8,6,87,28,4,Neutral,Tech Support,Low Maturity
+7.8,3,11,83,4.7,6,87,30,3,Neutral,Utilities,Low Maturity
+6.5,2.1,5,81,3.8,6,92,29,3,Neutral,Tech Support,Low Maturity
+6.4,2.9,5,89,4.1,6,86,23,5,Satisfied,Utilities,Mid Maturity
+6.3,2.3,11,84,4.7,7,86,33,6,Neutral,Sales,Low Maturity
+7.9,3,11,85,4.4,6,86,23,5,Satisfied,Utilities,Mid Maturity
+7.5,2.4,8,87,4.4,8,86,23,4,Satisfied,Sales,Mid Maturity
+6.5,3,11,88,3.8,6,88,25,4,Satisfied,Utilities,Mid Maturity
+7.4,2.2,10,85,4.4,7,92,33,5,Very Satisfied,Telco,Low Maturity
+7.8,2.8,5,90,3.9,6,92,23,4,Satisfied,Telco,Mid Maturity
+6.4,2.3,5,89,3.8,7,89,24,4,Neutral,Telco,Mid Maturity
+7.5,2.9,7,89,3.7,6,92,32,4,Satisfied,Utilities,Low Maturity
+8,3,11,89,4.6,8,87,33,3,Neutral,Utilities,Nascent
+7.3,3,8,87,3.7,6,86,23,3,Not Satisfied,Tech Support,Mid Maturity
+6.5,3,11,83,4.2,6,86,25,5,Not Satisfied,Utilities,Mid Maturity
+6.9,3,8,80,4.2,6,92,23,4,Satisfied,Telco,Mid Maturity
+7.1,2.1,5,87,3.7,6,88,23,3,Satisfied,Banking,Mid Maturity
+6.8,3,5,84,4.3,6,92,27,3,Satisfied,Tech Support,Low Maturity
+6.8,2.8,11,87,4.1,6,92,31,4,Satisfied,Telco,Low Maturity
+7.2,2.8,11,85,4.3,7,90,33,4,Very Satisfied,Utilities,Low Maturity
+6.7,2.8,5,90,4.4,6,86,23,4,Very Satisfied,Tech Support,Mid Maturity
+6.2,3,10,90,4.7,7,91,25,5,Neutral,Sales,Mid Maturity
+6.5,2.6,11,90,3.9,8,86,33,5,Satisfied,Tech Support,Low Maturity
+6.4,3,5,83,3.7,7,86,26,4,Satisfied,Utilities,Mid Maturity
+7.8,3,11,86,3.7,6,86,23,3,Satisfied,Healthcare,Mid Maturity
+7.5,2.9,6,91,4.2,7,86,27,4,Neutral,Healthcare,Mid Maturity
+7.9,3,7,90,4.5,6,86,23,5,Satisfied,Utilities,Mid Maturity
+7.9,3,11,89,3.7,6,91,24,4,Satisfied,Telco,Mid Maturity
+7.8,2.4,5,80,4.4,7,86,27,3,Satisfied,Healthcare,Nascent
+7.1,2.8,9,85,4.2,6,86,32,3,Very Satisfied,Sales,Low Maturity
+6.4,2.4,5,90,4.7,9,88,26,3,Neutral,Healthcare,High Maturity
+7.8,2.1,5,90,4.5,6,86,23,3,Satisfied,Telco,Mid Maturity
+6.5,2.1,7,80,3.8,6,87,28,5,Satisfied,Utilities,Mid Maturity
+6.5,3,6,90,4,6,86,33,4,Satisfied,Sales,Low Maturity
+6.9,2.2,10,89,4.7,6,92,27,4,Satisfied,Tech Support,Mid Maturity
+7.9,2.9,8,85,4.7,7,88,23,3,Neutral,Telco,Mid Maturity
+7.9,2.3,5,90,4.7,6,89,24,4,Satisfied,Telco,Mid Maturity
+7,3,5,89,3.8,9,86,33,6,Satisfied,Utilities,Mid Maturity
+7.4,2.8,7,89,4,6,92,33,3,Satisfied,Healthcare,Low Maturity
+7.9,2.1,8,90,4.5,6,92,29,3,Satisfied,Telco,Low Maturity
+7.8,2.6,7,89,4.2,6,88,33,4,Satisfied,Banking,Low Maturity
+7.9,2.2,7,80,4.7,6,86,23,3,Satisfied,Tech Support,Nascent
+7.9,2.7,10,90,4.6,6,86,23,4,Satisfied,Sales,Mid Maturity
+6.4,3,5,90,4,8,90,23,4,Neutral,Telco,Mid Maturity
+7.3,2.5,11,86,4.1,6,86,29,6,Satisfied,Healthcare,Low Maturity
+7.9,2.8,7,89,4.7,6,91,28,4,Satisfied,Telco,Mid Maturity
+8,3,11,90,4.1,6,86,23,4,Satisfied,Healthcare,Nascent
+6.5,3,11,85,4.7,6,89,30,4,Not Satisfied,Utilities,Low Maturity
+6.4,2.7,5,84,4.7,6,92,23,6,Neutral,Telco,Low Maturity
+7.9,2.3,9,82,4.5,6,89,23,3,Satisfied,Banking,Low Maturity
+6.5,2.8,11,90,3.7,6,86,24,3,Satisfied,Utilities,Mid Maturity
+8,2.3,5,88,4.6,7,92,28,3,Neutral,Banking,Mid Maturity
+7.8,3,5,84,4.1,9,86,23,6,Satisfied,Telco,Mid Maturity
+7.5,3,11,89,3.9,6,86,24,6,Satisfied,Tech Support,Mid Maturity
+6.3,2.8,11,82,4.6,6,86,25,4,Satisfied,Healthcare,Low Maturity
+6.3,3,5,89,3.8,6,90,25,3,Very Satisfied,Telco,Mid Maturity
+7.9,2.9,11,90,3.8,6,86,23,4,Satisfied,Banking,Mid Maturity
+6.4,3,11,88,4.1,6,86,25,4,Not Satisfied,Telco,Mid Maturity
+6.4,2.1,11,81,4.1,8,90,33,5,Satisfied,Tech Support,Low Maturity
+7.2,2.6,5,82,4.7,7,92,31,4,Satisfied,Sales,Low Maturity
+7.8,2.3,11,88,3.8,6,86,24,4,Very Satisfied,Utilities,Mid Maturity
+8,3,5,89,4.6,8,92,27,4,Satisfied,Tech Support,Mid Maturity
+7,2.4,6,81,4.7,6,92,33,3,Satisfied,Banking,Low Maturity
+7.6,2.6,5,86,4.7,6,92,23,5,Satisfied,Utilities,Mid Maturity
+7.9,2.6,11,84,3.8,6,87,33,5,Neutral,Telco,Low Maturity
+7.9,2.4,7,90,4.6,6,86,23,6,Satisfied,Utilities,Mid Maturity
+7.9,2.9,11,89,4.6,6,86,24,5,Neutral,Healthcare,Mid Maturity
+6.6,2.7,5,88,4.5,6,86,31,5,Satisfied,Tech Support,Low Maturity
+7.8,2.5,7,83,4.4,6,86,24,4,Neutral,Sales,Low Maturity
+6.2,3,8,90,4.5,6,86,23,3,Very Satisfied,Healthcare,Mid Maturity
+6.4,2.4,5,85,4.5,8,86,23,5,Satisfied,Banking,Mid Maturity
+6.2,3,6,88,3.9,6,86,33,3,Very Satisfied,Banking,Low Maturity
+8,3,11,89,3.8,6,86,25,5,Neutral,Healthcare,Nascent
+6.5,2.3,11,85,4,7,86,27,6,Satisfied,Tech Support,Mid Maturity
+6.8,2.9,9,81,3.8,6,92,26,4,Neutral,Telco,Mid Maturity
+7.6,3,6,87,4,6,92,26,6,Satisfied,Telco,Mid Maturity
+7.7,3,11,90,4.7,8,92,23,4,Satisfied,Utilities,Mid Maturity
+6.4,3,7,90,4.7,6,90,31,5,Very Satisfied,Telco,Low Maturity
+6.3,2.8,8,88,4,6,88,33,6,Satisfied,Tech Support,Low Maturity
+6.5,3,11,90,4,6,92,33,3,Very Satisfied,Healthcare,Low Maturity
+6.8,2.9,9,86,4.1,8,92,23,4,Neutral,Utilities,Mid Maturity
+6.5,3,9,83,3.8,6,92,33,3,Satisfied,Healthcare,Low Maturity
+6.3,3,11,88,4.7,8,86,24,4,Satisfied,Healthcare,Mid Maturity
+7.6,2.1,10,81,4.7,7,86,30,3,Satisfied,Tech Support,Low Maturity
+6.8,2.5,6,89,3.8,6,86,29,5,Neutral,Healthcare,Low Maturity
+7.8,3,5,81,4.7,8,86,23,3,Satisfied,Telco,Mid Maturity
+6.3,2.1,6,90,3.7,6,86,33,3,Neutral,Sales,Low Maturity
+6.3,3,5,90,4.1,6,92,23,3,Satisfied,Telco,Mid Maturity
+6.3,2.9,11,89,4.5,6,92,26,3,Satisfied,Tech Support,Mid Maturity
+6.9,2.7,10,84,3.7,7,87,33,4,Satisfied,Banking,Low Maturity
+7,2.7,6,90,3.9,6,92,31,5,Very Satisfied,Healthcare,Low Maturity
+7.9,3,7,83,3.7,6,86,23,3,Satisfied,Telco,Low Maturity
+7.2,3,11,84,4.2,6,92,23,4,Not Satisfied,Sales,Mid Maturity
+8,2.1,5,81,4.7,8,92,23,5,Satisfied,Banking,Mid Maturity
+6.2,2.4,5,89,4.7,7,86,29,4,Satisfied,Tech Support,Low Maturity
+7.9,2.2,7,89,4.5,6,92,23,3,Satisfied,Telco,Mid Maturity
+7.9,2.4,11,83,3.8,6,86,23,3,Not Satisfied,Healthcare,Mid Maturity
+6.2,3,6,82,4.4,6,92,29,5,Not Satisfied,Banking,Low Maturity
+6.4,3,11,88,4.7,6,92,26,5,Satisfied,Tech Support,Mid Maturity
+6.5,2.9,5,89,3.7,9,86,23,6,Satisfied,Utilities,Mid Maturity
+7.4,2.7,5,88,4.6,8,88,28,5,Satisfied,Sales,Mid Maturity
+7.8,2.7,5,86,4.6,6,92,25,3,Neutral,Telco,Mid Maturity
+7.8,3,7,89,3.7,6,86,33,6,Satisfied,Tech Support,Low Maturity
+8,2.8,9,89,4.5,6,86,33,5,Satisfied,Sales,Low Maturity
+6.4,2.7,8,87,4.6,6,87,23,3,Satisfied,Healthcare,Mid Maturity
+7.9,2.8,5,89,4.6,6,92,32,4,Not Satisfied,Healthcare,Low Maturity
+6.8,2.2,5,81,4.7,8,86,25,3,Satisfied,Telco,Mid Maturity
+7.9,2.8,11,91,4.7,6,92,33,5,Satisfied,Banking,Low Maturity
+7.9,2.1,7,88,4.6,7,86,23,3,Neutral,Banking,Mid Maturity
+7.9,2.5,11,89,4.2,6,92,23,4,Not Satisfied,Healthcare,Mid Maturity
+6.9,2.3,11,89,4.2,6,92,33,3,Very Satisfied,Banking,Low Maturity
+6.3,2.1,11,82,3.7,9,92,23,6,Satisfied,Healthcare,Mid Maturity
+7.1,3,8,89,3.7,9,92,27,3,Satisfied,Sales,Mid Maturity
+6.3,2.1,9,90,4,7,92,32,5,Satisfied,Banking,Low Maturity
+7.3,3,9,91,3.7,6,89,29,3,Not Satisfied,Healthcare,Low Maturity
+7.9,3,11,89,4.6,6,92,33,3,Satisfied,Utilities,Low Maturity
+7.6,2.6,8,80,4.5,6,92,27,4,Neutral,Telco,Mid Maturity
+6.7,2.8,7,80,4.4,6,86,33,3,Satisfied,Sales,Nascent
+6.3,2.3,5,83,4.6,6,86,26,3,Neutral,Banking,Low Maturity
+6.5,3,8,84,3.7,6,87,23,6,Not Satisfied,Banking,Mid Maturity
+7.4,3,5,82,4.4,6,86,30,6,Satisfied,Banking,Low Maturity
+7.9,2.5,11,80,3.9,6,88,33,3,Satisfied,Utilities,Low Maturity
+6.7,2.1,5,90,4.7,8,92,33,5,Satisfied,Telco,Low Maturity
+7.8,2.1,5,82,3.9,7,86,24,5,Satisfied,Healthcare,Mid Maturity
+7.9,2.8,11,91,3.7,6,86,28,5,Satisfied,Banking,Mid Maturity
+7.8,3,11,87,4.3,6,92,27,5,Satisfied,Sales,Mid Maturity
+6.4,3,11,80,3.9,7,86,29,5,Satisfied,Tech Support,Nascent
+6.4,2.4,5,84,4.5,6,86,24,5,Not Satisfied,Healthcare,Mid Maturity
+7.1,3,5,90,3.8,6,88,23,3,Neutral,Utilities,Mid Maturity
+7.8,2.1,5,80,4.6,9,87,23,5,Satisfied,Telco,Mid Maturity
+7.6,2.8,9,86,3.7,9,86,33,4,Very Satisfied,Tech Support,Mid Maturity
+7.9,3,6,86,3.7,7,89,24,4,Neutral,Telco,Mid Maturity
+7.9,3,11,86,4.4,6,86,33,4,Very Satisfied,Telco,Low Maturity
+6.4,3,11,84,4.4,6,86,26,3,Satisfied,Banking,Low Maturity
+6.4,2.1,11,91,4.5,7,86,23,3,Satisfied,Utilities,Mid Maturity
+7.9,2.7,5,85,3.8,9,90,32,4,Satisfied,Healthcare,Mid Maturity
+6.5,2.3,6,80,3.9,6,92,23,5,Satisfied,Tech Support,Mid Maturity
+7.1,2.2,11,90,3.8,6,92,30,3,Satisfied,Utilities,Low Maturity
+6.4,2.9,10,86,3.7,6,87,33,3,Very Satisfied,Utilities,Low Maturity
+6.4,2.9,11,89,4.7,8,86,23,3,Very Satisfied,Healthcare,Mid Maturity
+7,2.9,9,84,4.1,6,86,27,5,Very Satisfied,Banking,Low Maturity
+6.3,2.5,11,84,4.3,6,92,28,5,Satisfied,Healthcare,Low Maturity
+6.2,3,10,80,4.7,6,86,24,4,Not Satisfied,Sales,Nascent
+6.4,3,11,88,3.7,7,87,33,5,Very Satisfied,Banking,Low Maturity
+6.7,2.3,11,87,4.6,7,90,27,4,Very Satisfied,Telco,Mid Maturity
+7.3,2.2,11,88,4.5,6,86,25,5,Satisfied,Healthcare,Mid Maturity
+6.3,2.3,9,89,4.7,6,86,33,5,Very Satisfied,Tech Support,Low Maturity
+7,3,5,90,3.7,9,86,28,4,Satisfied,Utilities,High Maturity
+6.4,2.6,11,83,4.6,6,88,24,4,Satisfied,Telco,Low Maturity
+7.5,2.1,11,84,4.2,8,90,23,5,Satisfied,Sales,Mid Maturity
+7.8,2.3,5,86,4.2,6,92,33,5,Satisfied,Banking,Low Maturity
+6.4,3,6,80,4.6,6,90,30,3,Satisfied,Telco,Low Maturity
+7.4,2.9,8,84,3.9,8,92,23,3,Neutral,Telco,Mid Maturity
+7.4,3,5,89,4.4,6,92,33,3,Satisfied,Healthcare,Low Maturity
+6.3,2.1,11,89,4.3,7,92,23,5,Satisfied,Healthcare,Mid Maturity
+6.6,2.3,11,89,4.3,6,86,26,3,Satisfied,Healthcare,Mid Maturity
+7,2.1,11,91,3.8,6,86,33,5,Satisfied,Telco,Low Maturity
+7.9,2.1,8,82,4.7,6,91,28,5,Satisfied,Utilities,Low Maturity
+6.3,2.9,11,87,4.5,7,86,24,3,Satisfied,Banking,Mid Maturity
+7.6,2.5,5,88,3.8,6,88,23,4,Satisfied,Utilities,Mid Maturity
+6.5,2.3,9,86,3.7,9,88,24,5,Satisfied,Banking,Mid Maturity
+7.8,2.3,5,88,3.9,6,86,23,5,Neutral,Healthcare,Mid Maturity
+7.8,2.3,5,90,4.7,7,89,24,5,Neutral,Sales,Mid Maturity
+7,3,6,90,3.9,9,92,31,4,Neutral,Tech Support,High Maturity
+7.9,2.2,11,89,4.3,9,86,33,6,Satisfied,Utilities,Mid Maturity
+6.4,3,11,89,4.4,6,86,33,4,Not Satisfied,Utilities,Low Maturity
+7.9,3,11,90,4.6,6,92,33,6,Very Satisfied,Healthcare,Low Maturity
+6.3,3,11,81,4.7,6,92,33,3,Satisfied,Healthcare,Low Maturity
+6.7,2.1,11,88,4.5,6,92,23,3,Satisfied,Banking,Mid Maturity
+7.9,3,11,82,3.8,6,89,23,4,Neutral,Banking,Low Maturity
+6.4,2.1,5,90,4.7,7,86,26,4,Very Satisfied,Banking,Mid Maturity
+7,2.8,5,86,4.6,9,91,23,4,Satisfied,Healthcare,Mid Maturity
+7.3,2.3,5,89,4.6,6,88,26,4,Very Satisfied,Tech Support,Mid Maturity
+7.9,2.3,7,83,3.7,6,86,33,5,Satisfied,Telco,Low Maturity
+7.9,3,11,88,4.7,6,89,28,5,Satisfied,Healthcare,Mid Maturity
+7.5,3,5,89,4.6,6,86,33,4,Neutral,Banking,Low Maturity
+7.9,2.9,5,80,4.6,6,86,33,5,Satisfied,Telco,Nascent
+6.5,3,11,86,4.6,6,92,25,3,Satisfied,Healthcare,Mid Maturity
+6.2,2.3,11,89,4.1,6,86,26,6,Very Satisfied,Banking,Mid Maturity
+7.9,2.1,11,81,4.5,6,92,25,5,Satisfied,Telco,Mid Maturity
+7.8,3,11,90,4.7,8,88,32,3,Neutral,Banking,Low Maturity
+7.1,2.1,11,89,4.4,6,92,26,3,Satisfied,Telco,Mid Maturity
+7.9,3,9,87,4.7,6,86,27,3,Very Satisfied,Sales,Mid Maturity
+7.3,2.8,11,90,3.8,6,90,29,6,Very Satisfied,Sales,Low Maturity
+8,3,11,89,4.6,6,92,25,4,Not Satisfied,Telco,Nascent
+8,3,6,85,4.6,7,92,29,6,Satisfied,Tech Support,Low Maturity
+7.7,3,5,82,3.8,9,92,23,3,Satisfied,Utilities,Mid Maturity
+6.8,2.3,9,86,4.2,6,87,26,5,Satisfied,Sales,Mid Maturity
+6.3,2.1,11,87,4,6,86,23,5,Satisfied,Sales,Mid Maturity
+7.1,3,8,90,4.5,6,86,28,4,Satisfied,Healthcare,Mid Maturity
+6.4,3,11,89,3.7,6,92,33,3,Very Satisfied,Sales,Low Maturity
+6.8,3,9,90,3.7,7,92,23,3,Very Satisfied,Telco,Mid Maturity
+6.4,3,8,87,4.1,7,90,26,4,Satisfied,Healthcare,Mid Maturity
+8,3,7,86,4.7,6,92,27,5,Satisfied,Utilities,Mid Maturity
+8,2.3,5,81,4.6,6,87,27,5,Satisfied,Banking,Mid Maturity
+7.6,2.1,8,87,3.7,6,92,23,4,Very Satisfied,Banking,Mid Maturity
+6.4,2.5,11,80,4.4,9,91,23,4,Very Satisfied,Utilities,Mid Maturity
+7.9,2.4,9,82,4.7,6,89,33,4,Satisfied,Banking,Low Maturity
+6.4,2.9,11,86,4.7,7,87,23,3,Neutral,Sales,Mid Maturity
+7.2,2.6,5,89,4.4,7,92,23,3,Satisfied,Utilities,Mid Maturity
+6.9,2.2,11,89,3.8,6,92,27,3,Neutral,Healthcare,Mid Maturity
+7.6,2.5,11,80,4,6,86,28,4,Satisfied,Tech Support,Nascent
+6.7,2.5,11,90,4.1,7,86,33,4,Satisfied,Telco,Low Maturity
+7.8,2.9,6,90,3.8,6,88,23,6,Neutral,Banking,Mid Maturity
+7.5,3,5,84,4.5,9,92,26,6,Neutral,Banking,Mid Maturity
+6.2,3,11,89,3.8,8,92,26,4,Satisfied,Healthcare,Mid Maturity
+8,3,10,85,3.7,6,86,29,3,Very Satisfied,Healthcare,Nascent
+7.9,2.8,11,82,4.1,9,86,29,4,Satisfied,Sales,Low Maturity
+7.9,2.9,9,82,4.6,6,92,25,4,Very Satisfied,Telco,Low Maturity
+7.9,3,5,89,4.4,9,87,24,5,Satisfied,Sales,Mid Maturity
+6.6,2.3,10,85,4.7,6,91,23,4,Satisfied,Healthcare,Mid Maturity
+7.8,2.4,5,90,4.7,6,92,33,6,Satisfied,Banking,Low Maturity
+7.8,2.8,11,87,4.3,6,92,23,3,Neutral,Banking,Mid Maturity
+6.3,2.2,11,80,4.6,6,92,28,3,Satisfied,Banking,Mid Maturity
+6.5,3,11,90,4.4,8,86,26,5,Satisfied,Utilities,Mid Maturity
+6.4,2.1,5,86,4.2,9,92,23,5,Satisfied,Telco,Mid Maturity
+7.3,3,5,83,4.5,8,86,25,3,Satisfied,Banking,Mid Maturity
+6.5,2.6,8,87,4.3,6,86,33,4,Satisfied,Tech Support,Low Maturity
+6.3,2.5,5,84,4.4,6,86,25,5,Very Satisfied,Banking,Low Maturity
+6.2,2.3,10,81,4.6,6,86,27,3,Satisfied,Healthcare,Mid Maturity
+7.9,2.5,11,84,4.7,7,86,29,6,Neutral,Tech Support,Low Maturity
+7.9,2.7,8,80,3.7,6,86,28,4,Satisfied,Telco,Nascent
+6.2,3,7,88,4.4,6,86,31,3,Neutral,Sales,Low Maturity
+7.4,3,7,90,4,6,86,33,3,Satisfied,Utilities,Low Maturity
+6.4,3,11,90,4.5,8,86,27,4,Neutral,Sales,Mid Maturity
+8,2.7,5,89,3.7,6,92,28,3,Satisfied,Sales,Mid Maturity
+6.4,3,11,90,3.8,8,92,27,4,Neutral,Sales,Mid Maturity
+7.9,2.2,11,90,4.6,6,88,23,5,Satisfied,Healthcare,Mid Maturity
+7.6,2.4,5,85,4.6,9,86,23,5,Satisfied,Banking,Mid Maturity
+7.8,3,8,85,4.3,6,92,33,4,Satisfied,Tech Support,Low Maturity
+8,3,11,85,4.4,7,86,28,4,Very Satisfied,Banking,Nascent
+7.8,3,5,87,3.7,7,87,23,5,Satisfied,Telco,Mid Maturity
+6.4,2.2,5,89,4,8,86,33,3,Satisfied,Healthcare,Low Maturity
+7.9,2.1,5,84,4.6,6,86,33,5,Satisfied,Tech Support,Low Maturity
+7.7,3,10,90,4.5,6,92,33,4,Satisfied,Utilities,Low Maturity
+6.3,3,9,90,4.6,6,92,23,3,Neutral,Banking,Mid Maturity
+8,2.1,5,90,4,6,88,33,3,Very Satisfied,Sales,Low Maturity
+8,3,5,90,3.7,6,90,25,5,Very Satisfied,Banking,Mid Maturity
+7.8,2.1,7,90,4.7,6,89,23,5,Satisfied,Banking,Mid Maturity
+6.8,2.4,9,89,4.5,8,92,31,3,Satisfied,Banking,Low Maturity
+6.9,2.1,7,89,4.5,6,88,29,4,Satisfied,Banking,Low Maturity
+7.9,3,5,89,4.3,6,86,32,3,Satisfied,Banking,Low Maturity
+6.7,2.2,11,85,4.2,8,88,23,4,Very Satisfied,Tech Support,Mid Maturity
+7.3,2.4,8,82,4.4,7,86,33,3,Neutral,Sales,Low Maturity
+8,3,7,80,3.7,6,86,23,6,Neutral,Telco,Nascent
+6.3,2.3,5,84,4.5,6,92,24,3,Not Satisfied,Banking,Mid Maturity
+6.2,3,11,90,3.8,9,92,23,3,Satisfied,Banking,High Maturity
+6.9,3,7,89,3.8,6,91,32,4,Satisfied,Healthcare,Low Maturity
+7.8,3,5,84,4.6,8,92,28,4,Very Satisfied,Tech Support,Mid Maturity
+6.3,2.1,5,85,4.4,6,86,23,4,Satisfied,Healthcare,Mid Maturity
+8,2.6,9,85,3.7,6,88,25,5,Satisfied,Sales,Mid Maturity
+7.9,2.4,6,89,3.8,7,86,32,4,Satisfied,Utilities,Low Maturity
+6.5,2.1,11,82,4.6,7,92,23,5,Satisfied,Utilities,Mid Maturity
+7.6,3,11,84,4.1,9,92,28,3,Satisfied,Banking,Mid Maturity
+8,3,11,89,4.2,7,89,30,3,Very Satisfied,Utilities,Nascent
+6.2,2.4,7,87,4.5,8,92,28,3,Satisfied,Tech Support,Mid Maturity
+7,3,5,84,3.8,8,86,26,4,Neutral,Telco,Mid Maturity
+7.8,3,8,89,3.8,8,91,25,5,Very Satisfied,Healthcare,Mid Maturity
+8,2.7,5,88,3.8,6,89,32,3,Not Satisfied,Sales,Low Maturity
+6.3,2.7,5,80,3.8,9,86,25,4,Very Satisfied,Telco,Nascent
+7.9,2.6,7,87,3.7,6,92,33,3,Neutral,Sales,Low Maturity
+7.9,2.1,11,85,4.3,6,86,23,5,Satisfied,Tech Support,Mid Maturity
+8,2.7,5,84,4,6,88,30,3,Neutral,Telco,Low Maturity
+7.5,2.1,5,86,4.7,6,90,30,4,Very Satisfied,Sales,Low Maturity
+6.4,3,5,85,4.4,9,88,23,4,Satisfied,Utilities,Mid Maturity
+6.8,2.3,11,81,3.7,6,91,30,4,Neutral,Healthcare,Low Maturity
+7.3,3,5,87,4.4,6,89,28,4,Neutral,Telco,Mid Maturity
+7.2,2.3,5,89,4.2,9,86,33,4,Neutral,Telco,Mid Maturity
+7.2,2.7,9,90,4.4,9,86,23,4,Neutral,Telco,High Maturity
+6.4,3,11,85,3.8,6,86,33,3,Neutral,Utilities,Low Maturity
+6.7,2.9,11,89,3.9,6,86,28,5,Satisfied,Banking,Mid Maturity
+6.3,3,5,89,4,6,92,23,3,Very Satisfied,Banking,Mid Maturity
+8,2.5,8,85,4.4,8,92,23,4,Satisfied,Telco,Mid Maturity
+7.9,3,10,88,4,6,86,25,4,Neutral,Telco,Mid Maturity
+8,2.1,11,82,3.8,7,92,23,3,Satisfied,Tech Support,Mid Maturity
+7,3,9,89,4.7,9,92,33,4,Satisfied,Banking,Mid Maturity
+7.8,2.6,5,89,4.7,8,92,23,5,Satisfied,Telco,Mid Maturity
+7.4,2.1,11,90,4.4,8,91,33,4,Very Satisfied,Sales,Low Maturity
+7.9,3,6,85,4.1,8,92,25,4,Neutral,Telco,Mid Maturity
+6.2,2.5,7,87,3.7,6,92,33,5,Neutral,Utilities,Low Maturity
+7.4,2.7,7,81,4.6,6,92,33,3,Very Satisfied,Healthcare,Low Maturity
+6.8,2.6,11,86,4.1,7,92,29,3,Satisfied,Tech Support,Low Maturity
+8,2.3,10,89,4.6,7,86,29,3,Very Satisfied,Telco,Low Maturity
+6.4,2.4,8,86,4,7,88,33,3,Satisfied,Healthcare,Low Maturity
+7.8,2.2,5,81,3.8,8,92,28,4,Satisfied,Tech Support,Mid Maturity
+6.6,2.9,9,90,4.6,9,86,23,3,Neutral,Utilities,High Maturity
+7.7,3,5,90,4.6,6,92,30,6,Satisfied,Sales,Low Maturity
+6.4,2.9,11,89,3.7,9,92,23,5,Very Satisfied,Banking,Mid Maturity
+6.4,2.5,5,89,4.3,7,86,33,3,Neutral,Banking,Low Maturity
+6.4,2.9,11,89,4.2,9,92,33,4,Satisfied,Tech Support,Mid Maturity
+7.7,2.2,7,80,3.8,7,92,23,5,Satisfied,Healthcare,Mid Maturity
+7.8,2.9,11,86,3.7,6,92,23,3,Satisfied,Sales,Mid Maturity
+7.9,3,5,89,4.6,7,86,29,4,Neutral,Healthcare,Low Maturity
+7,2.1,10,90,4.6,6,86,23,4,Very Satisfied,Banking,Mid Maturity
+7.8,2.3,6,89,4.5,6,86,33,3,Satisfied,Healthcare,Low Maturity
+6.4,2.3,9,80,3.8,6,89,26,5,Satisfied,Banking,Mid Maturity
+6.5,3,11,89,4.3,7,92,23,4,Satisfied,Sales,Mid Maturity
+6.4,2.4,8,87,4.1,6,88,25,3,Satisfied,Telco,Mid Maturity
+6.3,3,11,90,4.1,6,92,27,3,Satisfied,Telco,Mid Maturity
+7.9,2.4,6,81,4.5,6,86,32,3,Very Satisfied,Healthcare,Low Maturity
+6.5,2.3,11,84,4.7,6,88,33,3,Neutral,Tech Support,Low Maturity
+6.3,2.4,10,84,4.2,6,92,32,3,Neutral,Tech Support,Low Maturity
+6.9,3,11,80,4,6,86,23,3,Satisfied,Utilities,Nascent
+7.1,2.1,9,83,3.8,9,86,23,6,Neutral,Banking,Mid Maturity
+6.8,2.7,8,84,3.8,6,86,23,6,Neutral,Banking,Low Maturity
+6.2,2.7,9,83,3.8,7,86,23,4,Satisfied,Telco,Mid Maturity
+7.2,3,8,86,3.7,6,86,27,4,Very Satisfied,Telco,Mid Maturity
+6.9,2.2,11,89,4.5,9,92,23,3,Satisfied,Banking,Mid Maturity
+6.5,2.4,5,81,4,8,86,23,3,Satisfied,Sales,Mid Maturity
+8,2.8,6,83,4.7,6,86,33,3,Neutral,Utilities,Low Maturity
+7.9,3,8,84,4.1,7,86,24,4,Neutral,Utilities,Mid Maturity
+7.5,3,9,85,4.1,7,87,33,3,Satisfied,Utilities,Low Maturity
+6.8,3,8,83,4.4,6,89,33,4,Not Satisfied,Telco,Low Maturity
+7.1,3,11,90,3.7,9,88,33,4,Satisfied,Banking,High Maturity
+7.8,2.3,5,81,4.4,6,89,23,4,Satisfied,Tech Support,Mid Maturity
+6.2,2.3,11,87,3.8,6,92,33,6,Very Satisfied,Telco,Low Maturity
+7.6,2.7,11,89,3.7,6,92,33,4,Neutral,Tech Support,Low Maturity
+6.2,2.1,11,84,3.7,6,86,23,4,Satisfied,Telco,Low Maturity
+7.5,2.5,11,88,3.8,6,86,26,3,Very Satisfied,Healthcare,Mid Maturity
+6.3,2.9,5,89,3.8,9,92,23,3,Very Satisfied,Banking,Mid Maturity
+6.8,2.5,5,86,3.8,9,86,23,3,Satisfied,Tech Support,Mid Maturity
+7.9,2.9,5,91,3.9,6,86,25,4,Very Satisfied,Telco,Mid Maturity
+6.9,2.3,11,87,4.6,7,92,24,4,Neutral,Sales,Mid Maturity
+7.8,2.1,11,81,3.8,6,86,23,5,Neutral,Utilities,Mid Maturity
+6.4,2.5,11,87,4.6,6,86,33,3,Satisfied,Telco,Low Maturity
+6.3,2.1,11,89,3.8,6,86,33,4,Neutral,Banking,Low Maturity
+7.4,2.6,11,90,4.4,7,88,28,4,Satisfied,Banking,Mid Maturity
+7,3,11,85,4.2,8,86,33,6,Very Satisfied,Sales,Low Maturity
+7.6,2.6,5,81,4.5,6,92,30,5,Satisfied,Utilities,Low Maturity
+8,3,11,88,3.8,6,86,31,3,Very Satisfied,Utilities,Nascent
+7.9,2.7,7,89,4.7,7,88,23,3,Satisfied,Sales,Mid Maturity
+7.9,2.8,11,82,4.4,6,87,23,3,Neutral,Utilities,Low Maturity
+7.3,2.7,11,80,4.5,9,92,33,4,Satisfied,Healthcare,Low Maturity
+6.4,3,11,81,3.7,6,86,29,3,Satisfied,Healthcare,Low Maturity
+7.8,2.4,11,89,3.8,8,89,23,4,Satisfied,Sales,Mid Maturity
+7.9,2.9,7,90,4.7,6,92,33,5,Very Satisfied,Healthcare,Low Maturity
+7.8,2.1,6,91,4.1,6,92,27,5,Satisfied,Utilities,Mid Maturity
+7,2.3,11,89,4.5,6,87,29,4,Very Satisfied,Healthcare,Low Maturity
+7.8,2.1,11,88,4.6,6,86,33,4,Satisfied,Telco,Low Maturity
+6.9,2.7,5,90,4.4,6,86,33,4,Neutral,Banking,Low Maturity
+7.9,2.6,9,91,3.7,7,89,23,3,Satisfied,Healthcare,Mid Maturity
+7.9,2.7,9,81,3.7,6,92,25,3,Very Satisfied,Telco,Mid Maturity
+7.9,2.8,11,80,3.7,6,87,25,5,Satisfied,Telco,Mid Maturity
+8,2.7,5,89,3.8,6,86,23,3,Satisfied,Healthcare,Mid Maturity
+8,3,11,90,4.6,6,86,33,3,Satisfied,Healthcare,Nascent
+7.9,2.7,5,80,4.5,6,92,33,5,Very Satisfied,Utilities,Low Maturity
+6.2,3,11,82,3.9,6,89,23,5,Neutral,Healthcare,Low Maturity
+7.1,2.3,9,86,4,6,86,23,3,Very Satisfied,Utilities,Mid Maturity
+6.4,2.6,11,80,3.9,8,92,33,4,Satisfied,Banking,Low Maturity
+6.5,2.7,5,87,3.8,7,86,23,3,Satisfied,Banking,Mid Maturity
+7.9,3,11,84,3.8,6,86,33,3,Neutral,Telco,Low Maturity
+6.6,3,8,82,4.7,9,87,28,5,Neutral,Utilities,Mid Maturity
+6.3,2.1,11,87,4.7,6,91,23,6,Neutral,Tech Support,Mid Maturity
+7.9,3,11,86,4.6,6,90,23,5,Satisfied,Tech Support,Mid Maturity
+7.4,3,5,90,4.2,7,92,33,5,Satisfied,Sales,Low Maturity
+6.2,3,8,82,4.7,7,86,26,3,Satisfied,Telco,Mid Maturity
+6.9,3,11,89,3.8,7,87,23,5,Satisfied,Banking,Mid Maturity
+8,2.2,5,90,3.7,6,92,31,5,Neutral,Sales,Low Maturity
+6.7,3,5,89,3.7,6,86,23,5,Satisfied,Healthcare,Mid Maturity
+6.5,2.3,6,90,3.8,7,91,32,3,Satisfied,Telco,Low Maturity
+7.9,2.7,11,89,4.7,6,91,33,5,Neutral,Banking,Low Maturity
+8,2.4,11,88,4.5,6,91,33,3,Satisfied,Healthcare,Low Maturity
+7.9,2.9,5,82,4.5,7,90,32,5,Satisfied,Banking,Low Maturity
+6.4,2.1,11,91,4.4,6,89,31,5,Neutral,Tech Support,Low Maturity
+7.8,3,11,90,3.8,6,92,23,5,Satisfied,Banking,Mid Maturity
+8,2.2,5,88,3.8,6,88,31,3,Satisfied,Utilities,Low Maturity
+6.8,3,8,90,3.8,6,86,23,4,Neutral,Sales,Mid Maturity
+6.4,2.9,11,89,4.5,7,92,23,4,Neutral,Healthcare,Mid Maturity
+6.4,2.4,10,90,4.5,7,86,33,4,Satisfied,Banking,Low Maturity
+6.4,2.3,11,82,3.8,9,92,24,4,Satisfied,Utilities,Mid Maturity
+7.5,2.6,5,83,4.4,8,92,27,3,Satisfied,Tech Support,Mid Maturity
+6.4,3,11,90,3.8,6,86,30,4,Satisfied,Tech Support,Low Maturity
+7.9,3,11,81,4.2,6,86,27,4,Satisfied,Banking,Mid Maturity
+7.9,3,8,85,4.7,6,86,33,3,Not Satisfied,Utilities,Low Maturity
+6.3,3,5,87,4.3,6,86,33,3,Satisfied,Banking,Low Maturity
+6.7,2.1,9,91,3.7,6,87,23,3,Neutral,Telco,Mid Maturity
+7.9,2.5,11,84,4,6,86,23,3,Very Satisfied,Telco,Low Maturity
+6.5,3,11,89,4.4,7,92,23,3,Satisfied,Utilities,Mid Maturity
+7.3,2.7,11,90,4.4,6,86,33,3,Not Satisfied,Telco,Low Maturity
+6.7,2.1,5,83,4.4,8,88,24,5,Neutral,Sales,Mid Maturity
+7.3,3,6,89,3.9,6,87,33,4,Satisfied,Tech Support,Low Maturity
+7.5,3,5,83,3.8,6,86,24,3,Satisfied,Utilities,Low Maturity
+7.2,2.4,11,89,3.8,8,92,33,3,Satisfied,Tech Support,Low Maturity
+6.5,2.9,5,90,4.7,6,92,33,3,Satisfied,Healthcare,Low Maturity
+6.6,2.5,11,90,4.6,8,89,26,5,Neutral,Banking,Mid Maturity
+7.6,2.6,11,81,4,7,90,26,4,Satisfied,Utilities,Mid Maturity
+7.8,2.2,5,86,4.7,6,86,25,4,Satisfied,Tech Support,Mid Maturity
+7.2,3,6,88,3.7,7,86,27,4,Satisfied,Telco,Mid Maturity
+7.9,2.1,5,85,4.7,7,92,27,3,Neutral,Telco,Mid Maturity
+6.4,2.3,11,86,4.5,8,92,28,4,Satisfied,Utilities,Mid Maturity
+7.4,2.1,11,88,4.6,6,92,23,3,Satisfied,Sales,Mid Maturity
+7.7,3,11,82,3.7,6,86,23,4,Satisfied,Utilities,Low Maturity
+6.2,2.1,8,86,4.4,6,92,33,4,Not Satisfied,Tech Support,Low Maturity
+6.2,3,11,84,3.8,6,86,26,4,Satisfied,Healthcare,Low Maturity
+6.9,2.5,8,82,4.4,6,92,30,3,Satisfied,Tech Support,Low Maturity
+8,2.2,6,86,3.8,6,92,33,3,Very Satisfied,Healthcare,Low Maturity
+7,2.5,5,89,3.9,8,91,23,4,Neutral,Tech Support,Mid Maturity
+7.8,2.8,5,87,4,7,92,23,5,Satisfied,Tech Support,Mid Maturity
+7.8,3,5,88,3.8,6,87,33,4,Satisfied,Sales,Low Maturity
+6.4,2.6,11,81,4.2,6,86,23,4,Satisfied,Banking,Mid Maturity
+7.6,3,11,89,4.6,8,90,29,4,Satisfied,Tech Support,Low Maturity
+7.9,2.5,11,90,3.8,6,90,23,5,Satisfied,Banking,Mid Maturity
+8,2.9,11,80,3.8,6,86,23,4,Satisfied,Banking,Nascent
+7.9,3,8,90,4.2,6,86,23,5,Not Satisfied,Telco,Mid Maturity
+6.3,2.1,8,85,3.8,6,86,23,3,Neutral,Banking,Mid Maturity
+6.2,3,11,89,3.7,8,89,23,4,Neutral,Banking,Mid Maturity
+6.5,2.5,11,81,4.5,6,92,23,4,Very Satisfied,Sales,Mid Maturity
+7.9,2.3,11,81,3.7,6,87,23,5,Neutral,Banking,Mid Maturity
+7.9,3,8,84,4,7,86,23,3,Very Satisfied,Utilities,Mid Maturity
+7.8,2.7,8,85,4.2,8,89,25,4,Satisfied,Sales,Mid Maturity
+6.3,2.8,5,80,3.8,6,89,26,4,Very Satisfied,Tech Support,Mid Maturity
+7.8,3,8,83,3.7,7,92,23,5,Satisfied,Banking,Mid Maturity
+7,2.1,5,89,3.8,6,86,24,4,Satisfied,Utilities,Mid Maturity
+7.2,3,8,80,3.8,7,92,28,6,Very Satisfied,Healthcare,Mid Maturity
+7.3,2.8,5,90,4.7,7,92,23,3,Satisfied,Healthcare,Mid Maturity
+6.3,2.2,11,81,4.7,7,92,27,3,Very Satisfied,Banking,Mid Maturity
+6.3,2.1,10,89,4.7,7,92,25,4,Satisfied,Telco,Mid Maturity
+7.8,3,11,84,4.4,6,90,25,5,Neutral,Telco,Low Maturity
+6.8,2.1,5,90,3.8,9,88,29,3,Satisfied,Telco,High Maturity
+6.9,2.5,6,81,4.7,8,86,33,3,Satisfied,Telco,Low Maturity
+6.7,2.1,9,86,4.2,6,86,28,4,Very Satisfied,Healthcare,Mid Maturity
+6.3,2.1,5,85,4.4,6,92,33,4,Not Satisfied,Sales,Low Maturity
+7.9,3,5,83,4.7,9,86,23,5,Satisfied,Tech Support,Mid Maturity
+7.8,3,7,81,3.7,6,87,23,4,Neutral,Telco,Mid Maturity
+6.6,3,11,89,3.9,7,92,23,5,Very Satisfied,Utilities,Mid Maturity
+6.4,2.2,8,90,4.5,7,86,23,4,Satisfied,Telco,Mid Maturity
+6.7,2.3,7,82,4.2,8,88,28,5,Satisfied,Banking,Mid Maturity
+7.5,2.1,5,89,4.6,7,86,23,5,Very Satisfied,Utilities,Mid Maturity
+7.3,2.1,11,81,3.7,8,92,24,4,Satisfied,Sales,Mid Maturity
+7.7,3,8,89,4.6,6,92,33,5,Satisfied,Banking,Low Maturity
+6.4,2.1,8,85,4.6,6,86,33,4,Satisfied,Utilities,Low Maturity
+6.5,2.7,11,85,4.1,7,92,27,3,Satisfied,Utilities,Mid Maturity
+7.1,2.6,6,89,4.2,8,92,33,4,Very Satisfied,Banking,Low Maturity
+7.9,2.3,11,85,4.2,8,86,33,4,Very Satisfied,Telco,Low Maturity
+6.4,2.1,11,84,4.4,7,92,33,4,Satisfied,Telco,Low Maturity
+7.4,2.3,11,89,3.8,6,86,33,5,Neutral,Telco,Low Maturity
+7.8,2.8,5,87,3.9,9,86,24,6,Satisfied,Utilities,Mid Maturity
+8,2.7,6,81,3.7,6,92,23,3,Not Satisfied,Healthcare,Mid Maturity
+7.8,3,6,81,4.6,6,86,31,6,Satisfied,Healthcare,Low Maturity
+6.9,3,5,81,3.9,9,92,33,4,Neutral,Healthcare,Low Maturity
+7.9,2.9,5,90,3.8,9,86,25,6,Satisfied,Telco,High Maturity
+6.3,2.9,10,85,3.8,6,92,33,4,Very Satisfied,Utilities,Low Maturity
+7.3,3,11,83,3.7,6,86,33,4,Neutral,Sales,Low Maturity
+6.9,2.7,5,87,4.7,6,86,23,5,Neutral,Tech Support,Mid Maturity
+8,2.4,9,84,4.2,6,86,23,3,Satisfied,Utilities,Low Maturity
+6.6,2.4,6,90,3.7,6,86,23,4,Satisfied,Sales,Mid Maturity
+7.6,3,5,90,3.7,8,89,29,3,Neutral,Utilities,Low Maturity
+7.9,3,11,90,4.1,6,91,33,3,Very Satisfied,Banking,Low Maturity
+6.8,2.6,11,90,3.7,6,90,28,3,Neutral,Banking,Mid Maturity
+6.4,3,11,87,3.8,6,92,33,5,Neutral,Banking,Low Maturity
+7,2.9,7,83,4,6,86,23,4,Satisfied,Healthcare,Low Maturity
+6.5,2.6,11,81,3.7,8,86,24,6,Satisfied,Utilities,Mid Maturity
+7.5,2.6,11,80,4.3,6,87,23,5,Satisfied,Utilities,Mid Maturity
+6.2,3,5,89,3.8,6,86,33,4,Satisfied,Tech Support,Low Maturity
+6.2,2.1,11,82,4.7,6,90,26,4,Neutral,Banking,Low Maturity
+7.8,2.5,11,87,4.3,6,86,33,3,Satisfied,Sales,Low Maturity
+6.4,2.1,7,89,3.9,7,92,28,3,Very Satisfied,Tech Support,Mid Maturity
+7.2,2.4,11,89,4.3,6,92,28,5,Neutral,Sales,Mid Maturity
+6.4,3,5,85,4.1,6,89,23,3,Not Satisfied,Utilities,Mid Maturity
+6.4,3,9,84,3.8,6,86,23,4,Neutral,Telco,Low Maturity
+6.8,2.8,6,85,3.7,6,88,24,4,Neutral,Sales,Mid Maturity
+7.9,3,6,90,3.8,6,90,30,3,Neutral,Sales,Low Maturity
+7.3,2.8,11,90,3.8,6,91,24,5,Very Satisfied,Sales,Mid Maturity
+7.9,2.5,11,84,4.3,7,86,23,4,Neutral,Sales,Mid Maturity
+6.4,3,5,88,4.6,6,86,26,3,Satisfied,Tech Support,Mid Maturity
+7.7,3,7,81,3.7,8,92,27,5,Very Satisfied,Utilities,Mid Maturity
+7.2,2.2,11,84,4.2,6,86,23,4,Not Satisfied,Banking,Mid Maturity
+6.8,3,11,89,4.4,6,92,23,4,Satisfied,Utilities,Mid Maturity
+6.3,2.2,11,90,3.7,6,91,23,3,Satisfied,Telco,Mid Maturity
+6.3,2.1,9,86,4.3,6,86,33,5,Very Satisfied,Sales,Low Maturity
+7.9,2.4,6,90,3.7,6,92,26,5,Very Satisfied,Healthcare,Mid Maturity
+6.8,2.6,7,82,4.1,6,86,26,3,Satisfied,Utilities,Low Maturity
+7.3,3,7,89,3.8,8,88,23,4,Satisfied,Telco,Mid Maturity
+6.3,2.9,8,88,4.3,7,91,23,3,Satisfied,Sales,Mid Maturity
+7.8,2.5,11,82,4.7,6,92,23,5,Neutral,Tech Support,Low Maturity
+6.5,2.7,11,84,4.7,8,86,28,5,Very Satisfied,Tech Support,Mid Maturity
+8,3,11,89,3.8,8,86,33,4,Very Satisfied,Sales,Nascent
+6.9,2.2,9,87,4.7,7,86,26,4,Satisfied,Utilities,Mid Maturity
+7.9,3,11,86,4,6,86,33,3,Satisfied,Tech Support,Low Maturity
+6.3,2.5,5,90,4.3,7,86,26,3,Satisfied,Banking,Mid Maturity
+7.5,2.5,10,89,4.3,6,86,24,5,Satisfied,Utilities,Mid Maturity
+7.9,2.2,11,80,4.6,6,86,33,5,Neutral,Healthcare,Nascent
+7.9,3,11,88,3.8,6,92,33,3,Very Satisfied,Utilities,Low Maturity
+6.7,2.4,11,83,3.8,6,86,29,5,Satisfied,Telco,Low Maturity
+7.8,2.4,7,89,4.5,9,92,31,5,Satisfied,Banking,Mid Maturity
+6.4,2.1,11,80,4.3,9,86,28,3,Neutral,Tech Support,Nascent
+8,2.3,11,80,4.6,7,92,30,3,Neutral,Healthcare,Low Maturity
+6.8,2.7,5,89,3.7,7,86,28,5,Satisfied,Banking,Mid Maturity
+7.5,2.4,7,87,3.8,9,92,33,3,Very Satisfied,Utilities,Mid Maturity
+6.7,2.1,11,88,4.6,6,88,33,5,Neutral,Telco,Low Maturity
+6.3,2.6,5,90,4.4,9,86,23,5,Neutral,Banking,High Maturity
+8,3,10,82,3.8,7,92,28,4,Neutral,Telco,Nascent
+6.4,2.2,5,86,3.8,6,91,23,4,Not Satisfied,Sales,Mid Maturity
+6.4,2.3,5,90,4.6,6,86,28,3,Very Satisfied,Telco,Mid Maturity
+7.5,2.1,7,81,4.5,6,89,33,4,Neutral,Tech Support,Low Maturity
+6.4,3,11,90,4.7,9,86,23,6,Satisfied,Tech Support,High Maturity
+6.6,2.1,8,90,4.4,7,86,24,3,Satisfied,Sales,Mid Maturity
+7.8,2.5,11,90,4.6,6,86,29,6,Satisfied,Healthcare,Low Maturity
+7,2.1,5,88,4.2,6,92,33,3,Satisfied,Tech Support,Low Maturity
+6.3,2.1,5,84,4.5,6,92,23,3,Neutral,Telco,Low Maturity
+7,2.8,5,85,3.8,6,92,23,4,Very Satisfied,Sales,Mid Maturity
+7.3,2.9,7,89,3.7,6,86,23,3,Neutral,Banking,Mid Maturity
+6.4,2.8,11,89,4.6,6,92,23,5,Satisfied,Tech Support,Mid Maturity
+6.5,3,10,88,4,6,92,23,3,Not Satisfied,Banking,Mid Maturity
+7.8,2.1,5,91,4.7,6,86,29,4,Very Satisfied,Telco,Low Maturity
+7.4,3,8,84,4.4,6,86,23,5,Satisfied,Banking,Low Maturity
+6.8,3,7,81,4.3,9,86,23,3,Very Satisfied,Tech Support,Mid Maturity
+6.8,2.5,5,88,4.3,7,86,25,4,Neutral,Telco,Mid Maturity
+7.3,2.9,5,89,3.7,6,88,26,3,Satisfied,Banking,Mid Maturity
+6.7,2.8,5,83,4.5,6,86,23,5,Satisfied,Banking,Low Maturity
+6.7,3,11,81,3.7,6,89,26,4,Satisfied,Telco,Mid Maturity
+7.8,2.5,5,83,3.8,9,92,33,5,Satisfied,Tech Support,Low Maturity
+6.7,2.6,5,82,3.8,6,92,33,4,Satisfied,Utilities,Low Maturity
+7.9,2.2,6,90,4.3,6,92,29,5,Satisfied,Telco,Low Maturity
+7.9,2.2,11,85,4.4,7,92,24,4,Satisfied,Tech Support,Mid Maturity
+7.9,2.8,9,90,4.6,6,86,26,4,Neutral,Utilities,Mid Maturity
+7.4,3,7,89,4.6,6,92,23,4,Neutral,Banking,Mid Maturity
+6.3,2.1,9,89,4.4,9,86,26,3,Satisfied,Sales,Mid Maturity
+7.3,2.2,5,82,4.5,6,92,23,3,Satisfied,Sales,Low Maturity
+7.2,2.8,11,90,4.7,6,92,33,4,Neutral,Healthcare,Low Maturity
+7.9,3,10,83,3.7,6,88,24,6,Satisfied,Telco,Low Maturity
+6.4,3,6,90,4.6,7,86,24,3,Neutral,Sales,Mid Maturity
+6.5,2.6,8,80,3.7,7,92,30,6,Satisfied,Healthcare,Low Maturity
+6.7,3,9,87,3.7,6,89,28,4,Neutral,Tech Support,Mid Maturity
+7.1,2.2,10,90,3.8,6,89,25,6,Neutral,Tech Support,Mid Maturity
+6.8,2.1,6,89,4.6,6,86,26,3,Satisfied,Banking,Mid Maturity
+6.8,2.1,7,80,4.6,6,92,23,3,Satisfied,Healthcare,Mid Maturity
+7.9,2.6,11,89,3.8,6,86,23,4,Satisfied,Healthcare,Mid Maturity
+7.1,3,5,89,4.5,6,92,25,5,Neutral,Healthcare,Mid Maturity
+6.4,3,5,88,4,7,87,26,3,Neutral,Utilities,Mid Maturity
+8,2.2,6,88,4.7,6,89,29,4,Very Satisfied,Tech Support,Low Maturity
+6.5,2.5,11,80,3.8,7,90,33,5,Satisfied,Healthcare,Low Maturity
+7,2.5,9,90,4.2,6,86,23,6,Satisfied,Telco,Mid Maturity
+6.2,2.1,10,89,4.1,8,92,26,4,Very Satisfied,Telco,Mid Maturity
+8,2.8,7,81,4.4,7,92,23,5,Satisfied,Sales,Mid Maturity
+6.8,2.4,11,90,4.6,6,92,25,4,Satisfied,Utilities,Mid Maturity
+7.9,2.6,6,86,3.7,6,86,33,3,Neutral,Tech Support,Low Maturity
+7.9,2.4,5,85,4.6,6,86,33,4,Not Satisfied,Telco,Low Maturity
+6.2,3,5,86,4.6,6,91,23,4,Satisfied,Sales,Mid Maturity
+7.8,3,5,81,4.6,7,86,33,4,Neutral,Banking,Low Maturity
+6.2,2.2,11,90,4.3,6,86,32,4,Neutral,Healthcare,Low Maturity
+6.5,2.9,11,86,3.8,7,90,33,5,Satisfied,Banking,Low Maturity
+7.9,2.2,9,82,4.6,9,87,23,3,Satisfied,Sales,Mid Maturity
+7.7,3,11,86,4.7,7,92,23,4,Neutral,Tech Support,Mid Maturity
+6.2,2.8,9,89,4.6,6,86,23,5,Very Satisfied,Tech Support,Mid Maturity
+6.4,2.6,5,85,4.4,6,86,26,4,Satisfied,Banking,Mid Maturity
+7.8,2.7,5,88,4.7,8,92,25,3,Satisfied,Tech Support,Mid Maturity
+8,3,5,88,4.7,8,86,23,5,Neutral,Tech Support,Mid Maturity
+7,2.7,11,90,3.7,6,92,23,4,Very Satisfied,Utilities,Mid Maturity
+6.9,2.1,8,85,4,9,92,24,4,Satisfied,Banking,Mid Maturity
+7.9,2.4,5,90,4.2,9,92,23,4,Satisfied,Tech Support,High Maturity
+7.9,2.7,11,85,3.7,6,86,33,3,Neutral,Telco,Low Maturity
+6.9,2.1,11,90,3.8,6,86,23,4,Neutral,Banking,Mid Maturity
+6.4,3,5,81,4.6,7,90,23,4,Neutral,Telco,Mid Maturity
+7.9,2.1,8,90,4.1,6,91,27,3,Neutral,Telco,Mid Maturity
+7.2,2.1,5,85,3.7,7,92,33,5,Satisfied,Banking,Low Maturity
+7.5,2.5,7,81,3.7,7,87,28,5,Neutral,Healthcare,Mid Maturity
+7.8,2.2,6,85,4.6,9,86,28,4,Satisfied,Utilities,Mid Maturity
+6.5,2.5,11,89,4.2,6,92,23,3,Satisfied,Telco,Mid Maturity
+7.9,2.1,8,86,3.8,6,89,23,5,Satisfied,Telco,Mid Maturity
+7.3,3,11,86,3.9,7,86,28,3,Satisfied,Sales,Mid Maturity
+7.1,2.3,11,81,4,6,86,23,5,Satisfied,Telco,Mid Maturity
+7.9,2.1,5,89,4.1,7,86,28,5,Satisfied,Telco,Mid Maturity
+8,2.2,10,86,4.6,6,88,23,4,Not Satisfied,Utilities,Mid Maturity
+7.9,2.7,11,87,4,7,86,33,3,Satisfied,Banking,Low Maturity
+7.8,3,11,90,3.9,6,92,24,4,Satisfied,Healthcare,Mid Maturity
+7.9,3,9,89,4,6,87,33,4,Very Satisfied,Banking,Low Maturity
+8,2.9,9,87,4.7,7,88,23,3,Satisfied,Healthcare,Mid Maturity
+6.4,3,7,85,4.1,7,87,25,3,Satisfied,Tech Support,Mid Maturity
+7.9,3,5,89,3.7,6,86,29,3,Satisfied,Telco,Low Maturity
+6.4,2.8,11,89,4.1,7,92,23,3,Satisfied,Tech Support,Mid Maturity
+7.6,3,11,85,3.8,6,86,23,5,Neutral,Utilities,Mid Maturity
+7.6,2.5,11,88,4.7,6,92,28,4,Neutral,Utilities,Mid Maturity
+7.8,3,5,90,4.4,6,90,29,6,Satisfied,Healthcare,Low Maturity
+7,3,5,90,3.9,9,86,23,4,Neutral,Tech Support,High Maturity
+6.5,2.5,11,84,3.8,7,92,25,4,Satisfied,Telco,Mid Maturity
+7.3,2.7,5,83,3.7,7,92,26,4,Satisfied,Banking,Mid Maturity
+7.8,2.8,11,84,4.5,7,86,23,5,Neutral,Sales,Mid Maturity
+6.4,2.3,11,89,4.6,6,92,23,4,Very Satisfied,Tech Support,Mid Maturity
+6.7,2.7,8,89,3.7,6,86,28,4,Not Satisfied,Tech Support,Mid Maturity
+7.9,2.2,7,85,4.5,9,90,31,3,Satisfied,Banking,Mid Maturity
+6.6,3,11,84,4.6,8,92,33,4,Very Satisfied,Healthcare,Low Maturity
+6.2,3,11,90,4.4,6,92,27,6,Satisfied,Sales,Mid Maturity
+7.9,3,6,89,4.5,6,92,33,4,Neutral,Healthcare,Low Maturity
+7,3,11,86,4.6,6,86,33,3,Very Satisfied,Tech Support,Low Maturity
+7.9,2.8,5,86,4.7,8,89,27,4,Neutral,Healthcare,Mid Maturity
+8,2.1,11,82,3.7,7,92,33,4,Satisfied,Telco,Low Maturity
+8,2.2,11,81,3.8,7,92,33,3,Satisfied,Utilities,Low Maturity
+7.9,3,6,89,4.5,7,86,23,6,Satisfied,Tech Support,Mid Maturity
+7.8,2.2,11,84,4.6,7,92,31,4,Very Satisfied,Healthcare,Low Maturity
+7.4,2.9,11,81,4.1,7,92,33,4,Very Satisfied,Sales,Low Maturity
+7.5,3,7,89,3.8,6,86,33,6,Very Satisfied,Sales,Low Maturity
+7.2,3,11,90,4.3,6,88,30,4,Neutral,Healthcare,Low Maturity
+7.2,2.6,9,84,4.3,6,92,23,5,Satisfied,Tech Support,Low Maturity
+7.8,2.6,5,82,3.8,6,92,33,4,Very Satisfied,Tech Support,Low Maturity
+7.8,2.9,5,80,4.6,8,92,30,4,Satisfied,Utilities,Low Maturity
+7.5,2.2,5,89,3.7,6,91,30,4,Satisfied,Sales,Low Maturity
+6.3,2.2,11,80,3.8,7,92,25,5,Satisfied,Banking,Mid Maturity
+7.8,3,8,80,3.8,8,87,29,4,Very Satisfied,Telco,Low Maturity
+7.8,2.6,6,86,3.8,6,92,30,6,Not Satisfied,Healthcare,Low Maturity
+6.4,3,5,90,4.3,6,90,33,3,Neutral,Banking,Low Maturity
+8,2.3,7,87,4.5,6,86,29,4,Satisfied,Banking,Low Maturity
+7.7,2.4,11,85,4.6,7,88,30,5,Satisfied,Utilities,Low Maturity
+6.4,2.6,5,90,4.4,8,92,25,5,Neutral,Healthcare,Mid Maturity
+6.2,3,11,87,4,6,92,26,4,Satisfied,Telco,Mid Maturity
+7.8,2.4,7,85,4.7,8,86,25,3,Neutral,Tech Support,Mid Maturity
+7.9,2.5,9,81,3.8,8,86,26,3,Satisfied,Banking,Mid Maturity
+6.3,3,10,90,4.2,6,91,23,3,Very Satisfied,Banking,Mid Maturity
+7,3,5,82,4.6,6,86,23,4,Satisfied,Utilities,Low Maturity
+6.2,2.8,11,82,4.5,6,92,28,3,Satisfied,Sales,Low Maturity
+6.4,2.6,9,84,4,6,86,23,3,Satisfied,Telco,Low Maturity
+8,2.2,8,85,4.7,8,92,24,4,Satisfied,Healthcare,Mid Maturity
+7.9,3,6,90,3.7,6,86,26,5,Neutral,Banking,Mid Maturity
+6.3,2.7,11,88,4.7,7,86,23,3,Neutral,Healthcare,Mid Maturity
+7.9,3,11,88,3.7,6,92,26,5,Satisfied,Healthcare,Mid Maturity
+8,2.9,5,81,3.7,6,92,33,3,Neutral,Tech Support,Low Maturity
+6.4,2.5,5,88,3.7,9,86,23,3,Neutral,Utilities,Mid Maturity
+6.4,3,11,85,4.1,9,86,23,3,Very Satisfied,Tech Support,Mid Maturity
+7.8,2.3,6,83,3.9,7,92,23,3,Satisfied,Banking,Mid Maturity
+6.3,2.7,11,80,4.2,8,87,29,5,Very Satisfied,Healthcare,Low Maturity
+6.4,2.3,11,90,4.6,8,86,28,4,Very Satisfied,Healthcare,Mid Maturity
+6.2,3,6,90,4.1,6,86,23,4,Not Satisfied,Healthcare,Mid Maturity
+8,3,11,89,4.7,6,89,23,4,Not Satisfied,Tech Support,Nascent
+7.5,3,9,90,4,6,92,29,5,Satisfied,Healthcare,Low Maturity
+6.4,2.9,11,83,4.3,8,92,33,3,Satisfied,Sales,Low Maturity
+7.9,3,9,83,4.4,9,88,23,4,Very Satisfied,Utilities,Mid Maturity
+7.9,3,11,90,3.7,6,92,27,3,Satisfied,Utilities,Mid Maturity
+8,2.1,11,88,3.7,6,92,28,4,Satisfied,Healthcare,Mid Maturity
+7.2,3,8,90,4.7,6,87,29,5,Very Satisfied,Banking,Low Maturity
+7.6,2.8,5,89,3.8,9,90,28,5,Satisfied,Banking,Mid Maturity
+7.7,3,5,89,4.7,7,92,33,3,Satisfied,Tech Support,Low Maturity
+6.8,2.5,11,90,4.2,6,88,33,5,Neutral,Utilities,Low Maturity
+7.5,2.6,5,87,4.7,6,86,33,3,Satisfied,Telco,Low Maturity
+6.8,3,6,90,4.3,7,86,33,4,Satisfied,Sales,Low Maturity
+6.4,3,11,80,4.2,7,86,23,5,Satisfied,Tech Support,Nascent
+7.2,3,7,87,3.7,7,88,30,4,Very Satisfied,Banking,Low Maturity
+7.9,2.9,11,88,3.8,6,86,28,5,Satisfied,Banking,Mid Maturity
+6.4,2.6,11,85,4.7,6,86,33,3,Satisfied,Tech Support,Low Maturity
+7.8,2.1,11,90,3.9,7,86,25,4,Satisfied,Healthcare,Mid Maturity
+6.5,3,10,85,4.6,6,86,23,5,Satisfied,Telco,Mid Maturity
+8,2.7,5,86,4,6,92,33,3,Satisfied,Tech Support,Low Maturity
+8,3,11,90,3.7,6,88,33,5,Very Satisfied,Healthcare,Nascent
+6.2,2.1,5,89,4.7,7,90,27,4,Neutral,Sales,Mid Maturity
+6.5,2.7,5,85,4,6,89,23,4,Very Satisfied,Telco,Mid Maturity
+7,2.3,11,86,3.8,6,92,33,5,Satisfied,Utilities,Low Maturity
+6.3,2.5,5,90,4.7,6,92,26,3,Neutral,Sales,Mid Maturity
+7,3,11,80,3.9,8,86,23,5,Satisfied,Banking,Nascent
+6.2,3,7,90,3.7,9,90,29,6,Very Satisfied,Tech Support,High Maturity
+8,2.1,8,87,4.6,6,92,27,4,Neutral,Telco,Mid Maturity
+6.3,2.1,5,80,4.2,9,89,33,5,Very Satisfied,Utilities,Low Maturity
+7.8,3,5,84,4.6,7,86,31,4,Satisfied,Banking,Low Maturity
+6.4,2.8,10,86,3.7,6,86,30,4,Neutral,Utilities,Low Maturity
+7.8,2.9,5,81,4.7,9,92,23,4,Very Satisfied,Healthcare,Mid Maturity
+7.8,3,5,90,4.7,9,86,32,6,Satisfied,Telco,High Maturity
+6.9,3,11,82,3.8,6,91,32,4,Satisfied,Banking,Low Maturity
+6.3,2.4,8,90,3.8,6,86,27,3,Satisfied,Healthcare,Mid Maturity
+7.9,2.6,7,90,4.6,6,92,33,3,Very Satisfied,Banking,Low Maturity
+7.8,2.1,6,84,4.6,6,89,33,4,Very Satisfied,Telco,Low Maturity
+6.5,2.2,11,86,4.6,6,91,33,3,Satisfied,Utilities,Low Maturity
+8,2.2,8,90,4.3,8,90,23,3,Very Satisfied,Healthcare,Mid Maturity
+6.2,3,5,90,4.6,9,92,27,5,Very Satisfied,Utilities,High Maturity
+7.2,2.1,7,81,4.6,6,92,26,3,Satisfied,Telco,Mid Maturity
+6.9,2.3,5,88,4,6,90,31,6,Satisfied,Banking,Low Maturity
+7,3,11,86,4.2,7,86,23,4,Very Satisfied,Tech Support,Mid Maturity
+7.4,3,6,84,4.1,6,86,25,4,Neutral,Telco,Low Maturity
+7.9,3,9,90,4.2,6,92,25,5,Neutral,Healthcare,Mid Maturity
+6.3,3,11,90,4,6,92,29,3,Satisfied,Healthcare,Low Maturity
+7,2.1,11,90,4.6,6,92,27,5,Neutral,Banking,Mid Maturity
+7.8,3,8,89,3.7,6,86,23,6,Very Satisfied,Banking,Mid Maturity
+6.3,3,5,82,4.4,9,92,26,4,Satisfied,Telco,Mid Maturity
+7.9,2.1,5,86,4.2,6,87,23,5,Satisfied,Utilities,Mid Maturity
+6.3,2.1,9,90,4.6,6,91,28,3,Satisfied,Tech Support,Mid Maturity
+7.8,3,5,89,4.4,6,92,23,4,Satisfied,Banking,Mid Maturity
+6.4,3,11,85,4,6,86,23,6,Neutral,Telco,Mid Maturity
+6.6,2.4,11,81,4.2,7,86,29,3,Neutral,Healthcare,Low Maturity
+7.5,3,9,83,4.1,6,89,24,4,Satisfied,Utilities,Low Maturity
+6.2,2.1,9,83,4.2,6,92,27,4,Satisfied,Banking,Low Maturity
+6.5,2.7,7,82,4.4,8,92,32,6,Very Satisfied,Banking,Low Maturity
+7.4,2.2,7,85,4.1,9,92,30,4,Very Satisfied,Telco,Mid Maturity
+7.6,3,5,89,4.7,6,86,32,5,Satisfied,Utilities,Low Maturity
+6.2,2.6,10,88,3.8,6,86,28,4,Very Satisfied,Sales,Mid Maturity
+7.9,2.2,6,85,4.7,6,92,25,4,Not Satisfied,Banking,Mid Maturity
+6.5,2.1,5,89,4.6,9,86,27,3,Neutral,Utilities,Mid Maturity
+6.4,3,7,83,3.7,9,92,24,4,Satisfied,Telco,Mid Maturity
+7,2.8,5,82,3.8,6,92,23,4,Neutral,Healthcare,Low Maturity
+7.9,2.1,5,90,3.8,6,89,24,3,Very Satisfied,Healthcare,Mid Maturity
+7.5,2.5,9,82,3.8,6,86,29,3,Satisfied,Sales,Low Maturity
+6.3,3,5,89,3.8,9,87,23,4,Neutral,Utilities,Mid Maturity
+6.3,2.9,11,84,3.9,6,86,27,4,Very Satisfied,Tech Support,Low Maturity
+6.4,3,5,89,4.7,6,86,28,4,Neutral,Sales,Mid Maturity
+7.2,2.1,10,86,4.6,6,92,23,3,Satisfied,Banking,Mid Maturity
+6.7,2.2,11,81,4.6,7,92,33,4,Satisfied,Telco,Low Maturity
+6.4,3,6,85,4.4,9,86,23,3,Very Satisfied,Telco,Mid Maturity
+7.9,3,11,89,4.4,6,92,33,4,Satisfied,Sales,Low Maturity
+7.9,3,7,89,4.6,9,86,27,4,Satisfied,Utilities,Mid Maturity
+7.1,2.5,10,89,4.6,6,86,23,5,Satisfied,Banking,Mid Maturity
+8,2.3,5,85,4.6,6,90,23,4,Satisfied,Tech Support,Mid Maturity
+6.7,3,8,90,3.8,8,86,30,5,Satisfied,Banking,Low Maturity
+6.4,3,11,90,4.1,6,89,23,5,Satisfied,Telco,Mid Maturity
+6.5,2.1,11,88,4.5,6,86,33,4,Very Satisfied,Tech Support,Low Maturity
+7.8,2.9,7,89,3.9,6,86,23,6,Satisfied,Banking,Mid Maturity
+6.7,2.8,5,83,3.7,6,86,23,5,Very Satisfied,Sales,Low Maturity
+7.9,2.1,11,88,3.8,9,92,30,6,Neutral,Telco,Mid Maturity
+8,2.1,11,80,4.6,7,91,27,5,Neutral,Healthcare,Mid Maturity
+6.5,2.1,11,86,3.7,6,92,25,4,Very Satisfied,Tech Support,Mid Maturity
+6.2,2.5,11,85,4.7,6,86,33,3,Neutral,Tech Support,Low Maturity
+7.9,2.7,6,81,4,6,86,33,3,Neutral,Utilities,Low Maturity
+7.9,2.1,8,82,3.9,6,88,25,3,Very Satisfied,Telco,Low Maturity
+7.6,2.4,8,90,3.9,8,87,23,3,Satisfied,Banking,Mid Maturity
+7.1,3,11,90,4.1,6,86,28,4,Very Satisfied,Telco,Mid Maturity
+7.7,3,11,86,4.7,6,89,23,5,Very Satisfied,Banking,Mid Maturity
+6.8,2.8,11,80,4.5,6,86,33,6,Neutral,Tech Support,Nascent
+6.2,3,7,90,4.2,7,86,33,3,Very Satisfied,Banking,Low Maturity
+6.3,3,10,90,3.9,7,92,24,5,Satisfied,Healthcare,Mid Maturity
+6.6,2.4,5,86,4.4,6,86,24,3,Neutral,Sales,Mid Maturity
+6.3,2.9,11,89,4.5,8,87,27,3,Satisfied,Healthcare,Mid Maturity
+7.4,3,10,81,4.3,6,92,23,4,Satisfied,Banking,Mid Maturity
+7.3,2.3,6,86,4.6,6,86,33,5,Satisfied,Banking,Low Maturity
+6.5,2.1,11,82,3.7,6,86,32,4,Satisfied,Telco,Low Maturity
+6.2,2.5,5,89,4.7,8,92,30,3,Very Satisfied,Healthcare,Low Maturity
+7.2,3,7,81,4.5,6,92,26,3,Satisfied,Tech Support,Mid Maturity
+8,2.1,6,82,4.1,6,86,28,4,Not Satisfied,Telco,Mid Maturity
+8,3,5,91,3.9,6,86,25,4,Satisfied,Healthcare,Mid Maturity
+6.7,3,5,90,4.3,6,92,23,4,Satisfied,Healthcare,Mid Maturity
+7.8,2.3,5,84,3.8,7,92,23,3,Neutral,Healthcare,Mid Maturity
+6.2,3,9,86,3.7,6,92,33,3,Satisfied,Sales,Low Maturity
+7.9,2.1,5,87,4.3,6,86,33,6,Satisfied,Utilities,Low Maturity
+6.3,3,8,87,4.1,9,90,33,5,Very Satisfied,Banking,Mid Maturity
+6.4,2.1,11,87,3.7,6,92,27,4,Not Satisfied,Utilities,Mid Maturity
+6.7,2.7,5,85,4.2,8,89,27,3,Neutral,Healthcare,Mid Maturity
+6.8,3,11,89,4.6,6,86,33,3,Not Satisfied,Healthcare,Low Maturity
+7.6,2.3,5,81,4.7,6,86,32,3,Neutral,Sales,Low Maturity
+7.8,3,5,91,3.8,6,89,33,5,Satisfied,Telco,Low Maturity
+8,2.8,5,86,4.5,7,86,29,5,Very Satisfied,Sales,Low Maturity
+7.9,2.3,11,85,4.1,6,86,24,4,Satisfied,Sales,Mid Maturity
+6.6,2.3,11,87,4.6,7,92,23,4,Neutral,Sales,Mid Maturity
+6.5,2.3,8,86,3.7,6,86,23,4,Very Satisfied,Tech Support,Mid Maturity
+7.8,2.2,8,80,4.1,7,92,33,4,Neutral,Telco,Low Maturity
+6.4,2.7,11,85,4.5,6,86,33,3,Satisfied,Sales,Low Maturity
+6.7,3,11,86,4.3,6,86,23,3,Satisfied,Healthcare,Mid Maturity
+7.9,2.4,7,90,4.4,6,86,33,3,Not Satisfied,Utilities,Low Maturity
+7.9,3,11,89,4.5,6,87,23,4,Neutral,Telco,Mid Maturity
+6.2,2.2,5,89,4,6,91,23,3,Satisfied,Healthcare,Mid Maturity
+6.7,3,7,87,4.4,6,92,33,4,Satisfied,Utilities,Low Maturity
+6.3,3,5,85,4,6,91,23,4,Very Satisfied,Telco,Mid Maturity
+6.8,2.1,5,89,4.7,6,86,28,5,Neutral,Healthcare,Mid Maturity
+7.9,2.1,11,86,4.6,6,86,27,5,Not Satisfied,Utilities,Mid Maturity
+7.9,3,9,80,4.5,7,86,23,5,Satisfied,Tech Support,Nascent
+7.8,2.1,11,89,4.4,8,92,32,5,Satisfied,Utilities,Low Maturity
+6.9,2.2,5,88,4.6,7,86,33,4,Very Satisfied,Tech Support,Low Maturity
+6.9,2.5,5,82,3.8,6,86,23,3,Neutral,Tech Support,Low Maturity
+7.3,3,7,80,4.7,6,86,23,5,Not Satisfied,Utilities,Nascent
+7.9,2.8,11,86,3.8,8,86,26,6,Very Satisfied,Banking,Mid Maturity
+7.8,2.1,11,90,3.7,6,86,24,3,Not Satisfied,Tech Support,Mid Maturity
+6.2,3,7,90,3.7,6,92,28,3,Very Satisfied,Telco,Mid Maturity
+6.3,2.9,11,86,4.5,8,86,23,5,Satisfied,Tech Support,Mid Maturity
+7.9,3,11,88,4.1,7,86,29,4,Satisfied,Tech Support,Low Maturity
+8,2.9,7,88,3.7,6,92,33,3,Very Satisfied,Healthcare,Low Maturity
+7.9,3,11,89,4,6,92,24,6,Satisfied,Banking,Mid Maturity
+7.9,3,5,89,3.7,7,86,23,4,Satisfied,Utilities,Mid Maturity
+7.9,2.7,9,81,4.3,8,92,23,5,Very Satisfied,Banking,Mid Maturity
+6.5,2.2,8,89,3.7,7,88,24,3,Satisfied,Telco,Mid Maturity
+7.3,3,9,83,3.8,6,92,24,5,Satisfied,Healthcare,Low Maturity
+7.8,2.8,8,83,4,7,91,28,3,Very Satisfied,Healthcare,Mid Maturity
+6.5,2.4,11,90,3.8,8,86,23,4,Satisfied,Tech Support,Mid Maturity
+6.6,3,5,80,4.6,9,88,25,3,Satisfied,Telco,Mid Maturity
+7.4,2.9,11,83,3.8,6,92,29,5,Neutral,Banking,Low Maturity
+7.5,2.8,11,89,3.8,9,86,23,4,Very Satisfied,Utilities,Mid Maturity
+6.3,3,11,90,3.8,6,86,25,5,Satisfied,Telco,Mid Maturity
+6.8,2.9,11,87,3.8,7,92,23,4,Neutral,Banking,Mid Maturity
+7.1,2.8,5,89,4.7,8,92,23,4,Very Satisfied,Utilities,Mid Maturity
+6.6,2.1,5,83,4.3,6,92,33,3,Neutral,Tech Support,Low Maturity
+7.9,3,6,80,4.3,7,87,26,3,Satisfied,Utilities,Mid Maturity
+7.9,3,11,80,3.7,7,92,30,3,Neutral,Sales,Low Maturity
+6.3,2.7,5,81,3.7,7,87,33,5,Satisfied,Tech Support,Low Maturity
+6.8,2.2,9,87,3.9,6,92,23,5,Not Satisfied,Telco,Mid Maturity
+6.3,2.9,5,89,4.6,7,92,32,4,Neutral,Telco,Low Maturity
+6.4,3,7,88,4.4,6,86,29,4,Very Satisfied,Healthcare,Low Maturity
+6.5,2.5,11,90,3.7,6,92,29,3,Satisfied,Healthcare,Low Maturity
+6.6,2.2,6,80,4.2,6,92,30,3,Satisfied,Healthcare,Low Maturity
+7.8,2.6,11,83,3.8,6,86,25,4,Neutral,Sales,Low Maturity
+6.9,3,8,90,3.8,7,87,27,6,Satisfied,Sales,Mid Maturity
+7.2,2.2,11,82,4.6,6,86,26,4,Very Satisfied,Utilities,Low Maturity
+7.9,2.5,5,89,4.7,7,89,27,4,Neutral,Banking,Mid Maturity
+7.6,2.2,11,85,4.3,6,92,29,5,Neutral,Banking,Low Maturity
+7.9,3,11,91,4.1,9,92,23,4,Very Satisfied,Sales,High Maturity
+8,3,11,89,3.8,6,86,33,3,Satisfied,Banking,Nascent
+7.8,2.4,11,84,4,6,92,27,6,Satisfied,Sales,Low Maturity
+8,2.3,7,84,3.8,6,89,32,4,Satisfied,Sales,Low Maturity
+7,2.3,5,89,4.4,6,87,23,4,Very Satisfied,Healthcare,Mid Maturity
+7.3,2.2,7,91,4.5,7,87,27,5,Very Satisfied,Telco,Mid Maturity
+6.4,2.1,7,90,4.7,6,89,25,3,Very Satisfied,Tech Support,Mid Maturity
+7,3,11,88,3.7,6,92,23,3,Neutral,Sales,Mid Maturity
+7.3,3,5,83,4.6,6,86,29,4,Satisfied,Tech Support,Low Maturity
+6.3,2.1,5,82,4.1,7,86,29,3,Satisfied,Telco,Low Maturity
+6.5,3,5,82,4.3,6,86,33,3,Neutral,Utilities,Low Maturity
+8,3,8,83,3.8,8,87,25,5,Satisfied,Utilities,Mid Maturity
+8,3,7,85,4.5,7,92,33,3,Satisfied,Tech Support,Low Maturity
+7.3,3,11,84,4.6,8,90,33,5,Very Satisfied,Healthcare,Low Maturity
+7.3,3,11,86,4,6,86,23,4,Satisfied,Banking,Mid Maturity
+6.5,3,11,89,4.1,8,92,24,4,Satisfied,Tech Support,Mid Maturity
+6.6,2.1,11,80,4,6,89,23,4,Not Satisfied,Telco,Mid Maturity
+7.9,2.1,7,90,3.8,8,90,23,6,Neutral,Healthcare,Mid Maturity
+7.8,3,11,80,4.2,6,86,28,4,Neutral,Healthcare,Nascent
+6.5,2.8,5,81,3.7,6,91,23,4,Very Satisfied,Healthcare,Mid Maturity
+6.4,2.2,7,80,4.6,8,92,28,4,Satisfied,Banking,Mid Maturity
+6.4,2.8,5,90,4.1,9,92,27,6,Satisfied,Telco,High Maturity
+6.4,2.2,11,87,4.6,6,92,25,3,Neutral,Sales,Mid Maturity
+7.4,3,5,84,4.7,6,89,23,5,Very Satisfied,Tech Support,Low Maturity
+6.4,2.2,5,80,4.2,8,86,24,4,Neutral,Banking,Nascent
+6.8,2.2,9,88,4.6,9,87,24,3,Satisfied,Telco,Mid Maturity
+7.9,2.6,11,89,4.6,6,86,33,3,Satisfied,Banking,Low Maturity
+6.4,2.1,5,80,4.5,7,87,27,6,Very Satisfied,Sales,Mid Maturity
+7.9,3,9,85,4.5,7,92,25,3,Very Satisfied,Healthcare,Mid Maturity
+6.4,2.5,5,91,3.8,6,92,33,3,Satisfied,Healthcare,Low Maturity
+7.9,3,7,85,3.8,6,86,27,4,Satisfied,Healthcare,Mid Maturity
+7.8,2.3,11,81,3.7,6,88,26,4,Neutral,Sales,Mid Maturity
+7.9,3,6,90,3.8,9,86,23,5,Satisfied,Utilities,High Maturity
+7.8,2.5,5,86,4.7,6,92,25,4,Satisfied,Telco,Mid Maturity
+7.9,3,5,84,3.7,6,89,23,3,Not Satisfied,Banking,Mid Maturity
+7.9,2.2,11,81,4.7,9,92,23,4,Satisfied,Utilities,Mid Maturity
+7.2,3,9,81,4.7,6,92,32,4,Satisfied,Banking,Low Maturity
+7.9,2.9,11,90,4.7,7,92,23,3,Neutral,Tech Support,Mid Maturity
+6.5,3,7,86,3.8,7,92,29,4,Very Satisfied,Tech Support,Low Maturity
+7.8,2.1,10,85,4.5,7,92,32,5,Neutral,Healthcare,Low Maturity
+6.4,3,8,82,3.7,6,92,33,4,Very Satisfied,Telco,Low Maturity
+7.9,3,5,89,4.5,6,92,23,5,Satisfied,Utilities,Mid Maturity
+7.3,2.2,5,88,4.7,7,86,31,3,Neutral,Healthcare,Low Maturity
+8,2.8,11,84,3.8,6,92,33,6,Neutral,Telco,Low Maturity
+6.3,3,5,89,4.3,9,92,26,4,Satisfied,Utilities,Mid Maturity
+6.8,2.8,11,88,4.5,6,89,23,4,Satisfied,Healthcare,Mid Maturity
+7.9,2.1,5,80,4.7,6,86,33,4,Satisfied,Healthcare,Nascent
+7.2,2.3,7,90,4.7,6,86,26,5,Satisfied,Banking,Mid Maturity
+6.2,2.1,5,82,4.3,7,92,23,5,Satisfied,Banking,Mid Maturity
+7.4,2.9,5,84,3.7,7,86,33,3,Very Satisfied,Sales,Low Maturity
+7.6,2.3,5,85,4.6,9,92,33,4,Satisfied,Telco,Mid Maturity
+6.8,3,11,91,4,6,86,23,5,Satisfied,Healthcare,Mid Maturity
+7.2,3,9,87,3.8,6,92,28,4,Neutral,Telco,Mid Maturity
+6.2,2.9,11,88,4.1,6,92,23,4,Satisfied,Utilities,Mid Maturity
+7.8,3,5,84,4.6,6,92,23,4,Satisfied,Healthcare,Low Maturity
+6.5,2.6,11,89,3.8,7,92,27,6,Neutral,Utilities,Mid Maturity
+7.9,2.5,8,82,4.5,7,86,33,6,Very Satisfied,Telco,Low Maturity
+8,2.7,11,87,4,7,89,33,3,Satisfied,Banking,Low Maturity
+6.4,3,6,89,3.8,8,90,23,3,Neutral,Banking,Mid Maturity
+7.8,3,5,89,3.8,6,92,33,5,Satisfied,Tech Support,Low Maturity
+6.9,3,5,88,4.1,7,86,27,4,Neutral,Tech Support,Mid Maturity
+7.1,2.4,11,86,3.8,6,91,23,6,Not Satisfied,Banking,Mid Maturity
+6.2,3,11,89,3.7,7,92,30,4,Satisfied,Banking,Low Maturity
+6.8,3,5,86,4,6,92,30,3,Very Satisfied,Utilities,Low Maturity
+7.3,2.2,10,89,4.7,6,92,24,5,Satisfied,Utilities,Mid Maturity
+7.6,2.2,7,90,4.2,6,88,33,3,Satisfied,Banking,Low Maturity
+6.8,3,10,80,4.7,6,87,26,3,Neutral,Sales,Mid Maturity
+8,2.6,11,90,3.8,6,86,32,6,Satisfied,Healthcare,Low Maturity
+7.8,2.1,11,90,3.7,6,86,29,3,Satisfied,Telco,Low Maturity
+6.4,2.3,11,88,4.6,6,86,31,4,Satisfied,Utilities,Low Maturity
+6.5,3,11,90,3.7,6,90,23,4,Satisfied,Utilities,Mid Maturity
+7.9,3,10,84,4.6,6,89,24,3,Satisfied,Sales,Low Maturity
+6.4,2.9,11,82,3.7,7,89,23,5,Neutral,Utilities,Mid Maturity
+6.3,3,5,90,4.1,6,92,23,3,Satisfied,Tech Support,Mid Maturity
+6.7,3,5,89,3.7,6,91,24,3,Neutral,Tech Support,Mid Maturity
+6.4,2.1,9,88,4.1,8,90,27,3,Very Satisfied,Utilities,Mid Maturity
+7.9,3,5,88,3.8,9,86,29,5,Satisfied,Tech Support,Mid Maturity
+6.7,3,11,85,4.3,6,86,26,3,Not Satisfied,Healthcare,Mid Maturity
+6.6,3,11,89,4.5,6,87,27,5,Satisfied,Banking,Mid Maturity
+7,3,11,82,4.5,6,92,33,3,Very Satisfied,Banking,Low Maturity
+7,2.4,5,80,4,7,92,30,4,Very Satisfied,Utilities,Low Maturity
+7.9,2.1,11,85,4,6,86,23,3,Neutral,Utilities,Mid Maturity
+6.6,2.7,7,91,3.8,7,89,23,3,Satisfied,Sales,Mid Maturity
+7.4,3,9,91,4.7,8,86,31,5,Satisfied,Tech Support,Low Maturity
+6.4,2.7,5,84,3.8,7,86,33,5,Very Satisfied,Banking,Low Maturity
+7.9,3,11,90,4.4,7,92,33,4,Neutral,Healthcare,Low Maturity
+7.9,2.4,11,81,4.3,6,86,28,5,Very Satisfied,Telco,Mid Maturity
+6.5,2.5,11,88,4.3,6,89,32,5,Satisfied,Utilities,Low Maturity
+7.7,3,11,81,3.8,6,86,23,4,Very Satisfied,Healthcare,Mid Maturity
+8,2.1,11,90,4.2,6,92,23,3,Neutral,Healthcare,Mid Maturity
+6.2,3,5,90,4.2,8,86,31,6,Satisfied,Telco,Low Maturity
+7.9,3,11,85,4.7,6,92,33,3,Satisfied,Banking,Low Maturity
+6.4,2.9,11,88,3.7,6,86,31,5,Satisfied,Sales,Low Maturity
+7.1,2.9,5,90,4.7,6,89,23,4,Neutral,Banking,Mid Maturity
+6.5,2.3,11,86,4,6,87,26,3,Satisfied,Tech Support,Mid Maturity
+8,2.8,11,80,4.4,8,86,29,5,Neutral,Banking,Nascent
+6.9,3,5,87,4.7,9,86,29,6,Satisfied,Healthcare,Mid Maturity
+7.9,2.3,11,88,3.8,6,92,28,3,Not Satisfied,Sales,Mid Maturity
+8,2.3,11,89,3.8,6,86,23,5,Satisfied,Banking,Mid Maturity
+7.9,2.8,11,89,3.9,7,91,23,4,Very Satisfied,Utilities,Mid Maturity
+8,2.1,6,89,3.7,6,86,27,6,Satisfied,Utilities,Mid Maturity
+7.4,2.1,11,91,4.2,6,88,26,5,Neutral,Sales,Mid Maturity
+7,3,5,80,3.9,8,92,23,4,Very Satisfied,Banking,Mid Maturity
+6.3,3,8,80,4.6,6,89,33,3,Neutral,Healthcare,Low Maturity
+6.3,3,11,82,4.2,6,92,28,5,Neutral,Utilities,Low Maturity
+6.5,2.8,10,86,3.9,6,86,23,3,Satisfied,Tech Support,Mid Maturity
+7.5,2.8,6,80,3.7,6,89,33,5,Very Satisfied,Telco,Low Maturity
+6.4,3,11,87,4,6,86,24,3,Satisfied,Utilities,Mid Maturity
+6.4,3,5,82,4.6,6,89,23,3,Very Satisfied,Tech Support,Low Maturity
+8,3,6,89,4.3,8,92,25,4,Neutral,Banking,Mid Maturity
+6.3,2.9,10,80,3.8,7,92,33,3,Neutral,Telco,Low Maturity
+8,2.5,10,90,3.9,6,86,23,3,Neutral,Telco,Mid Maturity
+7.8,2.5,11,84,4.7,6,86,33,4,Not Satisfied,Utilities,Low Maturity
+6.2,2.3,5,83,4,6,86,28,4,Very Satisfied,Tech Support,Low Maturity
+6.4,2.1,5,85,3.7,9,86,33,3,Very Satisfied,Healthcare,Mid Maturity
+6.4,3,5,89,3.8,7,88,29,3,Satisfied,Sales,Low Maturity
+6.4,2.1,5,84,4.7,6,86,33,4,Very Satisfied,Banking,Low Maturity
+8,2.1,5,88,4.7,7,92,26,4,Very Satisfied,Utilities,Mid Maturity
+6.7,2.9,11,90,4.6,6,87,25,5,Satisfied,Tech Support,Mid Maturity
+8,2.1,5,84,3.7,9,89,24,3,Satisfied,Utilities,Mid Maturity
+6.5,2.5,9,89,4.4,6,89,23,4,Satisfied,Tech Support,Mid Maturity
+6.5,3,7,84,4.7,8,92,26,4,Satisfied,Tech Support,Mid Maturity
+6.5,2.1,11,83,4.5,7,92,23,3,Satisfied,Banking,Mid Maturity
+6.7,3,6,80,4.5,6,88,33,4,Satisfied,Sales,Low Maturity
+7.6,3,5,87,3.8,9,86,28,5,Neutral,Tech Support,Mid Maturity
+8,2.2,7,88,4.7,6,92,27,4,Neutral,Healthcare,Mid Maturity
+6.6,2.4,5,81,4.3,9,86,32,4,Satisfied,Healthcare,Low Maturity
+7.2,3,8,89,3.8,7,86,33,4,Very Satisfied,Utilities,Low Maturity
+8,3,5,89,3.8,6,92,25,3,Satisfied,Telco,Mid Maturity
+6.4,3,11,90,3.8,6,91,28,6,Satisfied,Banking,Mid Maturity
+8,2.5,11,80,4.7,8,92,29,5,Very Satisfied,Tech Support,Low Maturity
+6.2,2.9,5,83,3.7,6,87,33,5,Very Satisfied,Tech Support,Low Maturity
+6.6,2.4,11,81,4.7,9,87,23,4,Satisfied,Tech Support,Mid Maturity
+6.4,3,9,89,4.6,7,88,23,4,Neutral,Banking,Mid Maturity
+6.4,2.3,11,80,3.9,6,92,23,5,Neutral,Sales,Mid Maturity
+7.2,3,6,90,3.8,6,86,31,5,Not Satisfied,Utilities,Low Maturity
+6.4,2.9,5,82,4,6,92,28,5,Not Satisfied,Banking,Mid Maturity
+7.5,2.1,11,86,4.7,6,92,23,3,Satisfied,Banking,Mid Maturity
+7.5,2.9,7,89,4.7,6,88,33,3,Very Satisfied,Healthcare,Low Maturity
+6.3,2.8,10,90,3.7,9,88,32,3,Neutral,Telco,High Maturity
+7.5,3,5,89,4,6,92,23,3,Satisfied,Tech Support,Mid Maturity
+6.7,2.1,5,91,3.7,6,87,25,4,Satisfied,Banking,Mid Maturity
+7.9,2.4,11,90,4.6,8,92,33,3,Neutral,Sales,Low Maturity
+6.3,3,5,89,4.3,6,91,23,6,Neutral,Healthcare,Mid Maturity
+8,2.6,8,88,3.8,7,92,26,3,Satisfied,Healthcare,Mid Maturity
+6.4,3,11,90,4.7,6,90,26,4,Satisfied,Banking,Mid Maturity
+6.7,2.3,11,90,4.7,9,87,32,4,Satisfied,Telco,High Maturity
+8,2.8,8,89,3.8,6,92,27,5,Satisfied,Utilities,Mid Maturity
+7.1,2.8,5,87,3.7,6,92,29,5,Neutral,Healthcare,Low Maturity
+7.9,3,5,82,4.1,6,86,33,4,Very Satisfied,Banking,Low Maturity
+7.2,3,5,85,4.7,6,92,24,5,Neutral,Telco,Mid Maturity
+7.8,3,8,89,3.7,6,92,29,4,Satisfied,Healthcare,Low Maturity
+6.4,2.6,5,91,4.6,9,86,33,3,Very Satisfied,Telco,High Maturity
+6.3,2.1,11,80,4.6,9,86,27,4,Neutral,Sales,Nascent
+8,2.4,11,82,4.1,6,92,30,5,Satisfied,Tech Support,Low Maturity
+7.4,3,11,82,4.5,6,86,27,4,Satisfied,Utilities,Low Maturity
+7.8,3,5,87,3.8,6,86,33,3,Satisfied,Healthcare,Low Maturity
+7.8,2.5,11,87,4.2,6,92,23,6,Not Satisfied,Sales,Mid Maturity
+7.8,3,7,80,4.3,9,87,27,5,Neutral,Banking,Mid Maturity
+7.2,2.6,11,88,4.1,9,89,33,6,Satisfied,Healthcare,Mid Maturity
+7.4,2.1,7,89,4.6,9,86,23,4,Satisfied,Banking,Mid Maturity
+6.5,2.1,5,91,4.5,6,87,23,3,Satisfied,Utilities,Mid Maturity
+6.4,3,11,89,4,6,87,26,4,Satisfied,Sales,Mid Maturity
+6.8,3,11,80,3.7,6,86,28,4,Satisfied,Telco,Nascent
