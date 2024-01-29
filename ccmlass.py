@@ -109,10 +109,10 @@ input_data = pd.DataFrame({
 
 # Predict Maturity Level
 predicted_maturity_level = loaded_model.predict(input_data)[0]
-st.subheader(f"**Predicted Maturity Level:** {predicted_maturity_level}")
+st.caption(f"**Predicted Maturity Level:** {predicted_maturity_level}")
 
 # Display Probability Distribution with Maturity Levels
-st.subheader("Probability Distribution of Maturity Levels")
+st.caption("Probability Distribution of Maturity Levels")
 probabilities = loaded_model.predict_proba(input_data)[0]
 maturity_levels = loaded_model.classes_
 fig, ax = plt.subplots()
