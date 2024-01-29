@@ -112,7 +112,7 @@ predicted_maturity_level = loaded_model.predict(input_data)[0]
 st.write(f"**Predicted Maturity Level:** {predicted_maturity_level}")
 
 # Display Probability Distribution with Maturity Levels
-st.title("Probability Distribution of Maturity Levels")
+st.header("Probability Distribution of Maturity Levels")
 probabilities = loaded_model.predict_proba(input_data)[0]
 maturity_levels = loaded_model.classes_
 fig, ax = plt.subplots()
