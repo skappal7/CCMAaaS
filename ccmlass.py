@@ -75,7 +75,7 @@ st.sidebar.markdown("- The graph shows the probability distribution for each Mat
 
 # Model Accuracy in percentage with bold and large size
 st.text(f'Model Accuracy: **{accuracy*100:.0f}%**')
-st.header("Select Variables")
+st.subheader("Select Variables")
 
 # Sliders for user input
 aht = st.slider("Average Handling Time (AHT)", min_value=0, max_value=int(data['AHT (min)'].max()), value=0)
@@ -109,10 +109,10 @@ input_data = pd.DataFrame({
 
 # Predict Maturity Level
 predicted_maturity_level = loaded_model.predict(input_data)[0]
-st.write(f"**Predicted Maturity Level:** {predicted_maturity_level}")
+st.subheader(f"**Predicted Maturity Level:** {predicted_maturity_level}")
 
 # Display Probability Distribution with Maturity Levels
-st.header("Probability Distribution of Maturity Levels")
+st.subheader("Probability Distribution of Maturity Levels")
 probabilities = loaded_model.predict_proba(input_data)[0]
 maturity_levels = loaded_model.classes_
 fig, ax = plt.subplots()
