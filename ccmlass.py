@@ -70,15 +70,15 @@ st.sidebar.text(f'Model Accuracy: **{accuracy*100:.0f}%**')
 st.title("Select Variables")
 
 # Sliders for user input
-aht = st.slider("Average Handling Time (AHT)", min_value=0, max_value=data['AHT (min)'].max(), value=0)
-ntt = st.slider("Non-Talk Time (NTT)", min_value=0, max_value=data['NTT (min)'].max(), value=0)
-cross_talk = st.slider("Cross Talk (%)", min_value=0, max_value=data['Cross Talk (%)'].max(), value=0)
-csat = st.slider("CSAT (%)", min_value=0, max_value=data['CSAT (%)'].max(), value=0)
+aht = st.slider("Average Handling Time (AHT)", min_value=0, max_value=int(data['AHT (min)'].max()), value=0)
+ntt = st.slider("Non-Talk Time (NTT)", min_value=0, max_value=int(data['NTT (min)'].max()), value=0)
+cross_talk = st.slider("Cross Talk (%)", min_value=0, max_value=int(data['Cross Talk (%)'].max()), value=0)
+csat = st.slider("CSAT (%)", min_value=0, max_value=int(data['CSAT (%)'].max()), value=0)
 sentiment = st.slider("Sentiment Score", min_value=1, max_value=10, value=5)
-nps = st.slider("NPS Score", min_value=0, max_value=data['NPS Score'].max(), value=0)
-fcr = st.slider("FCR (%)", min_value=0, max_value=data['FCR (%)'].max(), value=0)
-asa = st.slider("Avg Speed of Answer (sec)", min_value=0, max_value=data['Avg Speed of Answer (sec)'].max(), value=0)
-abandonment_rate = st.slider("Abandonment Rate (%)", min_value=0, max_value=data['Abandonment Rate (%)'].max(), value=0)
+nps = st.slider("NPS Score", min_value=0, max_value=int(data['NPS Score'].max()), value=0)
+fcr = st.slider("FCR (%)", min_value=0, max_value=int(data['FCR (%)'].max()), value=0)
+asa = st.slider("Avg Speed of Answer (sec)", min_value=0, max_value=int(data['Avg Speed of Answer (sec)'].max()), value=0)
+abandonment_rate = st.slider("Abandonment Rate (%)", min_value=0, max_value=int(data['Abandonment Rate (%)'].max()), value=0)
 
 # Dropdown for Medallia Survey Result and Industry
 with st.sidebar:
